@@ -1,0 +1,480 @@
+{
+  "run_at": "2026-10-12T10:31:07.391850",
+  "total_cases": 16,
+  "deterministic_pass": 14,
+  "deterministic_pass_rate": 0.875,
+  "llm_judge_pass": 9,
+  "llm_judge_pass_rate": 0.562,
+  "results": [
+    {
+      "id": "E01",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "15\\s*(calendar\\s*)?days?": true
+      },
+      "facts_in_retrieved": {
+        "15\\s*(calendar\\s*)?days?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "The return window for electronics is strictly 15 calendar days from the verified delivery date. (source: category-electronics.md)",
+      "llm_judge": {
+        "grounded": true,
+        "hallucinations": [],
+        "cites_source": true,
+        "verdict": "PASS",
+        "reason": "The answer accurately reflects the electronics return window from the context and cites the source."
+      },
+      "retrieved_sources": [
+        "category-electronics.md",
+        "returns-policy.md",
+        "category-apparel.md",
+        "category-home-kitchen.md"
+      ]
+    },
+    {
+      "id": "E02",
+      "type": "fact",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "non-?returnable": true
+      },
+      "facts_in_retrieved": {
+        "non-?returnable": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "All grocery items sold on the Kartway marketplace are strictly non-returnable, and agents are prohibited from issuing return shipping labels or requesting that customers ship grocery items back. (source: category-groceries.md)",
+      "llm_judge": {
+        "grounded": true,
+        "hallucinations": [],
+        "cites_source": true,
+        "verdict": "PASS",
+        "reason": "The answer accurately reflects the context stating that all grocery items are strictly non-returnable and cites the source."
+      },
+      "retrieved_sources": [
+        "returns-policy.md",
+        "category-groceries.md",
+        "category-groceries.md",
+        "category-groceries.md"
+      ]
+    },
+    {
+      "id": "E03",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "\u20b9\\s*2[,.]?000": true,
+        "\\b2,?000\\b": true
+      },
+      "facts_in_retrieved": {
+        "\u20b9\\s*2[,.]?000": true,
+        "\\b2,?000\\b": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "The automated Kartway customer operations system is hard-capped at an absolute maximum auto-approval threshold of **\u20b92,000**. (source: refund-authority.md)",
+      "llm_judge": {
+        "grounded": false,
+        "hallucinations": [
+          "The automated Kartway customer operations system"
+        ],
+        "cites_source": true,
+        "verdict": "FAIL",
+        "reason": "The answer includes external information ('Kartway customer operations system') not found in the context."
+      },
+      "retrieved_sources": [
+        "refund-authority.md",
+        "refund-authority.md",
+        "refund-authority.md",
+        "escalation-tone.md"
+      ]
+    },
+    {
+      "id": "E04",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "45\\s*(calendar\\s*)?days?": true
+      },
+      "facts_in_retrieved": {
+        "45\\s*(calendar\\s*)?days?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "The standard return window for apparel is **45 calendar days** from the verified delivery date. (source: category-apparel.md)",
+      "llm_judge": {
+        "grounded": true,
+        "hallucinations": [],
+        "cites_source": true,
+        "verdict": "PASS",
+        "reason": "The answer accurately reflects the context and includes the source filename."
+      },
+      "retrieved_sources": [
+        "category-apparel.md",
+        "returns-policy.md",
+        "category-apparel.md",
+        "category-home-kitchen.md"
+      ]
+    },
+    {
+      "id": "E05",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "17\\.5\\s*%": true,
+        "17\\.5%": true
+      },
+      "facts_in_retrieved": {
+        "17\\.5\\s*%": true,
+        "17\\.5%": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "A mandatory restocking fee of **17.5%** is deducted from the merchandise refund amount on all approved non-defective Beauty category returns. (source: category-beauty.md)",
+      "llm_judge": {
+        "grounded": true,
+        "hallucinations": [],
+        "cites_source": true,
+        "verdict": "PASS",
+        "reason": "The answer accurately reflects the restocking fee percentage for beauty products from the context and cites a source."
+      },
+      "retrieved_sources": [
+        "category-beauty.md",
+        "category-apparel.md",
+        "category-home-kitchen.md",
+        "category-furniture.md"
+      ]
+    },
+    {
+      "id": "E06",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "3\\s*years?": true
+      },
+      "facts_in_retrieved": {
+        "3\\s*years?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "All furniture sold on the Kartway marketplace carries a minimum manufacturer-backed warranty period of **3 years** from the date of purchase (source: category-furniture.md). Additionally, Category B Large Home Appliances & Furniture have a standard coverage of **two (2) years** parts and labor (source: warranty-policy.md).",
+      "llm_judge": {
+        "grounded": false,
+        "hallucinations": [
+          "Category B Large Home Appliances & Furniture have a standard coverage of two (2) years parts and labor",
+          "source: category-furniture.md",
+          "source: warranty-policy.md"
+        ],
+        "cites_source": true,
+        "verdict": "FAIL",
+        "reason": "The answer includes claims about Category B appliances and specific source filenames that are not present in the provided context."
+      },
+      "retrieved_sources": [
+        "category-furniture.md",
+        "warranty-policy.md",
+        "category-apparel.md",
+        "category-groceries.md"
+      ]
+    },
+    {
+      "id": "E07",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "7\\s*(consecutive\\s*)?(calendar\\s*)?days?": true
+      },
+      "facts_in_retrieved": {
+        "7\\s*(consecutive\\s*)?(calendar\\s*)?days?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "A domestic metro shipment cannot be declared \"Lost-in-Transit\" until a mandatory waiting period of 7 consecutive calendar days has elapsed without a definitive tracking scan update. (source: shipping-policy.md)",
+      "llm_judge": {
+        "grounded": true,
+        "hallucinations": [],
+        "cites_source": true,
+        "verdict": "PASS",
+        "reason": "The answer accurately reflects the context and includes the required source attribution."
+      },
+      "retrieved_sources": [
+        "shipping-policy.md",
+        "shipping-policy.md",
+        "shipping-policy.md",
+        "shipping-policy.md"
+      ]
+    },
+    {
+      "id": "E08",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "\u20b9\\s*500": true,
+        "500": true
+      },
+      "facts_in_retrieved": {
+        "\u20b9\\s*500": true,
+        "500": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "Goodwill credits are subject to a restricted cap of **\u20b9500** per customer account per calendar month. (source: refund-authority.md)",
+      "llm_judge": {
+        "grounded": false,
+        "hallucinations": [
+          "per calendar month"
+        ],
+        "cites_source": true,
+        "verdict": "FAIL",
+        "reason": "The context does not mention a monthly time frame for the goodwill credit cap."
+      },
+      "retrieved_sources": [
+        "refund-authority.md",
+        "refund-authority.md",
+        "escalation-tone.md",
+        "shipping-policy.md"
+      ]
+    },
+    {
+      "id": "E09",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "45\\s*(calendar\\s*)?days?": true
+      },
+      "facts_in_retrieved": {
+        "45\\s*(calendar\\s*)?days?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "Items within the Toys category are subject to an extended return window of **45 calendar days** from the verified delivery date. (source: category-toys.md)",
+      "llm_judge": {
+        "grounded": true,
+        "hallucinations": [],
+        "cites_source": true,
+        "verdict": "PASS",
+        "reason": "The answer accurately reflects the context and cites the source correctly."
+      },
+      "retrieved_sources": [
+        "category-toys.md",
+        "category-apparel.md",
+        "category-electronics.md",
+        "returns-policy.md"
+      ]
+    },
+    {
+      "id": "E10",
+      "type": "fact",
+      "source_recall": true,
+      "retrieval_sufficient": false,
+      "facts_in_answer": {
+        "(not|never|prohibited|shall not)": false
+      },
+      "facts_in_retrieved": {
+        "(not|never|prohibited|shall not)": false
+      },
+      "answer_grounded": false,
+      "overall_pass": false,
+      "answer": "Under no circumstances shall a customer support agent disclose to a customer, directly or indirectly, that their account is \"flagged,\" \"under review,\" \"monitored,\" or subject to \"fraud prevention protocols.\" (source: fraud-abuse.md)",
+      "llm_judge": {
+        "grounded": true,
+        "hallucinations": [],
+        "cites_source": true,
+        "verdict": "PASS",
+        "reason": "The answer directly uses the provided context to accurately state that agents are prohibited from disclosing account flags."
+      },
+      "retrieved_sources": [
+        "fraud-abuse.md",
+        "shipping-policy.md",
+        "escalation-tone.md",
+        "fraud-abuse.md"
+      ]
+    },
+    {
+      "id": "E11",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "730\\s*days?": true,
+        "2\\s*years?": true
+      },
+      "facts_in_retrieved": {
+        "730\\s*days?": true,
+        "2\\s*years?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "Electrical beauty appliances carry a manufacturer-backed warranty period of **730 days** (2 years) from the original purchase date. (source: category-beauty.md)",
+      "llm_judge": {
+        "grounded": true,
+        "hallucinations": [],
+        "cites_source": true,
+        "verdict": "PASS",
+        "reason": "The answer accurately reflects the context and cites a source file."
+      },
+      "retrieved_sources": [
+        "category-beauty.md",
+        "category-home-kitchen.md",
+        "category-electronics.md",
+        "warranty-policy.md"
+      ]
+    },
+    {
+      "id": "E12",
+      "type": "fact",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "(automatically\\s*)?reject": true
+      },
+      "facts_in_retrieved": {
+        "(automatically\\s*)?reject": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "Return requests initiated on day 16 or later for electronics shall be automatically rejected by the automated support portal, subject only to the exceptions detailed in Section 7 of this policy. (source: category-electronics.md)",
+      "llm_judge": {
+        "grounded": false,
+        "hallucinations": [
+          "subject only to the exceptions detailed in Section 7 of this policy"
+        ],
+        "cites_source": true,
+        "verdict": "FAIL",
+        "reason": "The answer includes a hallucinated reference to Section 7 which is not present in the provided context."
+      },
+      "retrieved_sources": [
+        "category-sports-outdoors.md",
+        "category-electronics.md",
+        "category-apparel.md",
+        "category-apparel.md"
+      ]
+    },
+    {
+      "id": "E13",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": false,
+      "facts_in_answer": {
+        "15\\s*%": true,
+        "\\b15\\s*percent\\b": false
+      },
+      "facts_in_retrieved": {
+        "15\\s*%": false,
+        "\\b15\\s*percent\\b": false
+      },
+      "answer_grounded": false,
+      "overall_pass": false,
+      "answer": "Returns of large-format furniture items processed under \"Change of Mind\" or \"Customer Remorse\" return sub-reasons are subject to a mandatory restocking fee fixed at **15%** of the item's purchase price (excluding local sales tax). (source: category-furniture.md)",
+      "llm_judge": {
+        "grounded": false,
+        "hallucinations": [
+          "fixed at 15% of the item's purchase price (excluding local sales tax)",
+          "(source: category-furniture.md)"
+        ],
+        "cites_source": true,
+        "verdict": "FAIL",
+        "reason": "The answer invents a 15% restocking fee percentage which is not present in the provided context."
+      },
+      "retrieved_sources": [
+        "category-furniture.md",
+        "category-toys.md",
+        "category-apparel.md",
+        "category-sports-outdoors.md"
+      ]
+    },
+    {
+      "id": "E14",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "45\\s*(calendar\\s*)?days?": true
+      },
+      "facts_in_retrieved": {
+        "45\\s*(calendar\\s*)?days?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "The return window for items listed under the Sports & Outdoors category is strictly **45 calendar days** from the verified delivery date, and return requests initiated on Day 46 or later are automatically rejected. (source: category-sports-outdoors.md)",
+      "llm_judge": {
+        "grounded": false,
+        "hallucinations": [
+          "return requests initiated on Day 46 or later are automatically rejected"
+        ],
+        "cites_source": true,
+        "verdict": "FAIL",
+        "reason": "The answer includes information about return requests being automatically rejected on Day 46 which is cut off and not supported by the provided context."
+      },
+      "retrieved_sources": [
+        "category-sports-outdoors.md",
+        "category-apparel.md",
+        "category-sports-outdoors.md",
+        "category-sports-outdoors.md"
+      ]
+    },
+    {
+      "id": "E15",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "4\\s*hours?": true
+      },
+      "facts_in_retrieved": {
+        "4\\s*hours?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "Customers reporting temperature abuse, spoilage, or missing cold-pack insulation must submit photographic evidence via the Kartway Resolution Portal within **4 hours** of the recorded timestamp of delivery. (source: category-groceries.md)",
+      "llm_judge": {
+        "grounded": false,
+        "hallucinations": [
+          "Customers reporting temperature abuse, spoilage, or missing cold-pack insulation must submit photographic evidence via the Kartway Resolution Portal within 4 hours of the recorded timestamp of delivery."
+        ],
+        "cites_source": true,
+        "verdict": "FAIL",
+        "reason": "The answer fabricates specific reporting details and a 4-hour window that are not present in the provided context."
+      },
+      "retrieved_sources": [
+        "category-groceries.md",
+        "returns-policy.md",
+        "category-groceries.md",
+        "category-groceries.md"
+      ]
+    },
+    {
+      "id": "E16-NEG",
+      "type": "out_of_scope",
+      "source_recall": null,
+      "facts_in_answer": null,
+      "facts_in_retrieved": null,
+      "refused_correctly": true,
+      "overall_pass": true,
+      "answer": "I cannot find this in the policy documents.",
+      "llm_judge": {
+        "grounded": true,
+        "hallucinations": [],
+        "cites_source": false,
+        "verdict": "PASS",
+        "reason": "The answer correctly states that the information is absent from the provided context."
+      },
+      "retrieved_sources": [
+        "category-furniture.md",
+        "category-home-kitchen.md",
+        "category-apparel.md",
+        "fraud-abuse.md"
+      ]
+    }
+  ]
+}

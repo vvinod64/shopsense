@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kartway Support Console</title>
+<style>
+  :root { --paper:#F7F2E8; --panel:#FFFFFF; --ink:#2A2925; --muted:#6D685D; --line:#DED6C6; --sand:#EFE8DA;
+          --green:#2F6A4F; --forest:#1F3A2E; --amber:#B5541C; --amber-bg:#FBEBDD; --red:#A33A2A; --red-bg:#F8E1DC; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--paper); color:var(--ink); font:15px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { background:#2A2925; color:#F7F2E8; padding:14px 22px; display:flex; align-items:center; gap:14px; }
+  header h1 { font-size:18px; margin:0; font-weight:650; }
+  header .who { margin-left:auto; font-size:13px; opacity:.9; }
+  header button { background:transparent; border:1px solid rgba(255,255,255,.35); color:#F7F2E8; border-radius:8px;
+                  padding:4px 10px; cursor:pointer; font-size:12px; }
+  .wrap { display:grid; grid-template-columns: minmax(0, 1fr) 340px; gap:20px; padding:22px; }
+  h2 { font-size:15px; margin:0 0 12px; display:flex; align-items:center; gap:8px; }
+  .count { background:var(--amber); color:#fff; border-radius:999px; padding:0 9px; font-size:13px; }
+  .card { background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:16px 18px; margin-bottom:14px; }
+  .card.new { animation: arrive 2.4s ease-out; }
+  @keyframes arrive { 0% { box-shadow:0 0 0 4px var(--amber); } 100% { box-shadow:0 0 0 0 transparent; } }
+  .top { display:flex; gap:10px; align-items:baseline; flex-wrap:wrap; }
+  .top b { font-size:15px; } .muted { color:var(--muted); font-size:13px; }
+  .label { color:var(--muted); font-size:12px; text-transform:uppercase; letter-spacing:.6px; margin-top:10px; }
+  .quote { background:var(--sand); border-radius:8px; padding:8px 10px; white-space:pre-wrap; }
+  .chips { display:flex; flex-wrap:wrap; gap:6px; margin-top:4px; }
+  .chip { background:var(--amber-bg); color:var(--amber); border-radius:999px; padding:2px 10px; font-size:12px; font-weight:600; }
+  .amount { font-weight:700; font-size:17px; }
+  details summary { cursor:pointer; color:var(--muted); font-size:13px; margin-top:10px; }
+  .draft { white-space:pre-wrap; font-size:14px; margin-top:6px; }
+  .act { display:flex; gap:8px; margin-top:14px; flex-wrap:wrap; }
+  .act input { flex:1; min-width:180px; padding:8px 10px; border:1px solid var(--line); border-radius:8px; font:inherit; background:var(--paper); }
+  .act button { border:0; border-radius:8px; padding:8px 14px; font-weight:600; cursor:pointer; color:#fff; }
+  .approve { background:var(--green); } .reject { background:var(--red); } .back { background:var(--amber); }
+  .act button:disabled { opacity:.5; cursor:default; }
+  .err { color:var(--red); font-size:13px; margin-top:8px; }
+  .overdue { background:var(--red-bg); color:var(--red); border-radius:999px; padding:1px 8px; font-size:12px; font-weight:700; }
+  .empty { color:var(--muted); background:var(--panel); border:1px dashed var(--line); border-radius:14px; padding:26px; text-align:center; }
+  .feed .item { background:var(--panel); border:1px solid var(--line); border-left:4px solid var(--green); border-radius:10px;
+                padding:10px 12px; margin-bottom:10px; font-size:13px; }
+  .feed .item.rej { border-left-color:var(--red); } .feed .item.back { border-left-color:var(--amber); }
+  .signin { max-width:420px; margin:60px auto; background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:26px; }
+  .signin input { width:100%; padding:10px 12px; border:1px solid var(--line); border-radius:8px; font:inherit; margin:10px 0; }
+  .signin button { background:var(--forest); color:#fff; border:0; border-radius:8px; padding:10px 18px; font-weight:600; cursor:pointer; }
+  @media (max-width:900px) { .wrap { grid-template-columns:1fr; padding:14px; } }
+</style>
+</head>
+<body>
+<header><h1>Kartway Support Console</h1><span class="who" id="who"></span><button id="out" hidden>Sign out</button></header>
+<div id="app"></div>
+<script>
+const app = document.getElementById("app");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const inr = v => v == null ? "" : "₹" + Number(v).toLocaleString("en-IN", {maximumFractionDigits: 2});
+let token = sessionStorage.getItem("shopsense-reviewer-token"), me = null, seen = new Set(), first = true;
+const auth = () => ({Authorization: `Bearer ${token}`});
+
+function signin() {                  // sign-in happens on /ui (Support staff tab)
+  sessionStorage.removeItem("shopsense-reviewer-token");
+  location.replace("/ui?role=support");
+}
+
+async function start() {
+  const r = await fetch("/reviewer/me", {headers: auth()});
+  if (!r.ok) return signin();
+  me = await r.json(); sessionStorage.setItem("shopsense-reviewer-token", token);
+  document.getElementById("who").textContent = `${me.name} · ${String(me.role || "").replace("_", " ")}`;
+  const out = document.getElementById("out"); out.hidden = false;
+  out.onclick = () => { token = null; signin(); };
+  app.innerHTML = `<div class="wrap"><section><h2>Waiting for a decision <span class="count" id="count">0</span></h2>
+      <div id="queue"></div></section>
+      <aside><h2>Decisions</h2><div class="feed" id="feed"><div class="muted">Nothing decided yet.</div></div></aside></div>`;
+  refresh(); setInterval(refresh, 4000);
+}
+
+function card(d) {
+  const el = document.createElement("div"); el.className = "card"; el.id = `t-${d.ticket_id}`;
+  if (!first && !seen.has(d.ticket_id)) el.classList.add("new");
+  const mins = Math.round((d.age_hours || 0) * 60);
+  el.innerHTML = `
+    <div class="top"><b>${esc(d.customer_ref || "Guest")}</b>
+      <span class="muted">ticket ${esc(d.ticket_id)} · waiting ${mins < 60 ? mins + " min" : (d.age_hours).toFixed(1) + " h"}
+      ${d.engine === "team" ? " · agent team" : ""}</span> ${d.overdue ? '<span class="overdue">OVERDUE</span>' : ""}</div>
+    <div class="label">Customer wrote</div><div class="quote">${esc(d.message)}</div>
+    <div class="label">Why it needs you</div><div class="chips">${(d.risk || []).map(r => `<span class="chip">${esc(r)}</span>`).join("")}</div>
+    <div class="label">Proposed</div><div><span class="amount">${esc(d.proposed_action || "no action")}</span> ${d.amount_inr ? `<span class="amount">${inr(d.amount_inr)}</span>` : ""}</div>
+    <details><summary>Draft reply sent while waiting</summary><div class="draft">${esc(d.draft)}</div></details>
+    <div class="act"><input placeholder="Note (required to send back)">
+      <button class="approve">Approve</button><button class="back">Send back</button><button class="reject">Reject</button></div>
+    <div class="err"></div>`;
+  const note = el.querySelector("input"), err = el.querySelector(".err");
+  const decide = async action => {
+    if (action === "changes_requested" && !note.value.trim()) { err.textContent = "Say what to change."; return; }
+    el.querySelectorAll("button").forEach(b => b.disabled = true); err.textContent = "Sending…";
+    const r = await fetch(`/tickets/${d.ticket_id}/decision`, {method: "POST", headers: {...auth(), "Content-Type": "application/json"},
+      body: JSON.stringify({action, approver: me.name, note: note.value.trim()})});
+    const body = await r.json().catch(() => ({}));
+    if (!r.ok) { err.textContent = `HTTP ${r.status}: ${typeof body.detail === "string" ? body.detail : JSON.stringify(body.detail || body)}`;
+                 el.querySelectorAll("button").forEach(b => b.disabled = false); return; }
+    feed(d, action, body); el.remove(); updateCount();
+  };
+  el.querySelector(".approve").onclick = () => decide("approved");
+  el.querySelector(".reject").onclick = () => decide("rejected");
+  el.querySelector(".back").onclick = () => decide("changes_requested");
+  return el;
+}
+
+function feed(d, action, body) {
+  const f = document.getElementById("feed"); if (f.querySelector(".muted")) f.innerHTML = "";
+  const item = document.createElement("div");
+  item.className = "item" + (action === "rejected" ? " rej" : action === "changes_requested" ? " back" : "");
+  const verb = {approved: "Approved", rejected: "Rejected", changes_requested: "Sent back"}[action];
+  item.innerHTML = `<b>${verb}</b> · ${esc(d.customer_ref || "Guest")} · ${esc(d.ticket_id)}<br>
+    <span class="muted">${esc(body.status)}${body.executed ? " · executed: " + esc(body.executed) : ""}</span>
+    <div class="draft">${esc(body.reply || "")}</div>`;
+  f.prepend(item);
+  if (action === "changes_requested") seen.delete(d.ticket_id);     // the revised ticket comes back to the queue
+}
+
+function updateCount() { document.getElementById("count").textContent = document.querySelectorAll("#queue .card").length; }
+
+async function refresh() {
+  if (!token) return;
+  const r = await fetch("/tickets/pending", {headers: auth()});
+  if (r.status === 401) return signin();
+  if (!r.ok) return;
+  const data = await r.json(), queue = document.getElementById("queue");
+  const ids = new Set(data.details.map(d => d.ticket_id));
+  queue.querySelectorAll(".card").forEach(c => { if (!ids.has(c.id.slice(2))) c.remove(); });
+  for (const d of data.details) {
+    if (!document.getElementById(`t-${d.ticket_id}`)) queue.appendChild(card(d));
+    seen.add(d.ticket_id);
+  }
+  if (!data.details.length && !queue.querySelector(".empty")) queue.innerHTML = `<div class="empty">No tickets need a decision. New escalations appear here on their own.</div>`;
+  if (data.details.length) queue.querySelector(".empty")?.remove();
+  first = false; updateCount();
+}
+
+token ? start() : signin();
+</script>
+</body>
+</html>

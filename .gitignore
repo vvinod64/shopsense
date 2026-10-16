@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# Local caches and runtime state
+.embcache/
+data/qdrant_storage/
+*.sqlite
+.DS_Store
+.idea/
+
+# Runtime output (ledger, action logs, eval reports, checkpoints)
+runtime/
+
+# Local review backups and temporary artifacts
+work/
+.pytest_cache/

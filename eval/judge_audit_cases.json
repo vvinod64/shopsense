@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "purpose": "Human-labelled replies for auditing the LLM judge (DeepEval G-Eval correctness). For ten golden tickets, one reply is correct and one is fluent, polite and confidently wrong on a single fact. The judge should pass the first and fail the second; passing a wrong reply is the expensive disagreement.",
+  "cases": [
+    {"golden_id": "SS-F01", "label": "pass", "reply": "Our standard return window is 30 calendar days from the date your order is delivered. Some categories have their own windows, which are listed in their category policies."},
+    {"golden_id": "SS-F01", "label": "fail", "reply": "Thanks for asking! Kartway's standard return window is 45 calendar days from delivery, so you have plenty of time to decide."},
+    {"golden_id": "SS-F02", "label": "pass", "reply": "Electronics can be returned within 15 calendar days of delivery. That is shorter than the general 30-day return window."},
+    {"golden_id": "SS-F02", "label": "fail", "reply": "Great question! Electronics follow the same 30-day return window as everything else on Kartway, counted from the day of delivery."},
+    {"golden_id": "SS-F03", "label": "pass", "reply": "Furniture has an extended return window of 42 calendar days. A change-of-mind return of a large item such as a sofa carries a 15% restocking fee."},
+    {"golden_id": "SS-F03", "label": "fail", "reply": "Furniture can be returned within 42 calendar days, and there is no restocking fee for change-of-mind returns on sofas, so you can send it back free of charge."},
+    {"golden_id": "SS-F04", "label": "pass", "reply": "For a metro address, a parcel can be declared lost in transit after 7 consecutive calendar days with no tracking scan."},
+    {"golden_id": "SS-F04", "label": "fail", "reply": "For metro deliveries, we can declare a parcel lost after just 3 days without a tracking update, so we can start that process for you now."},
+    {"golden_id": "SS-F05", "label": "pass", "reply": "I'm sorry your groceries arrived thawed. Please upload photos through the Resolution Portal within 4 hours of delivery."},
+    {"golden_id": "SS-F05", "label": "fail", "reply": "I'm sorry your groceries arrived thawed. You have 7 days from delivery to report it with photos through the Resolution Portal."},
+    {"golden_id": "SS-F06", "label": "pass", "reply": "Yes, goodwill credits are limited to ₹500 per customer account in a calendar month."},
+    {"golden_id": "SS-F06", "label": "fail", "reply": "There is no monthly limit on goodwill credits; our team decides each case on its merits."},
+    {"golden_id": "SS-M01", "label": "pass", "reply": "Kitchen appliances such as blenders have their own 30-day return window. The 45-day window applies to apparel only, so at 40 days the blender is outside its return window."},
+    {"golden_id": "SS-M01", "label": "fail", "reply": "You're right that apparel gets 45 days, and kitchen appliances get the same 45 days, so at 40 days your blender is still within the return window."},
+    {"golden_id": "SS-M02", "label": "pass", "reply": "A refund of ₹4,500 is above the ₹2,000 automated limit, so it needs approval from a Team Lead, who can approve refunds up to ₹10,000."},
+    {"golden_id": "SS-M02", "label": "fail", "reply": "A refund of ₹4,500 is within our automated limit, so it can be approved straight away without any manager review."},
+    {"golden_id": "SS-M03", "label": "pass", "reply": "Sports and outdoor items have a 45-day return window, so at 40 days the tent can still be returned. Because it was opened and is not defective, a 12% restocking fee applies."},
+    {"golden_id": "SS-M03", "label": "fail", "reply": "Sports and outdoor items have a 30-day return window, so at 40 days the tent can no longer be returned."},
+    {"golden_id": "SS-G04", "label": "pass", "reply": "I'm sorry the appliance arrived damaged. A refund of ₹12,999 is above our automated limit, so it has been passed to a reviewer, regardless of account tier."},
+    {"golden_id": "SS-G04", "label": "fail", "reply": "As a valued Platinum customer, your ₹12,999 refund has been approved immediately. You'll see it in your account within a few days."}
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "run_at": "2026-10-12T10:20:47.720536",
+  "total_cases": 16,
+  "deterministic_pass": 13,
+  "deterministic_pass_rate": 0.812,
+  "llm_judge_pass": 0,
+  "llm_judge_pass_rate": 0.0,
+  "results": [
+    {
+      "id": "E01",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "15\\s*(calendar\\s*)?days?": true
+      },
+      "facts_in_retrieved": {
+        "15\\s*(calendar\\s*)?days?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'The return window for electronics is strictly **15 calendar days** from the verified delivery date. (source: category-electronics.md)', 'extras': {'signature': 'EmAKXgFpFH0Tqp0VHedgM846O52R1u7YrRhFjEIMCCzF6iHANFgkoJAhaQlaEp10dBd+w7csC+9+x6Xo7aeNFVXMTwrtA4M4cMaRWthV1B1iHWlUG4gLwr54txWfhzZg+g0='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "category-electronics.md",
+        "returns-policy.md",
+        "category-apparel.md",
+        "category-home-kitchen.md"
+      ]
+    },
+    {
+      "id": "E02",
+      "type": "fact",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "non-?returnable": true
+      },
+      "facts_in_retrieved": {
+        "non-?returnable": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'All grocery items sold on the Kartway marketplace are strictly non-returnable, and agents are prohibited from issuing return shipping labels or requesting that customers ship grocery items back. (source: category-groceries.md)', 'extras': {'signature': 'EmAKXgFpFH0T7UdroiZPt8ntVJ1wd+KRyhcvqxyihSZ7g/885MeHUYMGJZnaSIHUzOILbJVsnv3DJVvlKgRb7IfJrJNrXqDxz5QgN0pRXqP/jhHEzD/EZLtV4EiiFFJmSY4='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "returns-policy.md",
+        "category-groceries.md",
+        "category-groceries.md",
+        "category-groceries.md"
+      ]
+    },
+    {
+      "id": "E03",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": false,
+      "facts_in_answer": {
+        "\u20b9\\s*2,?000": true,
+        "2000": false
+      },
+      "facts_in_retrieved": {
+        "\u20b9\\s*2,?000": true,
+        "2000": false
+      },
+      "answer_grounded": false,
+      "overall_pass": false,
+      "answer": "[{'type': 'text', 'text': 'The absolute maximum auto-approval threshold for the automated system is **\u20b92,000**. (source: refund-authority.md)', 'extras': {'signature': 'EmAKXgFpFH0TpC6sm5kBY/RRwCCQu2ycd/sUIOPO1BDmtBIr3WlM+0NPApAJV6F8yiYCHFlpLx2ep/f0aoi7g5a8+ByD4TAZOO9sQMtNK6GrO3LbnOpwCq7g02HmW+mHWYs='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "refund-authority.md",
+        "refund-authority.md",
+        "refund-authority.md",
+        "escalation-tone.md"
+      ]
+    },
+    {
+      "id": "E04",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "45\\s*(calendar\\s*)?days?": true
+      },
+      "facts_in_retrieved": {
+        "45\\s*(calendar\\s*)?days?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'The return window for apparel is **45 calendar days** from the verified delivery date. (source: category-apparel.md)', 'extras': {'signature': 'EmAKXgFpFH0TvKjp0Y6Oa11RcjkQEsKE+CBWnG5yHfi8zpvkoEhGaoM2EIHlNgoh1C57XWd4KSMQjQIl0ZmBQeXrTFrrQKIbkiolP7ExlnDngkGVtC1Or4catpSurotyEGE='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "category-apparel.md",
+        "returns-policy.md",
+        "category-apparel.md",
+        "category-home-kitchen.md"
+      ]
+    },
+    {
+      "id": "E05",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "17\\.5\\s*%": true,
+        "17\\.5%": true
+      },
+      "facts_in_retrieved": {
+        "17\\.5\\s*%": true,
+        "17\\.5%": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'A mandatory restocking fee of **17.5%** shall be deducted from the merchandise refund amount on all approved non-defective Beauty category returns. (source: category-beauty.md)', 'extras': {'signature': 'EmAKXgFpFH0TRd9Fz0uVZIibyfEZHiFGKd6A8wjrgvrp3ZzNvGl+9QQFE2siHiqjNmmT/eJQscWc+GTGUD0fT8PBPl2U5Xu+GdwzvoJt7Xs1p8sMmvj13flG/a6/NjnDjK8='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "category-beauty.md",
+        "category-apparel.md",
+        "category-home-kitchen.md",
+        "category-furniture.md"
+      ]
+    },
+    {
+      "id": "E06",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "3\\s*years?": true
+      },
+      "facts_in_retrieved": {
+        "3\\s*years?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'Based on the provided documents, furniture carries a minimum manufacturer-backed warranty period of **3 years** from the date of purchase (source: category-furniture.md), as well as a standard coverage of **2 years** parts and labor (source: warranty-policy.md).', 'extras': {'signature': 'EmAKXgFpFH0T2pVPZEK0tniq0d9D0LmZXKSpCgZS4+jXfIiR7bMX3JYC1AMEqqfBJEeaCYrk/dIqcztwcgW87BMZw9KKuBRVUf0Z20RTJ9vkXsF4KV43uYeWLAWsyIbO9x8='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "category-furniture.md",
+        "warranty-policy.md",
+        "category-apparel.md",
+        "category-groceries.md"
+      ]
+    },
+    {
+      "id": "E07",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "7\\s*(consecutive\\s*)?(calendar\\s*)?days?": true
+      },
+      "facts_in_retrieved": {
+        "7\\s*(consecutive\\s*)?(calendar\\s*)?days?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'A domestic metro shipment cannot be declared \"Lost-in-Transit\" until a mandatory waiting period of \"7 consecutive calendar days\" has elapsed without a definitive tracking scan update. (source: shipping-policy.md)', 'extras': {'signature': 'EmAKXgFpFH0TE4Y2JJNhYAuJzmpka63wvMNdRnerQzUgL2YdR3FEKAVrWAvkVRMI9CS13jumd0TBPXV6VxJfSY4Cb+32uRi+zGmR/UHComk9H3gyI1yPCeISrWIZw8xRClA='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "shipping-policy.md",
+        "shipping-policy.md",
+        "shipping-policy.md",
+        "shipping-policy.md"
+      ]
+    },
+    {
+      "id": "E08",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "\u20b9\\s*500": true,
+        "500": true
+      },
+      "facts_in_retrieved": {
+        "\u20b9\\s*500": true,
+        "500": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'Goodwill credits are subject to a restricted cap of **\u20b9500** per customer account per calendar month. (source: refund-authority.md)', 'extras': {'signature': 'EmAKXgFpFH0T3W0diS6ctmAznTmb8zKyrpxDnOrbRuXhrALqx7uyrTnOpYnIO4OhouN9NTfkTWWnEsnuFEnVZU8e2rjL9t6XRW8kD2rcLIeb1KkWcQ4nakcOUJZZuJElJIo='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "refund-authority.md",
+        "refund-authority.md",
+        "escalation-tone.md",
+        "shipping-policy.md"
+      ]
+    },
+    {
+      "id": "E09",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "45\\s*(calendar\\s*)?days?": true
+      },
+      "facts_in_retrieved": {
+        "45\\s*(calendar\\s*)?days?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'All items within the Toys category are subject to an extended return window of **45 calendar days** from the verified delivery date. (source: category-toys.md)', 'extras': {'signature': 'EmAKXgFpFH0TJice9BZ+Nj8E2LHaeLCQJyNAON96TmUhSSUOnnff4RbcSwohNcD2T2mMDHgvisw43dJDujkrfKwMzyD3q700wkMc0+bnOa8Ah5MLcuYg30Zpz5cF/qKfEmg='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "category-toys.md",
+        "category-apparel.md",
+        "category-electronics.md",
+        "returns-policy.md"
+      ]
+    },
+    {
+      "id": "E10",
+      "type": "fact",
+      "source_recall": true,
+      "retrieval_sufficient": false,
+      "facts_in_answer": {
+        "(not|never|prohibited|shall not)": false
+      },
+      "facts_in_retrieved": {
+        "(not|never|prohibited|shall not)": false
+      },
+      "answer_grounded": false,
+      "overall_pass": false,
+      "answer": "[{'type': 'text', 'text': 'Under no circumstances shall a customer support agent disclose to a customer, directly or indirectly, that their account is \"flagged,\" \"under review,\" \"monitored,\" or subject to \"fraud prevention protocols.\" (source: fraud-abuse.md)', 'extras': {'signature': 'EmAKXgFpFH0TUQR6KKP/LbkiTncDbcy1P98VcpRkXoOCLoOau3R9LgtRYRJ8WriiPYMfPLu5DTChlzVrHC6o+xOdCpgcgiUgwXzmtAGOti+Dy/XZxU8SXgCsb/yLVAJvwcY='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "fraud-abuse.md",
+        "shipping-policy.md",
+        "escalation-tone.md",
+        "fraud-abuse.md"
+      ]
+    },
+    {
+      "id": "E11",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "730\\s*days?": true,
+        "2\\s*years?": true
+      },
+      "facts_in_retrieved": {
+        "730\\s*days?": true,
+        "2\\s*years?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'Electrical beauty appliances carry a manufacturer-backed warranty period of **730 days** (2 years) from the original purchase date. (source: category-beauty.md)', 'extras': {'signature': 'EmAKXgFpFH0TkSuBOKWylc1vBCNmW7W4XKgBnwZPxwzGoLjBr/DctJs4onmUMxyl00RF+RFlLVt0CBUoyYdYCiiecrC11srGi9Ev/nrIpDnztoYz9ldewr9GYqgU010DRFo='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "category-beauty.md",
+        "category-home-kitchen.md",
+        "category-electronics.md",
+        "warranty-policy.md"
+      ]
+    },
+    {
+      "id": "E12",
+      "type": "fact",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "(automatically\\s*)?reject": true
+      },
+      "facts_in_retrieved": {
+        "(automatically\\s*)?reject": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'Return requests initiated on day 16 or later for electronics shall be automatically rejected by the automated support portal, subject only to the exceptions detailed in Section 7 of this policy. (source: category-electronics.md)', 'extras': {'signature': 'EmAKXgFpFH0TwkgdOf29dk6OW0zeqYNOMV9MAufYy7IcuFFgdqDGhKRezI6h17+oYOyzD00cneYI1L3my0QFVA38hT52uT5hRiRyjww2PDOiC+E/mshW9JzMm0m571wgPO0='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "category-sports-outdoors.md",
+        "category-electronics.md",
+        "category-apparel.md",
+        "category-apparel.md"
+      ]
+    },
+    {
+      "id": "E13",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": false,
+      "facts_in_answer": {
+        "15\\s*%": true
+      },
+      "facts_in_retrieved": {
+        "15\\s*%": false
+      },
+      "answer_grounded": true,
+      "overall_pass": false,
+      "answer": "[{'type': 'text', 'text': 'Returns of large-format furniture items processed under \"Change of Mind\" or \"Customer Remorse\" return sub-reasons are subject to a mandatory restocking fee fixed at **15%** of the item\\'s purchase price (excluding local sales tax). (source: category-furniture.md)', 'extras': {'signature': 'EmAKXgFpFH0TWT6V3mR/ezVamljXCh1NEf6hT16KEsPkU/D4tO1OhKrPmD+bhUmhN1OhkFk9Cg1hmgVKSPY8GqSliudqfpFt39bMbQi9EOZW2ar2NwQgPNFPom8Ksvm7DPs='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "category-furniture.md",
+        "category-toys.md",
+        "category-apparel.md",
+        "category-sports-outdoors.md"
+      ]
+    },
+    {
+      "id": "E14",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "45\\s*(calendar\\s*)?days?": true
+      },
+      "facts_in_retrieved": {
+        "45\\s*(calendar\\s*)?days?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'The return window for all items listed under the Sports & Outdoors category is strictly **45 calendar days** from the verified delivery date. (source: category-sports-outdoors.md)', 'extras': {'signature': 'EmAKXgFpFH0Tg46MvdgQiN4ml6etAW2/7xdi7V1S2etFlsuTnsAyJjzJEGo4bwWw4cidxROuDzn/tYYl+RFnQOgYej/XdpRVsu6r06EXPgJbQNSSyFLnZl6i5oBUivjNEK4='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "category-sports-outdoors.md",
+        "category-apparel.md",
+        "category-sports-outdoors.md",
+        "category-sports-outdoors.md"
+      ]
+    },
+    {
+      "id": "E15",
+      "type": "numeric",
+      "source_recall": true,
+      "retrieval_sufficient": true,
+      "facts_in_answer": {
+        "4\\s*hours?": true
+      },
+      "facts_in_retrieved": {
+        "4\\s*hours?": true
+      },
+      "answer_grounded": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'Customers reporting temperature abuse, spoilage, or missing cold-pack insulation must submit photographic evidence via the Kartway Resolution Portal within **4 hours** of the recorded timestamp of delivery. (source: category-groceries.md)', 'extras': {'signature': 'EmAKXgFpFH0T95FhVLo36pVItXzpbRNXnw4mm7xHEMPwM5cNlD49Hk38yElr2BZV6AlG6Ld67+v0KxSTIKdt7zEJe8Vxldg3Lpq19/6zvWSuPNfAOa4pYMdvJg4iqDrze9U='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "category-groceries.md",
+        "returns-policy.md",
+        "category-groceries.md",
+        "category-groceries.md"
+      ]
+    },
+    {
+      "id": "E16-NEG",
+      "type": "out_of_scope",
+      "source_recall": null,
+      "facts_in_answer": null,
+      "facts_in_retrieved": null,
+      "refused_correctly": true,
+      "overall_pass": true,
+      "answer": "[{'type': 'text', 'text': 'I cannot find this in the policy documents.', 'extras': {'signature': 'EmAKXgFpFH0TRujse+bVfYOS1/ddteGjbLlnF5MCWrx+VLbChUHvmCc1qxZF1QwmaGf04gx6FHX2Q7Fp4fsJXtCIFEns1HEb6oUmmLyMa27/9N9g6F7p+0vmuYnJfesXpvE='}}]",
+      "llm_judge": {
+        "grounded": null,
+        "verdict": "ERROR",
+        "reason": "JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+      },
+      "retrieved_sources": [
+        "category-furniture.md",
+        "category-home-kitchen.md",
+        "category-apparel.md",
+        "fraud-abuse.md"
+      ]
+    }
+  ]
+}

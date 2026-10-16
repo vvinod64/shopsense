@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kartway Support · Sign in</title>
+<style>
+  :root { --paper:#F7F2E8; --panel:#FFFFFF; --ink:#2A2925; --muted:#6D685D; --line:#DED6C6; --sand:#EFE8DA;
+          --forest:#1F3A2E; --red:#A33A2A; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--paper); color:var(--ink); font:15px/1.55 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .box { max-width:440px; margin:56px auto; padding:0 16px; }
+  h1 { font-size:24px; margin:0 0 2px; } .sub { color:var(--muted); margin:0 0 22px; }
+  .card { background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:22px; }
+  .tabs { display:grid; grid-template-columns:1fr 1fr; background:var(--sand); border-radius:10px; padding:4px; margin-bottom:18px; }
+  .tabs button { border:0; background:transparent; padding:9px; border-radius:8px; font:inherit; font-weight:600; color:var(--muted); cursor:pointer; }
+  .tabs button.on { background:var(--panel); color:var(--ink); box-shadow:0 1px 2px rgba(0,0,0,.08); }
+  label { display:block; font-size:13px; color:var(--muted); margin:12px 0 4px; }
+  input { width:100%; padding:10px 12px; border:1px solid var(--line); border-radius:8px; font:inherit; background:var(--paper); color:var(--ink); }
+  .go { width:100%; margin-top:18px; background:var(--forest); color:#F7F2E8; border:0; border-radius:8px; padding:11px; font:inherit; font-weight:600; cursor:pointer; }
+  .hint { color:var(--muted); font-size:13px; margin-top:12px; } .err { color:var(--red); font-size:13px; margin-top:10px; min-height:18px; }
+  [hidden] { display:none !important; }
+</style>
+</head>
+<body>
+<div class="box">
+  <h1>Kartway Support</h1>
+  <p class="sub">Sign in to continue.</p>
+  <div class="card">
+    <div class="tabs"><button id="t-customer" class="on">Customer</button><button id="t-support">Support staff</button></div>
+
+    <form id="f-customer">
+      <label for="cid">Customer ID</label>
+      <input id="cid" placeholder="e.g. KW-C-00123" autocomplete="username">
+      <label for="cpw">Password</label>
+      <input id="cpw" type="password" autocomplete="current-password">
+      <button class="go" type="submit">Continue</button>
+      <div class="hint">Leave both empty to continue as a guest.</div>
+    </form>
+
+    <form id="f-support" hidden>
+      <label for="sid">Username</label>
+      <input id="sid" placeholder="e.g. ops" autocomplete="username">
+      <label for="spw">Password</label>
+      <input id="spw" type="password" autocomplete="current-password">
+      <button class="go" type="submit">Sign in</button>
+    </form>
+    <div class="err" id="err"></div>
+  </div>
+</div>
+<script>
+const $ = id => document.getElementById(id), err = $("err");
+function tab(role) {
+  $("t-customer").classList.toggle("on", role === "customer"); $("t-support").classList.toggle("on", role === "support");
+  $("f-customer").hidden = role !== "customer"; $("f-support").hidden = role !== "support"; err.textContent = "";
+  (role === "customer" ? $("cid") : $("sid")).focus();
+}
+$("t-customer").onclick = () => tab("customer");
+$("t-support").onclick = () => tab("support");
+if (new URLSearchParams(location.search).get("role") === "support") tab("support");
+
+$("f-customer").onsubmit = async e => {
+  e.preventDefault(); err.textContent = "";
+  const id = $("cid").value.trim().toUpperCase(), pw = $("cpw").value;
+  if (!id && !pw) {                         // nothing entered: a guest
+    sessionStorage.setItem("shopsense-customer", JSON.stringify({guest: true}));
+    return location.href = "/ui/customer";
+  }
+  if (!id || !pw) return err.textContent = "Enter both the customer ID and the password, or leave both empty.";
+  const r = await fetch("/auth/customer", {method: "POST", headers: {"Content-Type": "application/json"},
+                                           body: JSON.stringify({customer_ref: id, password: pw})});
+  if (!r.ok) return err.textContent = r.status === 422 ? "A customer ID looks like KW-C-00123." : "Unknown customer ID or wrong password.";
+  const s = await r.json();
+  sessionStorage.setItem("shopsense-customer", JSON.stringify({ref: s.customer_ref, token: s.token}));
+  location.href = "/ui/customer";
+};
+
+$("f-support").onsubmit = async e => {
+  e.preventDefault(); err.textContent = "";
+  const username = $("sid").value.trim(), password = $("spw").value;
+  if (!username || !password) return err.textContent = "Enter your username and password.";
+  const r = await fetch("/auth/staff", {method: "POST", headers: {"Content-Type": "application/json"},
+                                        body: JSON.stringify({username, password})});
+  if (!r.ok) return err.textContent = "Unknown username or wrong password.";
+  sessionStorage.setItem("shopsense-reviewer-token", (await r.json()).token);
+  location.href = "/ui/support";
+};
+</script>
+</body>
+</html>

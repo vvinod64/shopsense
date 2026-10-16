@@ -1,0 +1,501 @@
+customer_ref,display_name,city,tier,joined_on,lifetime_orders,return_rate,flagged_for_abuse
+KW-C-00000,Jaime Holt,Port Stevenfurt,plus,2021-10-23,126,0.004,False
+KW-C-00001,Matthew Richardson,North Christopherfort,plus,2021-11-24,31,0.026,False
+KW-C-00002,Susan Walker,Hillville,standard,2022-11-01,37,0.213,False
+KW-C-00003,Catherine Washington,Evansberg,standard,2023-12-04,131,0.365,False
+KW-C-00004,Arthur Stout,South Lisa,standard,2025-06-13,12,0.133,False
+KW-C-00005,Justin Herrera,Brownshire,standard,2024-05-17,118,0.281,False
+KW-C-00006,Sabrina Pearson,Lake Priscilla,standard,2023-07-03,49,0.186,False
+KW-C-00007,Kyle White,Mcbrideville,standard,2025-09-22,114,0.13,False
+KW-C-00008,Kenneth Delgado,New Jonathanton,standard,2023-06-10,26,0.178,False
+KW-C-00009,Caleb Evans,South Tiffany,standard,2024-04-17,113,0.372,True
+KW-C-00010,Danielle Williams,Donnamouth,standard,2022-05-20,135,0.263,False
+KW-C-00011,John Edwards,Catherinehaven,plus,2023-06-25,133,0.151,False
+KW-C-00012,Brett Weiss,North Jacob,standard,2024-03-26,95,0.54,False
+KW-C-00013,Ronnie Bernard,New Michael,standard,2022-03-27,80,0.035,False
+KW-C-00014,Marcus Jones,Jorgeburgh,premium,2022-06-16,40,0.515,False
+KW-C-00015,Bradley King,Bentleyberg,plus,2022-01-02,51,0.22,False
+KW-C-00016,Andrea Oconnor,Lake Nathan,standard,2024-12-07,137,0.331,False
+KW-C-00017,Samantha Jacobs,Underwoodmouth,standard,2025-04-23,116,0.34,False
+KW-C-00018,Jessica Johnson DDS,West Davidville,plus,2022-10-17,60,0.351,False
+KW-C-00019,Jennifer Murphy,West Reginaview,plus,2023-11-09,92,0.234,False
+KW-C-00020,Robert Hill,South Tiffanybury,standard,2025-08-11,76,0.014,False
+KW-C-00021,Brian Frost,New Jessica,standard,2025-03-09,110,0.525,False
+KW-C-00022,Roberto Burns,Jackieport,standard,2023-06-10,35,0.337,False
+KW-C-00023,Lisa Mosley,West Stacey,plus,2025-11-21,54,0.478,False
+KW-C-00024,Gregory Figueroa,Woodsberg,premium,2024-09-12,116,0.389,False
+KW-C-00025,Michael Reeves,East Nicholas,plus,2022-11-03,113,0.128,False
+KW-C-00026,Amy Swanson,Jasminebury,premium,2023-05-11,10,0.075,False
+KW-C-00027,Jennifer Ellis,Andersenmouth,standard,2024-09-19,78,0.353,False
+KW-C-00028,Desiree Patterson,West Cynthia,standard,2023-01-28,77,0.05,False
+KW-C-00029,Eric Townsend,Lake Christopherbury,plus,2022-03-04,89,0.345,False
+KW-C-00030,Carmen Brown,Angelafort,standard,2025-04-08,100,0.013,False
+KW-C-00031,Alexandra Vaughan,South Tyler,standard,2024-01-25,99,0.466,False
+KW-C-00032,Megan Patel,South Alexanderborough,standard,2022-08-17,89,0.409,False
+KW-C-00033,Nichole Klein,Johnhaven,standard,2022-04-15,125,0.147,False
+KW-C-00034,Amanda West,Lake Sarah,premium,2022-07-25,109,0.035,True
+KW-C-00035,Stephanie Thompson,Maryhaven,standard,2022-12-17,43,0.042,False
+KW-C-00036,Anthony Simpson,West Tara,standard,2026-04-12,19,0.355,False
+KW-C-00037,Michael Decker,West Kevinport,plus,2022-06-05,59,0.433,False
+KW-C-00038,Aaron Welch,Robinsonport,standard,2025-08-31,99,0.384,False
+KW-C-00039,Tina Robertson,South Patriciafort,standard,2026-05-15,53,0.382,False
+KW-C-00040,Aaron Stevens,Michaeltown,standard,2022-09-05,33,0.295,False
+KW-C-00041,Nathan Morales,North Ryanborough,standard,2023-08-22,52,0.424,True
+KW-C-00042,Jose Hernandez,South Adamview,standard,2024-07-18,8,0.316,False
+KW-C-00043,James Evans,Mcclainside,standard,2023-03-06,30,0.307,False
+KW-C-00044,Ashley Gonzales,Martinstad,standard,2025-06-30,32,0.33,False
+KW-C-00045,Abigail Stephenson,North Jake,standard,2025-04-16,20,0.001,False
+KW-C-00046,James Manning,East Elizabethfort,plus,2023-08-19,72,0.096,False
+KW-C-00047,Victoria Wilson,Pierceberg,standard,2022-09-04,35,0.374,False
+KW-C-00048,Phillip Macias,Andersonville,standard,2026-03-20,11,0.04,False
+KW-C-00049,Beth Cooper,Port Gabrielleton,plus,2025-03-09,57,0.49,False
+KW-C-00050,Gloria Bray,South Timothyport,standard,2021-09-21,25,0.261,False
+KW-C-00051,Dr. David Hernandez,East Juan,standard,2022-11-10,78,0.152,False
+KW-C-00052,Dennis Haynes,Gonzalezville,standard,2021-10-24,43,0.116,False
+KW-C-00053,Kathryn White,East David,standard,2025-06-25,78,0.468,False
+KW-C-00054,Donald Lee,South Andres,standard,2024-03-13,36,0.478,False
+KW-C-00055,Sean James,Isabelbury,standard,2026-04-05,99,0.135,False
+KW-C-00056,Jeffery Brown,Schneiderport,standard,2022-02-24,92,0.404,False
+KW-C-00057,Jack Hahn,Wrightton,plus,2024-06-07,92,0.32,False
+KW-C-00058,Aaron Guerrero,Jasonfort,standard,2025-04-26,97,0.468,False
+KW-C-00059,Lawrence Jordan,Stacystad,standard,2021-12-20,7,0.119,False
+KW-C-00060,Brian Caldwell,West Michael,plus,2026-03-30,83,0.001,False
+KW-C-00061,Natalie Chapman,Johnview,plus,2024-07-03,17,0.401,False
+KW-C-00062,James Eaton,Lake Julia,plus,2023-11-22,74,0.509,False
+KW-C-00063,Kevin Barr,East Janet,standard,2025-09-05,37,0.099,False
+KW-C-00064,Angela Payne,Kevinfort,standard,2021-08-04,77,0.258,False
+KW-C-00065,Christina Le MD,South Andrea,standard,2023-09-26,93,0.152,False
+KW-C-00066,Shawn Castaneda,Patriciamouth,standard,2024-10-06,124,0.161,False
+KW-C-00067,Autumn Graham,Barneshaven,standard,2022-05-17,30,0.143,False
+KW-C-00068,Carol Hill,West Brandon,standard,2025-12-25,120,0.324,False
+KW-C-00069,Rebecca Benson,Simpsonside,standard,2021-08-27,75,0.008,False
+KW-C-00070,Valerie Martin,Hartfurt,standard,2025-10-19,112,0.234,False
+KW-C-00071,Devon White,New Jeffery,standard,2026-01-29,96,0.276,False
+KW-C-00072,Sherry Gibbs,Gordonhaven,plus,2026-02-22,123,0.531,False
+KW-C-00073,Samuel Phillips,Andreaburgh,standard,2022-04-21,84,0.051,False
+KW-C-00074,Joseph Carter,West Sara,standard,2025-09-05,137,0.227,False
+KW-C-00075,Richard Day,Port Jason,premium,2021-09-17,125,0.439,False
+KW-C-00076,Matthew Chen,Markside,standard,2021-12-21,104,0.347,False
+KW-C-00077,Casey Villanueva,Markton,standard,2024-05-25,117,0.461,False
+KW-C-00078,Alexandra Kelly,Gregorytown,standard,2021-08-09,37,0.475,False
+KW-C-00079,Veronica Osborne,Lake Juliefurt,standard,2023-08-31,19,0.205,False
+KW-C-00080,Dawn Sims,Port Scott,plus,2023-04-03,4,0.222,False
+KW-C-00081,Damon Soto,Moorebury,standard,2023-02-28,129,0.237,False
+KW-C-00082,Jessica Hernandez,Davisburgh,standard,2024-06-08,5,0.371,False
+KW-C-00083,Robert Thompson,Hardingburgh,standard,2024-01-15,25,0.053,False
+KW-C-00084,Alisha Martin,Port Phillip,standard,2025-01-23,123,0.02,False
+KW-C-00085,Andrea Jones,South Regina,standard,2026-05-28,37,0.011,False
+KW-C-00086,Ariel Rose,New Coryfurt,standard,2023-09-17,53,0.467,False
+KW-C-00087,Ronald Hines,East Johnland,standard,2022-09-30,72,0.021,False
+KW-C-00088,Todd Greene,Port Danielmouth,standard,2022-09-11,48,0.366,True
+KW-C-00089,Angela Taylor,Ochoaport,standard,2021-10-26,25,0.528,False
+KW-C-00090,Christopher Brown,Courtneyville,plus,2022-03-25,30,0.417,False
+KW-C-00091,Andrew Stephens,New Oliviachester,standard,2023-06-28,26,0.106,False
+KW-C-00092,Thomas Johnson,Cruzstad,standard,2025-12-25,97,0.525,False
+KW-C-00093,Courtney Koch,Mcdanielville,standard,2023-08-28,66,0.185,False
+KW-C-00094,William Walker DVM,Michaelmouth,standard,2024-06-02,33,0.119,False
+KW-C-00095,Thomas Gillespie,New Edwardchester,standard,2024-02-14,114,0.236,True
+KW-C-00096,Linda Shelton,Lake Gloria,standard,2025-12-10,111,0.236,False
+KW-C-00097,Donna Hutchinson,Sabrinastad,plus,2024-08-14,64,0.24,False
+KW-C-00098,Rita Dawson,Port Aaronberg,standard,2023-08-25,71,0.364,False
+KW-C-00099,Bridget Hernandez,Griffithfort,standard,2023-02-04,121,0.457,False
+KW-C-00100,Ashley Simmons,Duanemouth,plus,2022-05-15,86,0.379,False
+KW-C-00101,Catherine Cruz MD,Olsonchester,premium,2025-01-09,95,0.448,False
+KW-C-00102,Mallory Taylor,South Robert,standard,2025-09-26,100,0.528,False
+KW-C-00103,Joseph Patel PhD,Millerchester,standard,2025-12-06,16,0.341,False
+KW-C-00104,Paula Shepherd,Lake Christopher,standard,2023-11-08,122,0.431,False
+KW-C-00105,Dalton Jefferson,Angelaberg,standard,2024-09-27,41,0.159,False
+KW-C-00106,Amy Bailey,West Steven,premium,2023-11-21,101,0.239,False
+KW-C-00107,Kristen Velazquez,Sanchezbury,standard,2023-05-11,105,0.07,False
+KW-C-00108,Chad Hayden,South Jessica,plus,2026-04-11,87,0.411,False
+KW-C-00109,Jessica Brown,Lake Bonniefort,standard,2024-11-20,127,0.508,False
+KW-C-00110,Sheila Johnson,Donaldbury,standard,2025-08-16,21,0.086,False
+KW-C-00111,Keith Cervantes,Port Ian,standard,2025-02-22,51,0.41,False
+KW-C-00112,Nicole Hale,Theodoremouth,standard,2023-11-23,55,0.517,False
+KW-C-00113,Matthew Smith,East Brianton,standard,2025-11-03,110,0.135,False
+KW-C-00114,Carrie Martin,Wallmouth,standard,2022-06-13,101,0.402,False
+KW-C-00115,Sandra Ellison,Jennachester,standard,2023-08-06,140,0.433,False
+KW-C-00116,Denise Davis,Spenceberg,standard,2023-07-01,129,0.046,False
+KW-C-00117,Jennifer Brown,Whiteside,plus,2023-04-05,119,0.049,False
+KW-C-00118,Angela Schwartz,Edwardsfurt,standard,2023-05-11,122,0.072,False
+KW-C-00119,Carmen Pratt,Leeville,standard,2021-08-15,25,0.151,False
+KW-C-00120,Jack Maxwell,Anthonyport,plus,2026-04-19,5,0.306,False
+KW-C-00121,Brian Lewis,Port Reneeborough,plus,2026-06-20,54,0.065,False
+KW-C-00122,Margaret Johnson,Christophershire,premium,2024-12-21,51,0.326,False
+KW-C-00123,Kristy Tyler,North Leonardport,plus,2024-12-17,48,0.178,False
+KW-C-00124,Howard Campbell,Portermouth,standard,2022-12-26,100,0.463,False
+KW-C-00125,Molly Dickson,West Richardhaven,plus,2023-05-01,49,0.329,False
+KW-C-00126,Robert Hernandez,Woodston,plus,2024-02-22,3,0.118,False
+KW-C-00127,Christian Ford,Lake Jesseborough,standard,2022-04-07,29,0.1,False
+KW-C-00128,Martha Mack,New Zachary,plus,2024-01-26,118,0.049,False
+KW-C-00129,Marisa Conrad,Sethberg,premium,2021-10-20,106,0.375,False
+KW-C-00130,Isaac Chase,Williamsfurt,standard,2023-06-18,29,0.018,False
+KW-C-00131,Zachary Lawson,New Courtney,standard,2024-07-24,8,0.062,False
+KW-C-00132,Robert Thomas PhD,South Clintonmouth,standard,2023-11-25,9,0.419,False
+KW-C-00133,Edward Jones,Michaelland,standard,2023-11-25,70,0.118,False
+KW-C-00134,Raymond Scott,Goodmouth,standard,2025-09-07,53,0.526,False
+KW-C-00135,Brenda Martinez,Williamsport,plus,2023-12-24,12,0.454,False
+KW-C-00136,Scott Stark,South Michael,standard,2022-05-04,16,0.525,False
+KW-C-00137,Tiffany Brooks,Hunterview,standard,2023-06-06,10,0.041,False
+KW-C-00138,Wendy Williams,Lake Krystalside,standard,2022-06-20,103,0.006,False
+KW-C-00139,Samuel Roberts,New Reginald,standard,2022-04-17,7,0.026,False
+KW-C-00140,James Ford,West Stevenside,plus,2022-12-17,10,0.083,False
+KW-C-00141,Julie Miller,South Kaylaborough,plus,2025-02-17,31,0.222,False
+KW-C-00142,Austin Peterson,Lewisfort,standard,2022-03-15,11,0.136,False
+KW-C-00143,Jesse Gardner,Thomasborough,premium,2023-04-17,67,0.276,False
+KW-C-00144,Andre Burke,Brownstad,standard,2026-04-18,67,0.488,False
+KW-C-00145,Veronica Lewis,Port Andrew,standard,2023-04-07,20,0.234,False
+KW-C-00146,Jenny King,North Donald,standard,2022-05-28,125,0.461,False
+KW-C-00147,Brad Russo,Savagehaven,standard,2026-03-18,98,0.032,False
+KW-C-00148,Steven White,North Pattychester,standard,2022-04-27,127,0.064,False
+KW-C-00149,Paul Martin,Sherifort,plus,2022-06-02,80,0.509,False
+KW-C-00150,Michael Martin,Gomezshire,premium,2024-03-02,119,0.368,True
+KW-C-00151,Adam Logan,North Jennifer,premium,2026-01-06,23,0.159,False
+KW-C-00152,Brianna Beck,Alexismouth,plus,2025-06-29,77,0.174,False
+KW-C-00153,Kathryn Stewart,Bakertown,premium,2022-03-23,55,0.533,False
+KW-C-00154,Terri Mathews DDS,North Jefferyborough,standard,2025-10-05,98,0.162,False
+KW-C-00155,Joshua Martin,Robinsonborough,standard,2023-08-14,21,0.021,False
+KW-C-00156,Valerie Ray,West Lisatown,standard,2022-07-13,98,0.067,False
+KW-C-00157,Eric Fuentes,Lake Victormouth,standard,2023-09-16,39,0.065,False
+KW-C-00158,Guy Clayton,Millsmouth,standard,2023-08-10,22,0.506,False
+KW-C-00159,Christopher Patterson,New Brooke,standard,2025-04-09,48,0.214,False
+KW-C-00160,Jane Bruce,Waltersville,standard,2024-07-07,87,0.092,False
+KW-C-00161,Renee Garcia DDS,Garciaside,plus,2025-10-24,80,0.491,True
+KW-C-00162,Jeremy Perkins,Lake Kellychester,standard,2023-12-29,125,0.396,False
+KW-C-00163,Ricardo Arnold,East Melissaville,plus,2026-03-15,71,0.286,False
+KW-C-00164,Riley Marshall,Smithstad,standard,2024-11-27,73,0.279,False
+KW-C-00165,Katie Adams,Kylechester,standard,2022-01-30,8,0.203,False
+KW-C-00166,April Stout,North Anthonystad,standard,2024-06-25,111,0.248,False
+KW-C-00167,Kelly Figueroa,Matthewshire,plus,2023-05-11,94,0.2,False
+KW-C-00168,Dana Beltran MD,Pooleshire,plus,2023-02-25,115,0.351,False
+KW-C-00169,Todd Myers,South Rebecca,standard,2025-01-09,35,0.418,False
+KW-C-00170,Jessica Garcia,New David,standard,2023-10-16,98,0.481,False
+KW-C-00171,Jenna Gill,Maryburgh,standard,2022-04-17,76,0.472,False
+KW-C-00172,Christina Davis,Smithshire,standard,2023-06-24,2,0.543,False
+KW-C-00173,Luke Stephens,New Patrickberg,standard,2025-03-02,47,0.143,False
+KW-C-00174,Miss Paula Lopez,West James,standard,2022-06-17,2,0.002,False
+KW-C-00175,Molly Roman,Townsendton,plus,2025-01-24,139,0.33,False
+KW-C-00176,Timothy Burton,North Stephenville,premium,2022-06-09,125,0.075,False
+KW-C-00177,Douglas Kline,North Troystad,standard,2023-01-07,50,0.276,False
+KW-C-00178,Christine Garcia,South Charlesland,standard,2022-12-16,36,0.126,False
+KW-C-00179,Jason Preston,Stokesburgh,standard,2026-04-26,40,0.156,False
+KW-C-00180,Steven Keller,North Theresastad,standard,2022-11-28,135,0.106,False
+KW-C-00181,Mr. Joshua Moore,Saraborough,standard,2024-02-11,9,0.001,False
+KW-C-00182,Kimberly Holmes,East Michelle,plus,2026-04-20,69,0.249,False
+KW-C-00183,Daniel Murphy,North Jessica,standard,2022-06-14,30,0.515,False
+KW-C-00184,Debra Olson,West Jeanport,standard,2024-04-05,50,0.175,False
+KW-C-00185,Robert Graham,Nielsenview,standard,2022-10-28,43,0.421,False
+KW-C-00186,Michael Clay,Suzanneville,standard,2021-08-26,112,0.159,False
+KW-C-00187,Pamela Collins,Lake Tony,premium,2024-08-22,126,0.306,True
+KW-C-00188,Jessica Burgess,Cindyfurt,plus,2026-01-16,62,0.016,False
+KW-C-00189,Keith Brooks,South Garyton,standard,2022-03-16,7,0.492,False
+KW-C-00190,Dawn Ortiz,Raymondville,standard,2024-05-21,63,0.166,False
+KW-C-00191,Frank Gibbs,Johnborough,plus,2022-08-29,131,0.419,False
+KW-C-00192,Jacqueline Chan,North Lucastown,standard,2024-01-13,121,0.306,False
+KW-C-00193,Cindy Bradley,Rachelside,standard,2022-09-06,10,0.096,False
+KW-C-00194,Drew Lewis,North Ann,standard,2023-06-27,6,0.212,False
+KW-C-00195,Theresa Aguirre,New Patriciachester,standard,2026-05-05,7,0.371,False
+KW-C-00196,Jessica Li,East Brandon,standard,2022-07-26,38,0.054,False
+KW-C-00197,Anthony Hill Jr.,Jacksonmouth,standard,2025-05-14,65,0.512,False
+KW-C-00198,Cynthia Smith,Lake Kristashire,plus,2025-01-03,4,0.175,False
+KW-C-00199,Susan Mitchell DVM,Johnsonside,standard,2024-07-07,127,0.431,False
+KW-C-00200,Amanda Newman,South Codychester,standard,2021-10-06,140,0.418,False
+KW-C-00201,Denise Molina,Millermouth,plus,2021-08-04,108,0.332,False
+KW-C-00202,Anthony Evans DVM,Allisonville,standard,2024-02-14,92,0.492,False
+KW-C-00203,Teresa Garcia,North Margaret,plus,2025-03-27,4,0.207,False
+KW-C-00204,Wyatt Callahan,Perezland,standard,2025-02-28,118,0.132,False
+KW-C-00205,Steven Wood,Lake Mirandaview,standard,2025-05-12,12,0.046,False
+KW-C-00206,Amanda Williams,Charlesmouth,standard,2022-05-19,58,0.23,False
+KW-C-00207,Rebecca Gray,East Brandy,standard,2026-04-12,15,0.077,False
+KW-C-00208,Francisco Hernandez,Walshville,standard,2023-12-21,50,0.263,False
+KW-C-00209,Cynthia Woods,Braymouth,standard,2024-12-20,76,0.148,False
+KW-C-00210,Karen Davis,Jenniferstad,plus,2023-02-13,83,0.441,False
+KW-C-00211,Shelley Keller,Lake Christian,standard,2023-02-25,62,0.409,False
+KW-C-00212,Amy Smith,South Lori,standard,2024-02-25,132,0.003,True
+KW-C-00213,Brian Clark,Kathleenport,standard,2022-08-28,79,0.061,False
+KW-C-00214,Mary Abbott,East Jefferystad,standard,2024-12-21,28,0.18,False
+KW-C-00215,Jesse Oliver,Port Ricardo,standard,2021-10-30,99,0.096,False
+KW-C-00216,Jay Parks,East Stevenville,plus,2021-09-17,42,0.153,False
+KW-C-00217,Cynthia Shannon,West Anthony,standard,2023-05-25,57,0.361,False
+KW-C-00218,Jodi Baker,West Ryanberg,standard,2024-01-23,92,0.1,False
+KW-C-00219,Jeffrey Cook,Nelsonville,standard,2026-02-28,36,0.289,False
+KW-C-00220,James Reilly,West Jaime,standard,2022-10-10,112,0.216,False
+KW-C-00221,Donald Lawson,Rodriguezton,standard,2022-05-11,114,0.087,False
+KW-C-00222,Tina Robinson,North Barbarabury,premium,2022-10-07,34,0.015,False
+KW-C-00223,Brian Perez,Myersville,standard,2023-02-02,31,0.198,False
+KW-C-00224,Roger Holt,Harrisborough,standard,2025-01-15,98,0.332,False
+KW-C-00225,Dwayne Carlson,North Jacksonfort,premium,2021-08-17,102,0.122,False
+KW-C-00226,Sarah Watts,West Erin,standard,2021-11-12,56,0.067,False
+KW-C-00227,Gary Gibson,Lake Thomasmouth,standard,2021-12-20,78,0.292,False
+KW-C-00228,William Ibarra,Lake Kathleen,standard,2023-02-27,39,0.025,False
+KW-C-00229,Harold Wells,South Morganfort,standard,2022-06-28,62,0.354,False
+KW-C-00230,Robert Bradley,Maryhaven,standard,2025-09-30,125,0.047,False
+KW-C-00231,Nicole Rowe,West Lindamouth,standard,2021-10-08,48,0.39,False
+KW-C-00232,Nicholas Fritz,Elizabethview,standard,2024-10-15,38,0.101,False
+KW-C-00233,Adam Gomez,Patriciafort,plus,2023-12-22,127,0.035,False
+KW-C-00234,Michael Chandler,East Tiffanybury,standard,2024-03-19,1,0.4,False
+KW-C-00235,Brenda Jimenez,New Joyce,standard,2022-10-19,59,0.0,False
+KW-C-00236,Heather Garner,South Danielle,standard,2023-06-08,35,0.409,False
+KW-C-00237,Sherry Shelton,Archerhaven,standard,2025-07-28,120,0.504,False
+KW-C-00238,Thomas Bailey,Peterchester,standard,2024-05-28,97,0.159,False
+KW-C-00239,Desiree Lee,Maryville,plus,2025-05-12,4,0.43,False
+KW-C-00240,Jesse Donaldson,Keithtown,standard,2024-08-02,51,0.373,False
+KW-C-00241,Mr. John Hernandez DVM,West Tommy,standard,2022-04-08,116,0.536,False
+KW-C-00242,Edward Chavez,West Margaret,standard,2025-03-24,88,0.032,False
+KW-C-00243,John Smith,Donnatown,standard,2025-02-21,18,0.069,False
+KW-C-00244,Chad Koch,North Jennifer,standard,2022-04-28,83,0.262,False
+KW-C-00245,Nicholas Reynolds,West Jefferyfort,standard,2022-02-04,40,0.073,False
+KW-C-00246,Danielle Gregory,Hendersonville,standard,2025-08-27,114,0.013,False
+KW-C-00247,Tami Harper,New Ryan,standard,2025-03-22,53,0.184,False
+KW-C-00248,Regina Taylor,West Derek,standard,2025-09-21,32,0.297,False
+KW-C-00249,Elizabeth Miller,Gardnerfurt,standard,2022-10-05,97,0.45,False
+KW-C-00250,Sandra Davis,Bensonhaven,standard,2025-12-12,95,0.228,False
+KW-C-00251,Michelle Mcdonald,Owenschester,standard,2024-01-08,39,0.333,False
+KW-C-00252,Thomas Johnson,Davisberg,standard,2023-09-02,117,0.457,False
+KW-C-00253,Elizabeth Sanchez,Davidside,standard,2026-02-28,39,0.481,False
+KW-C-00254,Sherry Brown,Martineztown,standard,2022-10-21,67,0.241,False
+KW-C-00255,Phillip Holmes,North Brianville,standard,2024-10-26,98,0.337,False
+KW-C-00256,Brent Roberts,Vaughnton,standard,2026-02-20,67,0.057,False
+KW-C-00257,Kevin Dixon,Lake Jamieberg,standard,2025-10-24,106,0.188,False
+KW-C-00258,Tracy Taylor,West Courtney,premium,2023-05-17,135,0.077,False
+KW-C-00259,Taylor Shaffer,North Carlos,plus,2021-11-04,100,0.442,False
+KW-C-00260,Spencer Meyer,East Dale,standard,2024-01-29,48,0.237,False
+KW-C-00261,Jonathan Myers,West Richardburgh,plus,2024-09-21,17,0.443,False
+KW-C-00262,Sarah Payne,Villarrealville,premium,2024-04-09,89,0.121,False
+KW-C-00263,Mark Lopez,East William,standard,2024-09-10,101,0.173,False
+KW-C-00264,Christina Castillo,Elizabethshire,standard,2025-01-29,67,0.291,False
+KW-C-00265,Michael Myers DDS,South Robertchester,standard,2022-12-11,43,0.153,False
+KW-C-00266,Drew Wilson,Smithport,standard,2024-09-17,31,0.012,False
+KW-C-00267,Matthew Sandoval,Williamsstad,standard,2021-08-20,106,0.318,False
+KW-C-00268,Julie Sharp,Albertburgh,standard,2024-11-04,137,0.511,False
+KW-C-00269,Scott Gordon,Rachelhaven,standard,2022-01-17,108,0.421,False
+KW-C-00270,Arthur Rios,Dianashire,plus,2025-10-09,46,0.329,False
+KW-C-00271,Mike Buchanan,Kristenport,standard,2021-10-09,113,0.321,False
+KW-C-00272,Andrea Franco,Bennettfort,standard,2023-11-17,36,0.04,False
+KW-C-00273,Catherine Erickson,Davidmouth,standard,2024-09-28,2,0.102,False
+KW-C-00274,Lauren Silva,Jonestown,standard,2025-10-13,119,0.303,False
+KW-C-00275,Caitlin Davis,South Sarahfort,premium,2021-08-21,74,0.501,False
+KW-C-00276,David Ingram,North Rachel,plus,2025-07-12,36,0.205,False
+KW-C-00277,Steven Campos,Nielsenton,standard,2022-01-10,118,0.013,False
+KW-C-00278,Ashley Bradford,South Kathryntown,standard,2022-09-22,24,0.161,False
+KW-C-00279,Erica Hale,Andersonshire,plus,2022-10-23,63,0.106,False
+KW-C-00280,Christina Henry,Jeremiahburgh,plus,2022-01-23,70,0.174,False
+KW-C-00281,Joseph Tyler,New Andrewville,standard,2024-12-27,114,0.006,False
+KW-C-00282,Robert Barry,Kimshire,standard,2022-10-13,134,0.234,True
+KW-C-00283,Andrea Lopez,Leeborough,standard,2022-10-06,39,0.015,False
+KW-C-00284,Kara Bell,Port Carlos,standard,2025-12-28,75,0.277,False
+KW-C-00285,James Jones,East Kimberlyport,standard,2023-09-27,140,0.112,False
+KW-C-00286,Jonathan Williams,Andrewport,standard,2025-06-04,98,0.013,False
+KW-C-00287,Danielle Warner,Port Monicaport,standard,2026-03-07,104,0.274,False
+KW-C-00288,Kenneth Castaneda,Reginaldton,standard,2023-05-07,98,0.005,False
+KW-C-00289,Stephanie Aguilar,Deniseton,standard,2024-01-08,112,0.482,False
+KW-C-00290,Dean Cook,East Jamesmouth,standard,2024-09-26,108,0.154,False
+KW-C-00291,Mary Johns,South Charles,standard,2023-03-08,38,0.144,False
+KW-C-00292,Sue Warner,West Tinachester,plus,2026-05-20,56,0.206,False
+KW-C-00293,Lisa Miller,Pottsview,premium,2021-08-05,20,0.06,False
+KW-C-00294,Ashley Crawford,Lake Michael,standard,2025-08-17,89,0.433,False
+KW-C-00295,Richard Walter,North Sarah,standard,2022-02-04,139,0.483,False
+KW-C-00296,Richard Gonzalez,Flemingtown,standard,2025-12-02,10,0.157,False
+KW-C-00297,Amy Cannon,South Jacqueline,standard,2022-02-09,70,0.133,False
+KW-C-00298,Ashley Wilson,Michaelmouth,standard,2025-11-30,88,0.042,False
+KW-C-00299,Anthony Hall,East Robertside,standard,2026-01-11,27,0.151,False
+KW-C-00300,Wendy Smith,Port Brian,standard,2025-06-25,82,0.194,True
+KW-C-00301,Jeffrey Campbell,Michaelbury,standard,2021-09-08,27,0.507,False
+KW-C-00302,Mrs. Jennifer Sandoval DDS,West Shawnaborough,standard,2023-12-25,115,0.06,False
+KW-C-00303,Nicholas Kelly DVM,South Jennifer,standard,2023-10-26,10,0.05,False
+KW-C-00304,Penny Carter,New Patricia,standard,2025-07-09,27,0.223,False
+KW-C-00305,Joshua Garcia,Rachelfort,standard,2023-04-28,124,0.386,False
+KW-C-00306,Dalton Taylor,West Judy,standard,2025-12-22,100,0.233,False
+KW-C-00307,Jaime Velasquez,North Tiffany,premium,2022-07-18,22,0.313,False
+KW-C-00308,Marie Chavez,North Victorton,plus,2025-04-25,92,0.319,False
+KW-C-00309,Kevin Evans,North Joshuafurt,standard,2023-04-13,41,0.228,False
+KW-C-00310,Scott Cruz Jr.,South Jack,standard,2024-04-25,8,0.183,False
+KW-C-00311,Anthony Torres,Sharonmouth,standard,2023-03-14,66,0.196,False
+KW-C-00312,Susan Patrick,Port Anthony,standard,2025-03-05,84,0.242,False
+KW-C-00313,Lisa Glenn,Port Danielfurt,standard,2024-09-08,62,0.543,False
+KW-C-00314,Tara Mitchell,Colemanshire,standard,2025-12-01,42,0.155,False
+KW-C-00315,Debbie Horne,Reesebury,standard,2022-05-22,120,0.498,False
+KW-C-00316,Adrian Marsh,Christopherbury,standard,2021-12-14,18,0.375,False
+KW-C-00317,Elizabeth Duncan,New Joshuaview,standard,2025-03-15,110,0.301,False
+KW-C-00318,Rachel Patrick,North Kurtmouth,standard,2023-04-23,2,0.083,False
+KW-C-00319,Sarah Wallace,South Alanton,standard,2025-07-07,46,0.263,False
+KW-C-00320,Karen Richard,South Brian,standard,2023-06-23,66,0.174,False
+KW-C-00321,Destiny Bishop,Stephaniemouth,plus,2022-02-08,43,0.176,False
+KW-C-00322,Ralph Hill,Martinezburgh,standard,2024-02-19,110,0.059,False
+KW-C-00323,Luke Williams,Lake Benjaminhaven,plus,2025-07-23,49,0.518,True
+KW-C-00324,Lauren Williams,North Stephanie,plus,2025-08-07,33,0.487,False
+KW-C-00325,Vanessa Smith DVM,Amberton,standard,2023-06-28,43,0.523,False
+KW-C-00326,Hannah Jones,Wilsonland,standard,2022-07-28,31,0.483,False
+KW-C-00327,Gabriel Watson,Joneschester,standard,2022-09-04,124,0.359,False
+KW-C-00328,Briana Nguyen,Matthewchester,standard,2022-02-09,3,0.243,False
+KW-C-00329,Jade Dunlap,Christyburgh,standard,2022-10-16,72,0.077,False
+KW-C-00330,Earl Hernandez,North Chelseamouth,standard,2023-06-06,14,0.192,False
+KW-C-00331,Priscilla Romero,Shelbyfurt,plus,2025-05-22,121,0.052,False
+KW-C-00332,Amanda Barber,Farmerland,premium,2025-03-21,31,0.373,False
+KW-C-00333,Tina Gay,Ryanville,standard,2024-10-14,94,0.39,False
+KW-C-00334,Kelsey Williams,Hopkinshaven,plus,2025-01-04,117,0.224,True
+KW-C-00335,Derrick Huff,Rhondamouth,standard,2024-10-18,135,0.47,False
+KW-C-00336,Randall Cox,Edwardsville,plus,2021-09-21,5,0.338,False
+KW-C-00337,Jill Rosario,Coxstad,standard,2023-12-25,36,0.543,False
+KW-C-00338,Angela Cox,Jacobsmouth,plus,2023-04-04,118,0.343,False
+KW-C-00339,Crystal Carey,New John,standard,2022-05-03,20,0.418,False
+KW-C-00340,Megan Wade,Lauramouth,standard,2021-09-12,118,0.012,False
+KW-C-00341,Brad Fisher,New Troy,standard,2023-08-28,108,0.028,False
+KW-C-00342,Christina White,Smithville,standard,2022-07-23,22,0.499,False
+KW-C-00343,Ralph Dawson,Newtonberg,plus,2022-05-28,12,0.038,False
+KW-C-00344,Sandra Johnson,North David,plus,2025-02-24,3,0.017,True
+KW-C-00345,Tamara Strong,Davidside,standard,2026-05-09,54,0.368,False
+KW-C-00346,Edward Rogers,Brittanyville,plus,2025-06-18,53,0.121,False
+KW-C-00347,Amber Rodgers MD,Lozanomouth,standard,2023-05-07,92,0.271,False
+KW-C-00348,Jessica Todd,Lake Isaac,standard,2023-12-31,104,0.26,False
+KW-C-00349,Sydney Zuniga,East Paulashire,standard,2023-08-25,130,0.508,False
+KW-C-00350,Megan Chavez,Samuelhaven,standard,2023-12-31,62,0.447,True
+KW-C-00351,Diana Mejia,West Trevor,standard,2025-10-17,36,0.45,False
+KW-C-00352,Joseph Fox,Mitchellfurt,standard,2025-12-30,37,0.171,False
+KW-C-00353,Christopher Thomas,South April,standard,2023-01-01,128,0.368,False
+KW-C-00354,Lisa Garcia,Gabrielport,standard,2021-11-17,37,0.011,False
+KW-C-00355,Jeffrey Mcclure,Sheilaview,standard,2024-03-04,97,0.434,False
+KW-C-00356,Nicole Middleton DDS,North Jamie,standard,2026-05-06,87,0.154,False
+KW-C-00357,Nicole Johnson,New Amandaborough,standard,2022-07-24,103,0.525,False
+KW-C-00358,Ronnie Johnson,West Shelly,standard,2023-04-09,61,0.176,False
+KW-C-00359,Monique Meyer,Phillipsville,standard,2023-06-07,98,0.329,False
+KW-C-00360,Tamara Wilson,Snyderland,plus,2021-09-11,23,0.499,False
+KW-C-00361,Wendy Dennis,West Lindabury,standard,2022-01-12,135,0.451,False
+KW-C-00362,Erin Hunter,Shawnhaven,standard,2025-05-10,134,0.063,True
+KW-C-00363,Angela Watts,South Craighaven,premium,2026-02-09,12,0.095,False
+KW-C-00364,Ryan Guerrero,Lake Courtneybury,premium,2024-06-11,72,0.035,False
+KW-C-00365,James Hahn,West Theodore,premium,2023-02-11,13,0.342,False
+KW-C-00366,Mr. Jonathan Anderson,New Mercedesborough,premium,2023-06-18,114,0.229,False
+KW-C-00367,Austin Grant,Lake Gregory,plus,2024-12-08,44,0.294,False
+KW-C-00368,Dennis James,Lake Michael,standard,2022-04-15,36,0.542,False
+KW-C-00369,Tiffany Humphrey,West Elizabeth,standard,2022-02-25,90,0.469,False
+KW-C-00370,Mark Harper MD,Colinville,standard,2025-06-28,66,0.423,False
+KW-C-00371,Stephanie Gallagher,Montesmouth,plus,2023-06-17,19,0.546,False
+KW-C-00372,Jeffery Thompson,Donnastad,standard,2024-07-21,55,0.371,False
+KW-C-00373,Michele Ayala,Larsenfort,standard,2025-04-07,128,0.511,False
+KW-C-00374,Melissa Johnson,Williamchester,standard,2024-01-21,36,0.052,False
+KW-C-00375,Raymond Green,Robertmouth,standard,2024-03-17,36,0.367,False
+KW-C-00376,Dean Brown,Chandlermouth,standard,2025-01-21,92,0.356,False
+KW-C-00377,Amber West,New Nancy,standard,2025-09-19,110,0.263,False
+KW-C-00378,Penny Rodriguez,Davidside,standard,2025-08-28,102,0.478,False
+KW-C-00379,Nathan Lang,Port Janetstad,standard,2023-06-06,105,0.51,False
+KW-C-00380,Kristen Pena,West Amanda,standard,2024-08-17,7,0.048,False
+KW-C-00381,Dr. Jennifer Robbins,Lauriestad,plus,2022-12-17,118,0.508,False
+KW-C-00382,Daniel Quinn,North Meganhaven,standard,2025-03-15,111,0.239,False
+KW-C-00383,James Washington,West Kevin,standard,2021-09-06,50,0.246,False
+KW-C-00384,Raymond Wright,Karenfurt,premium,2024-05-07,44,0.103,False
+KW-C-00385,Bonnie Yang,Michelleland,standard,2026-02-28,1,0.255,False
+KW-C-00386,Nathan Farmer,Smithside,standard,2024-04-16,138,0.058,False
+KW-C-00387,Brittany Fitzgerald,Leeport,standard,2025-09-02,120,0.084,False
+KW-C-00388,Jessica Paul,Joshuaborough,standard,2025-10-21,98,0.163,False
+KW-C-00389,Wayne Johnston,Carterland,standard,2026-04-29,95,0.528,False
+KW-C-00390,Jason Ramirez,Rebeccaside,standard,2022-03-15,75,0.069,False
+KW-C-00391,Janet Kaiser,Beanside,plus,2024-11-18,85,0.266,False
+KW-C-00392,Jodi Lane,South Kelliemouth,standard,2022-10-08,91,0.477,False
+KW-C-00393,Justin Day,Douglasland,standard,2026-02-12,113,0.044,False
+KW-C-00394,Christopher Hancock,Watkinsland,premium,2026-01-21,110,0.022,False
+KW-C-00395,Luis Wells,North Katrina,standard,2021-12-15,2,0.395,False
+KW-C-00396,Eric Morgan,North Marc,standard,2023-02-15,134,0.521,False
+KW-C-00397,Jennifer Smith,Port Anna,plus,2024-07-23,119,0.546,False
+KW-C-00398,Jonathan Chung II,Fletcherhaven,standard,2022-10-15,51,0.01,False
+KW-C-00399,Nancy Quinn,South Hollyfurt,plus,2024-06-23,4,0.035,False
+KW-C-00400,Adam Meyer,East Jamesville,plus,2021-11-22,127,0.151,False
+KW-C-00401,Jeff Jackson,Taylorside,premium,2024-12-31,89,0.082,False
+KW-C-00402,Adam Wilson,Jenniferview,standard,2023-03-12,105,0.333,False
+KW-C-00403,Lisa Watson,East Kelly,standard,2021-09-20,99,0.092,True
+KW-C-00404,Rebekah Crane,Aprilview,plus,2025-10-29,51,0.011,False
+KW-C-00405,Daniel Rivera,East Alice,standard,2023-01-21,99,0.358,False
+KW-C-00406,Alexandra Butler,South Carlos,standard,2026-06-21,116,0.2,False
+KW-C-00407,Emily Lopez,New Stephenville,plus,2024-01-15,7,0.384,False
+KW-C-00408,John Moore,Danabury,plus,2022-05-15,71,0.168,False
+KW-C-00409,Adrian Lee,Lorichester,premium,2024-09-17,105,0.373,False
+KW-C-00410,Elizabeth Weber,Villaside,standard,2024-10-27,139,0.497,False
+KW-C-00411,Mary Jones,North Jessica,standard,2024-03-03,65,0.517,False
+KW-C-00412,Dennis Garcia,Riverashire,standard,2022-02-22,72,0.209,False
+KW-C-00413,Tracy Mclaughlin,Clarktown,standard,2026-02-24,108,0.195,False
+KW-C-00414,Virginia Davis,East Fred,standard,2023-11-11,130,0.109,False
+KW-C-00415,Erica Huang,East Williammouth,plus,2023-07-13,91,0.36,False
+KW-C-00416,John Turner,East Annfurt,standard,2025-02-16,127,0.119,False
+KW-C-00417,Michelle Kelly,Alyssaborough,plus,2025-12-27,81,0.132,True
+KW-C-00418,Theresa Bass,Port Samuel,standard,2025-07-03,122,0.201,False
+KW-C-00419,Michael King,New Rachelstad,premium,2024-01-22,63,0.087,False
+KW-C-00420,Sean Wyatt,Jessicaborough,standard,2026-05-10,56,0.361,False
+KW-C-00421,Sherri Knapp,South Neil,standard,2025-04-01,87,0.477,True
+KW-C-00422,Whitney Gonzalez,Aliciatown,standard,2024-03-08,82,0.44,False
+KW-C-00423,Erin Bartlett,Wesleytown,plus,2023-01-27,137,0.148,False
+KW-C-00424,Amanda Hill,Sandersview,plus,2021-08-27,14,0.252,False
+KW-C-00425,Anthony Armstrong,Port Jenniferfort,plus,2023-04-03,12,0.383,False
+KW-C-00426,Lynn Henry DDS,North Mikeberg,plus,2025-10-02,37,0.464,False
+KW-C-00427,Cassandra Rosales,South Maryville,standard,2024-07-10,2,0.133,False
+KW-C-00428,Mark Brown,Port Amyborough,standard,2022-10-04,86,0.308,False
+KW-C-00429,Nancy Cook,Rachaelburgh,standard,2022-09-18,2,0.165,False
+KW-C-00430,Laurie Blackburn,Lake Richardton,standard,2026-05-15,25,0.171,False
+KW-C-00431,Roger Mason,Christophermouth,plus,2022-10-09,119,0.328,False
+KW-C-00432,Lee Barker,Thompsontown,standard,2023-07-25,58,0.413,False
+KW-C-00433,Justin Wilson,Carrollland,plus,2024-05-25,49,0.043,False
+KW-C-00434,Julie Wilson,East Jessicaburgh,plus,2022-07-15,37,0.131,False
+KW-C-00435,Mark Smith,Port Alex,standard,2023-01-02,103,0.197,False
+KW-C-00436,Julia Wiley,West Mary,plus,2022-11-08,112,0.462,False
+KW-C-00437,Stephanie Lee,West Brian,standard,2024-07-05,29,0.381,False
+KW-C-00438,Cassandra Taylor,Robertborough,standard,2026-01-30,50,0.305,False
+KW-C-00439,Curtis Krause,Heidiview,standard,2024-06-30,21,0.143,False
+KW-C-00440,Henry Cox,Gallegosburgh,premium,2022-04-10,60,0.178,False
+KW-C-00441,Ruben Cruz,Lake Ryan,standard,2024-03-05,89,0.456,False
+KW-C-00442,Melanie Roberts,Hollyhaven,standard,2025-06-12,9,0.508,False
+KW-C-00443,Natalie Adams,West Jeffery,standard,2026-03-18,28,0.229,False
+KW-C-00444,Thomas Holmes,South Donald,standard,2024-11-11,25,0.549,False
+KW-C-00445,Jacqueline Gray,West Jacquelinestad,standard,2024-04-14,122,0.206,False
+KW-C-00446,Aimee Fisher,Matthewville,plus,2023-01-02,109,0.142,False
+KW-C-00447,Hunter Martin,Port Andrew,plus,2021-10-30,132,0.142,False
+KW-C-00448,Joyce Johnston,Simonfort,premium,2025-05-06,101,0.088,False
+KW-C-00449,Dawn Brooks,Timothyfurt,premium,2025-03-11,60,0.046,False
+KW-C-00450,Wesley Rich,South Ronaldview,standard,2023-08-02,87,0.522,False
+KW-C-00451,Jennifer Johnson,West Olivia,standard,2022-02-02,80,0.185,False
+KW-C-00452,Terri Gonzalez,East Elizabeth,plus,2026-03-06,37,0.505,False
+KW-C-00453,Amy Davis,Port Michael,standard,2025-02-23,113,0.125,False
+KW-C-00454,Joe Hopkins,East Kevin,premium,2023-06-02,72,0.43,False
+KW-C-00455,David Harris,Lake Johnside,standard,2026-04-25,136,0.526,False
+KW-C-00456,Jacqueline Woods,Coryside,standard,2022-05-10,75,0.358,False
+KW-C-00457,Melissa Durham,Guerrabury,standard,2023-08-25,103,0.164,True
+KW-C-00458,Anne Anderson,South Kerri,standard,2026-04-16,45,0.432,False
+KW-C-00459,Sally Cross,Carlsonside,standard,2022-09-18,121,0.199,False
+KW-C-00460,John Yang,East Nicoleburgh,standard,2023-02-27,17,0.061,False
+KW-C-00461,Jackie Morgan,New Carolfurt,standard,2024-01-05,67,0.107,False
+KW-C-00462,Maria Taylor,North Jason,plus,2023-04-25,77,0.137,False
+KW-C-00463,Gerald Valdez,Hernandezport,standard,2022-04-22,10,0.377,False
+KW-C-00464,Roberto Johnson,Whitefurt,standard,2025-09-13,124,0.065,False
+KW-C-00465,Sandra Marshall,West Ginaville,standard,2025-01-20,38,0.376,False
+KW-C-00466,Jennifer Roman,West David,standard,2025-07-25,33,0.214,False
+KW-C-00467,Melissa Smith,Hendersonton,standard,2022-02-17,116,0.117,False
+KW-C-00468,David Walters,Shawfort,standard,2025-03-22,37,0.377,False
+KW-C-00469,Sarah Bonilla,Port Haroldchester,standard,2025-11-13,126,0.126,False
+KW-C-00470,Janet Leonard,North Matthew,standard,2026-04-06,64,0.218,False
+KW-C-00471,Leslie Gonzalez,Grahammouth,plus,2025-05-08,56,0.374,False
+KW-C-00472,Bryan Burns,Brendanstad,standard,2021-10-24,92,0.075,False
+KW-C-00473,George Phillips,New Josephport,standard,2021-08-05,114,0.354,False
+KW-C-00474,Alan Nguyen,New Danielton,standard,2022-04-10,96,0.475,False
+KW-C-00475,Jennifer Thompson,East Jessicafort,standard,2022-01-08,3,0.445,False
+KW-C-00476,Donald Bonilla,Port Rebecca,standard,2024-10-17,134,0.134,False
+KW-C-00477,Samantha Carroll,North Markton,standard,2023-05-26,80,0.351,False
+KW-C-00478,William Little,South Williamland,standard,2024-04-10,129,0.22,False
+KW-C-00479,Mark Turner,Johnsonview,standard,2021-12-28,70,0.005,False
+KW-C-00480,Natalie Miller,Sanfordborough,plus,2023-11-28,105,0.377,False
+KW-C-00481,Whitney Gilbert,Lake Lauren,standard,2022-03-04,138,0.391,False
+KW-C-00482,John Hodges,Hillburgh,plus,2026-03-12,130,0.053,False
+KW-C-00483,Michael Jacobs,Lake Justin,standard,2026-04-05,34,0.246,False
+KW-C-00484,Daniel Casey,West Joseph,plus,2024-04-02,26,0.134,False
+KW-C-00485,Vanessa Flores,East Andrew,standard,2026-03-24,80,0.088,True
+KW-C-00486,Arthur Roberts,Matthewsmouth,standard,2026-03-28,44,0.199,False
+KW-C-00487,Karen Grant,Matthewstad,standard,2026-04-07,51,0.377,False
+KW-C-00488,Brittany Dickerson,Clarkburgh,plus,2024-11-15,134,0.067,False
+KW-C-00489,Dawn Johnson,Lake Tommystad,standard,2025-02-12,3,0.131,False
+KW-C-00490,Paul Moreno,Kellymouth,standard,2022-04-26,123,0.545,False
+KW-C-00491,John Moore,New Michael,standard,2025-07-19,131,0.326,False
+KW-C-00492,Zachary Johnson,Angelafort,standard,2025-09-08,48,0.025,True
+KW-C-00493,Jaime Medina MD,North Randyborough,standard,2023-10-09,26,0.429,False
+KW-C-00494,Laura White MD,Piercestad,plus,2025-06-21,30,0.239,False
+KW-C-00495,Jennifer Greene,Kayleeville,standard,2021-10-27,137,0.461,False
+KW-C-00496,Melissa Schultz,Wayneside,standard,2025-06-27,2,0.291,False
+KW-C-00497,Scott Simpson,Mitchellmouth,standard,2022-04-09,68,0.439,False
+KW-C-00498,Shane Ross,New Mariamouth,standard,2024-09-04,108,0.333,False
+KW-C-00499,Melinda Garcia,Mccannchester,standard,2024-06-18,100,0.452,False

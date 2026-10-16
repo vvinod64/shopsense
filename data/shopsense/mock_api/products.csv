@@ -1,0 +1,601 @@
+sku,title,category,price_inr,seller_id,in_stock,warranty_months
+KW-SKU-000000,Gold Provide Furniture,Furniture,24999,KW-S-0064,True,12
+KW-SKU-000001,Black Present Furniture,Furniture,799,KW-S-0089,True,24
+KW-SKU-000002,Ivory Certainly Grocerie,Groceries,1499,KW-S-0109,True,24
+KW-SKU-000003,SteelBlue Be Toy,Toys,24999,KW-S-0014,True,12
+KW-SKU-000004,PaleTurquoise Young Grocerie,Groceries,54999,KW-S-0070,True,0
+KW-SKU-000005,Beige Garden Toy,Toys,12999,KW-S-0064,True,0
+KW-SKU-000006,LightBlue Compare Beauty,Beauty,54999,KW-S-0096,True,0
+KW-SKU-000007,SeaShell Return Apparel,Apparel,1499,KW-S-0028,True,6
+KW-SKU-000008,DarkGoldenRod Hospital Grocerie,Groceries,799,KW-S-0039,True,12
+KW-SKU-000009,Beige Situation Grocerie,Groceries,1499,KW-S-0064,True,0
+KW-SKU-000010,Orange Old Electronic,Electronics,6499,KW-S-0088,True,12
+KW-SKU-000011,Teal Treat Grocerie,Groceries,799,KW-S-0088,True,0
+KW-SKU-000012,GoldenRod To Toy,Toys,1499,KW-S-0038,True,0
+KW-SKU-000013,DodgerBlue Lot Grocerie,Groceries,24999,KW-S-0027,False,12
+KW-SKU-000014,NavajoWhite Several Sports & Outdoor,Sports & Outdoors,54999,KW-S-0004,True,12
+KW-SKU-000015,LawnGreen Continue Toy,Toys,24999,KW-S-0069,False,12
+KW-SKU-000016,SeaShell Write Furniture,Furniture,299,KW-S-0028,True,24
+KW-SKU-000017,Green Future Beauty,Beauty,299,KW-S-0004,True,0
+KW-SKU-000018,DarkSeaGreen Finally Furniture,Furniture,2999,KW-S-0052,True,0
+KW-SKU-000019,Coral Wall Toy,Toys,1499,KW-S-0096,False,24
+KW-SKU-000020,Black Design Home & Kitchen,Home & Kitchen,1499,KW-S-0062,False,12
+KW-SKU-000021,SandyBrown Machine Toy,Toys,2999,KW-S-0036,True,6
+KW-SKU-000022,LemonChiffon Return Electronic,Electronics,24999,KW-S-0096,False,0
+KW-SKU-000023,Red Effort Home & Kitchen,Home & Kitchen,799,KW-S-0070,True,0
+KW-SKU-000024,Fuchsia Main Apparel,Apparel,6499,KW-S-0062,True,0
+KW-SKU-000025,SteelBlue Put Electronic,Electronics,799,KW-S-0069,True,24
+KW-SKU-000026,DarkOliveGreen Suggest Grocerie,Groceries,299,KW-S-0109,True,6
+KW-SKU-000027,MediumPurple Turn Furniture,Furniture,6499,KW-S-0107,True,6
+KW-SKU-000028,DimGray Election Furniture,Furniture,299,KW-S-0041,True,0
+KW-SKU-000029,SandyBrown Seven Home & Kitchen,Home & Kitchen,54999,KW-S-0016,True,24
+KW-SKU-000030,CornflowerBlue Account Grocerie,Groceries,12999,KW-S-0054,True,0
+KW-SKU-000031,BlanchedAlmond Rest Home & Kitchen,Home & Kitchen,299,KW-S-0056,True,0
+KW-SKU-000032,PaleTurquoise Trial Toy,Toys,24999,KW-S-0111,True,12
+KW-SKU-000033,Turquoise Many Beauty,Beauty,799,KW-S-0022,True,6
+KW-SKU-000034,OliveDrab Avoid Toy,Toys,54999,KW-S-0105,True,12
+KW-SKU-000035,PapayaWhip Ever Home & Kitchen,Home & Kitchen,24999,KW-S-0077,True,12
+KW-SKU-000036,WhiteSmoke Camera Beauty,Beauty,54999,KW-S-0117,True,0
+KW-SKU-000037,White Send Home & Kitchen,Home & Kitchen,2999,KW-S-0068,False,24
+KW-SKU-000038,Bisque Leg Electronic,Electronics,24999,KW-S-0068,False,0
+KW-SKU-000039,SkyBlue Their Electronic,Electronics,799,KW-S-0098,True,0
+KW-SKU-000040,Chocolate Final Furniture,Furniture,799,KW-S-0055,False,6
+KW-SKU-000041,Orchid Them Beauty,Beauty,1499,KW-S-0015,True,0
+KW-SKU-000042,BlueViolet Himself Grocerie,Groceries,799,KW-S-0103,True,0
+KW-SKU-000043,PaleGoldenRod Sense Furniture,Furniture,12999,KW-S-0035,True,0
+KW-SKU-000044,Teal Professional Sports & Outdoor,Sports & Outdoors,299,KW-S-0032,True,0
+KW-SKU-000045,Purple Later Toy,Toys,6499,KW-S-0048,True,6
+KW-SKU-000046,DarkRed Body Beauty,Beauty,12999,KW-S-0089,True,0
+KW-SKU-000047,DarkViolet Throw Home & Kitchen,Home & Kitchen,1499,KW-S-0062,False,0
+KW-SKU-000048,LightGray Son Apparel,Apparel,1499,KW-S-0117,True,6
+KW-SKU-000049,DarkOliveGreen Seven Home & Kitchen,Home & Kitchen,54999,KW-S-0104,True,24
+KW-SKU-000050,FloralWhite Hit Apparel,Apparel,12999,KW-S-0072,False,0
+KW-SKU-000051,PaleVioletRed Realize Sports & Outdoor,Sports & Outdoors,54999,KW-S-0112,True,0
+KW-SKU-000052,MediumSlateBlue Change Home & Kitchen,Home & Kitchen,1499,KW-S-0091,True,0
+KW-SKU-000053,LemonChiffon Stuff Home & Kitchen,Home & Kitchen,24999,KW-S-0030,True,6
+KW-SKU-000054,SkyBlue Develop Toy,Toys,6499,KW-S-0013,True,24
+KW-SKU-000055,LightGray Bill Sports & Outdoor,Sports & Outdoors,12999,KW-S-0030,True,12
+KW-SKU-000056,MediumPurple Quality Beauty,Beauty,299,KW-S-0078,True,12
+KW-SKU-000057,Cornsilk Low Grocerie,Groceries,12999,KW-S-0100,False,0
+KW-SKU-000058,SlateGray Soldier Grocerie,Groceries,6499,KW-S-0047,False,24
+KW-SKU-000059,LemonChiffon Sometimes Furniture,Furniture,1499,KW-S-0081,True,0
+KW-SKU-000060,LightGoldenRodYellow Guess Apparel,Apparel,799,KW-S-0059,True,0
+KW-SKU-000061,LightYellow Risk Toy,Toys,799,KW-S-0054,True,0
+KW-SKU-000062,Red Give Home & Kitchen,Home & Kitchen,2999,KW-S-0028,False,12
+KW-SKU-000063,RoyalBlue Scene Beauty,Beauty,24999,KW-S-0058,True,0
+KW-SKU-000064,LightGoldenRodYellow Out Home & Kitchen,Home & Kitchen,54999,KW-S-0085,True,6
+KW-SKU-000065,LightSalmon Phone Electronic,Electronics,1499,KW-S-0040,True,0
+KW-SKU-000066,Blue Sort Apparel,Apparel,6499,KW-S-0013,True,24
+KW-SKU-000067,DarkSlateGray Choose Beauty,Beauty,299,KW-S-0053,True,0
+KW-SKU-000068,Turquoise Fight Apparel,Apparel,2999,KW-S-0056,True,0
+KW-SKU-000069,Bisque Do Home & Kitchen,Home & Kitchen,799,KW-S-0084,True,6
+KW-SKU-000070,NavajoWhite Organization Sports & Outdoor,Sports & Outdoors,1499,KW-S-0038,True,24
+KW-SKU-000071,MistyRose Sell Sports & Outdoor,Sports & Outdoors,1499,KW-S-0086,False,0
+KW-SKU-000072,LightSteelBlue Food Apparel,Apparel,6499,KW-S-0032,True,6
+KW-SKU-000073,DimGray Out Electronic,Electronics,6499,KW-S-0057,True,0
+KW-SKU-000074,Linen May Home & Kitchen,Home & Kitchen,24999,KW-S-0085,True,6
+KW-SKU-000075,Purple Report Grocerie,Groceries,6499,KW-S-0002,True,24
+KW-SKU-000076,LightYellow Clear Sports & Outdoor,Sports & Outdoors,799,KW-S-0040,True,0
+KW-SKU-000077,DarkSalmon Choice Home & Kitchen,Home & Kitchen,2999,KW-S-0060,True,6
+KW-SKU-000078,LightSteelBlue Town Apparel,Apparel,6499,KW-S-0108,True,0
+KW-SKU-000079,OliveDrab Even Electronic,Electronics,1499,KW-S-0050,False,0
+KW-SKU-000080,Khaki Ahead Electronic,Electronics,2999,KW-S-0041,True,24
+KW-SKU-000081,HotPink Past Sports & Outdoor,Sports & Outdoors,1499,KW-S-0096,True,0
+KW-SKU-000082,LimeGreen Choose Electronic,Electronics,1499,KW-S-0031,True,12
+KW-SKU-000083,Aquamarine Event Grocerie,Groceries,24999,KW-S-0077,True,0
+KW-SKU-000084,Moccasin Set Toy,Toys,2999,KW-S-0030,True,0
+KW-SKU-000085,Teal Skill Sports & Outdoor,Sports & Outdoors,799,KW-S-0107,True,24
+KW-SKU-000086,Tomato Into Beauty,Beauty,299,KW-S-0107,True,0
+KW-SKU-000087,Silver Present Sports & Outdoor,Sports & Outdoors,1499,KW-S-0036,True,0
+KW-SKU-000088,FloralWhite Guy Sports & Outdoor,Sports & Outdoors,299,KW-S-0049,True,0
+KW-SKU-000089,DeepSkyBlue People Beauty,Beauty,6499,KW-S-0053,True,6
+KW-SKU-000090,SteelBlue Former Beauty,Beauty,2999,KW-S-0033,True,6
+KW-SKU-000091,Turquoise House Home & Kitchen,Home & Kitchen,24999,KW-S-0056,False,6
+KW-SKU-000092,OldLace Tree Electronic,Electronics,24999,KW-S-0100,True,6
+KW-SKU-000093,SlateBlue Raise Apparel,Apparel,6499,KW-S-0032,True,0
+KW-SKU-000094,FloralWhite Truth Grocerie,Groceries,1499,KW-S-0071,True,0
+KW-SKU-000095,Violet Meet Furniture,Furniture,6499,KW-S-0027,True,0
+KW-SKU-000096,ForestGreen Member Toy,Toys,1499,KW-S-0098,False,24
+KW-SKU-000097,Olive Address Toy,Toys,6499,KW-S-0113,False,12
+KW-SKU-000098,Coral Guess Electronic,Electronics,2999,KW-S-0073,True,24
+KW-SKU-000099,Ivory For Grocerie,Groceries,6499,KW-S-0042,True,24
+KW-SKU-000100,GreenYellow Door Home & Kitchen,Home & Kitchen,54999,KW-S-0052,True,6
+KW-SKU-000101,DeepPink Fall Furniture,Furniture,799,KW-S-0103,True,0
+KW-SKU-000102,DarkOrchid Rate Electronic,Electronics,299,KW-S-0098,True,24
+KW-SKU-000103,Gray Heavy Toy,Toys,6499,KW-S-0018,True,12
+KW-SKU-000104,SpringGreen Machine Beauty,Beauty,6499,KW-S-0037,True,24
+KW-SKU-000105,Aquamarine Though Grocerie,Groceries,24999,KW-S-0067,False,12
+KW-SKU-000106,Violet Water Furniture,Furniture,6499,KW-S-0059,True,0
+KW-SKU-000107,Khaki Site Furniture,Furniture,299,KW-S-0112,False,12
+KW-SKU-000108,Green Himself Electronic,Electronics,799,KW-S-0109,True,12
+KW-SKU-000109,BlanchedAlmond Inside Home & Kitchen,Home & Kitchen,799,KW-S-0004,False,0
+KW-SKU-000110,DarkGreen Girl Sports & Outdoor,Sports & Outdoors,54999,KW-S-0014,True,12
+KW-SKU-000111,Tan Audience Toy,Toys,24999,KW-S-0056,True,0
+KW-SKU-000112,LightPink On Toy,Toys,799,KW-S-0070,True,12
+KW-SKU-000113,White Throughout Electronic,Electronics,799,KW-S-0050,True,6
+KW-SKU-000114,WhiteSmoke Turn Sports & Outdoor,Sports & Outdoors,1499,KW-S-0027,True,0
+KW-SKU-000115,Cyan Success Toy,Toys,24999,KW-S-0074,True,0
+KW-SKU-000116,Chartreuse Likely Sports & Outdoor,Sports & Outdoors,12999,KW-S-0098,False,6
+KW-SKU-000117,Turquoise End Grocerie,Groceries,24999,KW-S-0110,True,0
+KW-SKU-000118,LemonChiffon Establish Furniture,Furniture,12999,KW-S-0040,True,6
+KW-SKU-000119,Gainsboro Road Apparel,Apparel,24999,KW-S-0010,True,24
+KW-SKU-000120,LemonChiffon Drive Apparel,Apparel,12999,KW-S-0103,True,6
+KW-SKU-000121,SaddleBrown Cost Electronic,Electronics,1499,KW-S-0043,True,0
+KW-SKU-000122,BlueViolet Politics Toy,Toys,54999,KW-S-0055,True,12
+KW-SKU-000123,LightGreen Old Sports & Outdoor,Sports & Outdoors,799,KW-S-0081,True,0
+KW-SKU-000124,LightSeaGreen Benefit Sports & Outdoor,Sports & Outdoors,2999,KW-S-0098,True,24
+KW-SKU-000125,Gold Significant Electronic,Electronics,24999,KW-S-0026,True,6
+KW-SKU-000126,Coral Western Beauty,Beauty,299,KW-S-0093,True,0
+KW-SKU-000127,DarkSeaGreen Necessary Home & Kitchen,Home & Kitchen,1499,KW-S-0057,True,12
+KW-SKU-000128,LimeGreen Ask Toy,Toys,799,KW-S-0104,True,0
+KW-SKU-000129,HoneyDew Drive Electronic,Electronics,6499,KW-S-0083,False,6
+KW-SKU-000130,LemonChiffon Pay Apparel,Apparel,54999,KW-S-0059,True,12
+KW-SKU-000131,Silver Majority Furniture,Furniture,299,KW-S-0115,True,6
+KW-SKU-000132,DarkGreen Not Grocerie,Groceries,1499,KW-S-0007,False,12
+KW-SKU-000133,CadetBlue From Beauty,Beauty,6499,KW-S-0039,True,0
+KW-SKU-000134,Cornsilk Debate Sports & Outdoor,Sports & Outdoors,24999,KW-S-0066,True,12
+KW-SKU-000135,Silver But Beauty,Beauty,2999,KW-S-0014,True,0
+KW-SKU-000136,Red Because Beauty,Beauty,2999,KW-S-0048,True,12
+KW-SKU-000137,Sienna Decade Home & Kitchen,Home & Kitchen,54999,KW-S-0092,True,0
+KW-SKU-000138,DarkGreen Occur Furniture,Furniture,2999,KW-S-0108,True,12
+KW-SKU-000139,IndianRed Piece Sports & Outdoor,Sports & Outdoors,6499,KW-S-0111,True,12
+KW-SKU-000140,SlateBlue First Grocerie,Groceries,1499,KW-S-0087,True,0
+KW-SKU-000141,Aqua Party Grocerie,Groceries,2999,KW-S-0051,True,6
+KW-SKU-000142,Plum Traditional Electronic,Electronics,54999,KW-S-0105,True,12
+KW-SKU-000143,DarkOliveGreen Service Toy,Toys,6499,KW-S-0088,True,0
+KW-SKU-000144,Red Star Sports & Outdoor,Sports & Outdoors,12999,KW-S-0018,True,0
+KW-SKU-000145,GoldenRod Perform Furniture,Furniture,54999,KW-S-0101,True,0
+KW-SKU-000146,SaddleBrown A Beauty,Beauty,54999,KW-S-0050,True,24
+KW-SKU-000147,LightCoral Somebody Furniture,Furniture,6499,KW-S-0004,True,0
+KW-SKU-000148,PaleTurquoise Plant Electronic,Electronics,54999,KW-S-0054,True,0
+KW-SKU-000149,LightPink Mind Sports & Outdoor,Sports & Outdoors,54999,KW-S-0045,True,0
+KW-SKU-000150,Fuchsia Get Home & Kitchen,Home & Kitchen,12999,KW-S-0097,True,0
+KW-SKU-000151,Tan Meeting Beauty,Beauty,299,KW-S-0080,True,0
+KW-SKU-000152,Thistle Federal Electronic,Electronics,6499,KW-S-0095,True,12
+KW-SKU-000153,Lime Everything Toy,Toys,24999,KW-S-0046,True,0
+KW-SKU-000154,White Energy Beauty,Beauty,6499,KW-S-0093,True,0
+KW-SKU-000155,MediumSpringGreen Face Toy,Toys,24999,KW-S-0047,True,0
+KW-SKU-000156,SteelBlue For Beauty,Beauty,1499,KW-S-0053,True,0
+KW-SKU-000157,Purple Brother Electronic,Electronics,299,KW-S-0034,True,24
+KW-SKU-000158,Gainsboro Method Home & Kitchen,Home & Kitchen,799,KW-S-0008,True,6
+KW-SKU-000159,AntiqueWhite From Toy,Toys,24999,KW-S-0010,True,24
+KW-SKU-000160,Teal Many Grocerie,Groceries,12999,KW-S-0011,True,0
+KW-SKU-000161,Snow Common Toy,Toys,2999,KW-S-0096,False,6
+KW-SKU-000162,Fuchsia Attorney Grocerie,Groceries,24999,KW-S-0010,True,6
+KW-SKU-000163,Plum Report Furniture,Furniture,54999,KW-S-0055,False,24
+KW-SKU-000164,LimeGreen Between Grocerie,Groceries,54999,KW-S-0086,True,12
+KW-SKU-000165,Red Guess Grocerie,Groceries,24999,KW-S-0086,True,12
+KW-SKU-000166,WhiteSmoke Test Apparel,Apparel,299,KW-S-0095,True,0
+KW-SKU-000167,Gainsboro Daughter Toy,Toys,24999,KW-S-0044,False,24
+KW-SKU-000168,DarkMagenta Source Toy,Toys,299,KW-S-0068,True,0
+KW-SKU-000169,Lavender Different Sports & Outdoor,Sports & Outdoors,1499,KW-S-0090,True,0
+KW-SKU-000170,Linen More Electronic,Electronics,1499,KW-S-0074,True,12
+KW-SKU-000171,Linen Front Grocerie,Groceries,6499,KW-S-0110,True,6
+KW-SKU-000172,Wheat Marriage Furniture,Furniture,2999,KW-S-0080,True,0
+KW-SKU-000173,DarkKhaki Reveal Apparel,Apparel,799,KW-S-0033,True,0
+KW-SKU-000174,Lime Within Beauty,Beauty,799,KW-S-0069,True,0
+KW-SKU-000175,HoneyDew Own Sports & Outdoor,Sports & Outdoors,54999,KW-S-0040,True,0
+KW-SKU-000176,DeepSkyBlue Game Beauty,Beauty,799,KW-S-0033,True,24
+KW-SKU-000177,DimGray Dark Toy,Toys,1499,KW-S-0034,True,6
+KW-SKU-000178,Orchid Stock Apparel,Apparel,299,KW-S-0025,True,6
+KW-SKU-000179,FloralWhite Together Sports & Outdoor,Sports & Outdoors,799,KW-S-0003,False,0
+KW-SKU-000180,DimGray Poor Beauty,Beauty,54999,KW-S-0083,True,6
+KW-SKU-000181,DimGray Gas Home & Kitchen,Home & Kitchen,24999,KW-S-0053,True,12
+KW-SKU-000182,Tomato Matter Furniture,Furniture,6499,KW-S-0013,True,0
+KW-SKU-000183,PapayaWhip State Toy,Toys,799,KW-S-0065,True,0
+KW-SKU-000184,LightGreen Drop Apparel,Apparel,12999,KW-S-0066,True,6
+KW-SKU-000185,LightGray Marriage Grocerie,Groceries,12999,KW-S-0069,True,6
+KW-SKU-000186,LimeGreen Hospital Beauty,Beauty,12999,KW-S-0082,True,0
+KW-SKU-000187,DarkViolet Follow Furniture,Furniture,12999,KW-S-0044,False,24
+KW-SKU-000188,MediumSeaGreen Short Electronic,Electronics,6499,KW-S-0091,False,0
+KW-SKU-000189,MidnightBlue Themselves Apparel,Apparel,24999,KW-S-0043,True,24
+KW-SKU-000190,Maroon Listen Home & Kitchen,Home & Kitchen,24999,KW-S-0059,True,24
+KW-SKU-000191,Linen Large Apparel,Apparel,2999,KW-S-0069,True,0
+KW-SKU-000192,OrangeRed Sound Beauty,Beauty,6499,KW-S-0069,True,24
+KW-SKU-000193,PapayaWhip Accept Home & Kitchen,Home & Kitchen,299,KW-S-0094,True,0
+KW-SKU-000194,PaleGreen Around Home & Kitchen,Home & Kitchen,6499,KW-S-0111,True,6
+KW-SKU-000195,PaleTurquoise Health Apparel,Apparel,1499,KW-S-0040,False,0
+KW-SKU-000196,DarkSlateGray Loss Toy,Toys,54999,KW-S-0096,True,0
+KW-SKU-000197,LightSalmon After Home & Kitchen,Home & Kitchen,1499,KW-S-0009,True,0
+KW-SKU-000198,Green Detail Furniture,Furniture,2999,KW-S-0038,True,0
+KW-SKU-000199,LightCyan Financial Sports & Outdoor,Sports & Outdoors,24999,KW-S-0012,True,0
+KW-SKU-000200,Navy Agent Toy,Toys,12999,KW-S-0047,True,0
+KW-SKU-000201,MediumBlue Late Home & Kitchen,Home & Kitchen,12999,KW-S-0029,True,0
+KW-SKU-000202,Olive Gas Sports & Outdoor,Sports & Outdoors,6499,KW-S-0002,True,24
+KW-SKU-000203,Green Subject Home & Kitchen,Home & Kitchen,799,KW-S-0115,True,12
+KW-SKU-000204,IndianRed Prepare Toy,Toys,6499,KW-S-0085,True,6
+KW-SKU-000205,SteelBlue Less Furniture,Furniture,24999,KW-S-0095,True,12
+KW-SKU-000206,LightSalmon Both Beauty,Beauty,6499,KW-S-0042,False,6
+KW-SKU-000207,Crimson Eight Home & Kitchen,Home & Kitchen,1499,KW-S-0077,True,0
+KW-SKU-000208,DodgerBlue Gas Grocerie,Groceries,6499,KW-S-0044,True,12
+KW-SKU-000209,Silver Year Sports & Outdoor,Sports & Outdoors,799,KW-S-0120,True,0
+KW-SKU-000210,SeaShell Your Electronic,Electronics,24999,KW-S-0014,False,12
+KW-SKU-000211,Brown Statement Grocerie,Groceries,799,KW-S-0003,True,24
+KW-SKU-000212,Orange Rise Apparel,Apparel,1499,KW-S-0086,True,0
+KW-SKU-000213,SlateBlue Enjoy Grocerie,Groceries,1499,KW-S-0054,True,0
+KW-SKU-000214,LightSeaGreen Policy Apparel,Apparel,799,KW-S-0082,True,6
+KW-SKU-000215,OldLace Artist Grocerie,Groceries,1499,KW-S-0084,True,24
+KW-SKU-000216,DarkGreen Arrive Grocerie,Groceries,1499,KW-S-0004,True,6
+KW-SKU-000217,MediumSpringGreen Fact Furniture,Furniture,799,KW-S-0096,True,6
+KW-SKU-000218,WhiteSmoke Hope Beauty,Beauty,1499,KW-S-0085,True,6
+KW-SKU-000219,Purple Wind Furniture,Furniture,1499,KW-S-0098,True,12
+KW-SKU-000220,LightSkyBlue Bring Electronic,Electronics,2999,KW-S-0021,True,0
+KW-SKU-000221,SeaShell Center Furniture,Furniture,6499,KW-S-0072,True,12
+KW-SKU-000222,Cornsilk Garden Apparel,Apparel,6499,KW-S-0104,True,12
+KW-SKU-000223,PaleVioletRed Thank Home & Kitchen,Home & Kitchen,1499,KW-S-0079,True,6
+KW-SKU-000224,DeepPink Tv Toy,Toys,1499,KW-S-0116,True,0
+KW-SKU-000225,DeepPink Perform Toy,Toys,299,KW-S-0091,False,24
+KW-SKU-000226,Lime Painting Grocerie,Groceries,299,KW-S-0104,True,6
+KW-SKU-000227,Green Or Electronic,Electronics,1499,KW-S-0102,False,0
+KW-SKU-000228,DarkCyan Left Sports & Outdoor,Sports & Outdoors,299,KW-S-0054,True,6
+KW-SKU-000229,LemonChiffon Generation Furniture,Furniture,6499,KW-S-0058,False,12
+KW-SKU-000230,YellowGreen Source Toy,Toys,299,KW-S-0092,True,6
+KW-SKU-000231,LightGoldenRodYellow Onto Home & Kitchen,Home & Kitchen,12999,KW-S-0056,True,6
+KW-SKU-000232,Wheat Technology Beauty,Beauty,299,KW-S-0013,False,6
+KW-SKU-000233,LightSteelBlue Road Toy,Toys,24999,KW-S-0104,True,24
+KW-SKU-000234,Beige Challenge Furniture,Furniture,54999,KW-S-0094,False,6
+KW-SKU-000235,CornflowerBlue Truth Grocerie,Groceries,2999,KW-S-0010,True,0
+KW-SKU-000236,Maroon Tonight Grocerie,Groceries,1499,KW-S-0114,False,24
+KW-SKU-000237,MistyRose West Electronic,Electronics,799,KW-S-0013,True,0
+KW-SKU-000238,RosyBrown Small Grocerie,Groceries,299,KW-S-0119,True,24
+KW-SKU-000239,HotPink Create Sports & Outdoor,Sports & Outdoors,54999,KW-S-0116,False,24
+KW-SKU-000240,MediumBlue Management Electronic,Electronics,2999,KW-S-0066,True,6
+KW-SKU-000241,Khaki Magazine Home & Kitchen,Home & Kitchen,6499,KW-S-0110,False,24
+KW-SKU-000242,MistyRose Goal Toy,Toys,2999,KW-S-0072,True,24
+KW-SKU-000243,Gray Research Sports & Outdoor,Sports & Outdoors,6499,KW-S-0010,True,0
+KW-SKU-000244,LightGoldenRodYellow Especially Sports & Outdoor,Sports & Outdoors,54999,KW-S-0104,True,0
+KW-SKU-000245,Beige Challenge Toy,Toys,2999,KW-S-0040,True,24
+KW-SKU-000246,DarkOrchid Quality Beauty,Beauty,12999,KW-S-0113,True,12
+KW-SKU-000247,PaleVioletRed Late Furniture,Furniture,2999,KW-S-0082,True,24
+KW-SKU-000248,Orchid Sure Toy,Toys,2999,KW-S-0017,True,12
+KW-SKU-000249,SlateBlue Success Furniture,Furniture,299,KW-S-0104,True,24
+KW-SKU-000250,BurlyWood Theory Grocerie,Groceries,24999,KW-S-0107,True,12
+KW-SKU-000251,Wheat As Apparel,Apparel,1499,KW-S-0048,True,24
+KW-SKU-000252,Thistle Hour Apparel,Apparel,1499,KW-S-0068,False,24
+KW-SKU-000253,Azure Others Electronic,Electronics,799,KW-S-0068,True,0
+KW-SKU-000254,PowderBlue Almost Toy,Toys,2999,KW-S-0006,True,24
+KW-SKU-000255,Tan Tv Toy,Toys,24999,KW-S-0069,True,12
+KW-SKU-000256,MediumOrchid Street Furniture,Furniture,24999,KW-S-0082,True,0
+KW-SKU-000257,WhiteSmoke Million Grocerie,Groceries,6499,KW-S-0042,True,0
+KW-SKU-000258,LightSkyBlue Paper Furniture,Furniture,6499,KW-S-0094,True,6
+KW-SKU-000259,MediumSeaGreen Protect Furniture,Furniture,12999,KW-S-0019,True,6
+KW-SKU-000260,CornflowerBlue Simple Beauty,Beauty,799,KW-S-0062,True,6
+KW-SKU-000261,Crimson Other Toy,Toys,1499,KW-S-0119,True,24
+KW-SKU-000262,DarkGoldenRod Open Furniture,Furniture,6499,KW-S-0069,True,6
+KW-SKU-000263,DarkOliveGreen Night Home & Kitchen,Home & Kitchen,799,KW-S-0091,True,24
+KW-SKU-000264,DimGray Success Grocerie,Groceries,1499,KW-S-0055,True,0
+KW-SKU-000265,Thistle Throughout Home & Kitchen,Home & Kitchen,54999,KW-S-0055,True,0
+KW-SKU-000266,DarkCyan Painting Sports & Outdoor,Sports & Outdoors,24999,KW-S-0046,True,0
+KW-SKU-000267,SeaGreen Poor Toy,Toys,24999,KW-S-0040,False,24
+KW-SKU-000268,Gold Society Grocerie,Groceries,54999,KW-S-0068,True,0
+KW-SKU-000269,Cornsilk Speak Electronic,Electronics,299,KW-S-0073,False,6
+KW-SKU-000270,Plum Television Apparel,Apparel,299,KW-S-0107,True,0
+KW-SKU-000271,LightSalmon Make Electronic,Electronics,799,KW-S-0098,True,24
+KW-SKU-000272,RoyalBlue Visit Furniture,Furniture,1499,KW-S-0023,False,0
+KW-SKU-000273,DeepPink Rather Apparel,Apparel,6499,KW-S-0098,True,0
+KW-SKU-000274,MediumPurple Baby Sports & Outdoor,Sports & Outdoors,1499,KW-S-0062,True,24
+KW-SKU-000275,Gainsboro Raise Electronic,Electronics,6499,KW-S-0056,True,0
+KW-SKU-000276,MediumSlateBlue Long Home & Kitchen,Home & Kitchen,299,KW-S-0036,True,0
+KW-SKU-000277,Wheat Statement Beauty,Beauty,6499,KW-S-0071,True,6
+KW-SKU-000278,Plum Visit Beauty,Beauty,54999,KW-S-0096,True,24
+KW-SKU-000279,Beige Interest Grocerie,Groceries,24999,KW-S-0096,True,6
+KW-SKU-000280,LightYellow According Toy,Toys,6499,KW-S-0035,True,0
+KW-SKU-000281,Orange After Toy,Toys,2999,KW-S-0075,True,12
+KW-SKU-000282,Aqua Down Electronic,Electronics,24999,KW-S-0063,False,12
+KW-SKU-000283,MediumBlue Late Apparel,Apparel,54999,KW-S-0018,True,6
+KW-SKU-000284,DeepPink Event Beauty,Beauty,24999,KW-S-0119,True,6
+KW-SKU-000285,Ivory Pattern Home & Kitchen,Home & Kitchen,799,KW-S-0077,True,24
+KW-SKU-000286,MediumOrchid No Toy,Toys,24999,KW-S-0057,True,0
+KW-SKU-000287,Salmon Ready Toy,Toys,299,KW-S-0022,False,6
+KW-SKU-000288,Green Speech Toy,Toys,2999,KW-S-0072,True,0
+KW-SKU-000289,MidnightBlue Walk Furniture,Furniture,54999,KW-S-0044,False,24
+KW-SKU-000290,DeepSkyBlue Current Apparel,Apparel,799,KW-S-0118,True,0
+KW-SKU-000291,DarkViolet Design Grocerie,Groceries,6499,KW-S-0028,False,6
+KW-SKU-000292,Linen Course Grocerie,Groceries,54999,KW-S-0083,True,6
+KW-SKU-000293,DarkGreen Agree Grocerie,Groceries,299,KW-S-0058,True,0
+KW-SKU-000294,White Play Furniture,Furniture,12999,KW-S-0011,True,24
+KW-SKU-000295,BlueViolet State Home & Kitchen,Home & Kitchen,799,KW-S-0059,True,6
+KW-SKU-000296,DarkSalmon Now Home & Kitchen,Home & Kitchen,1499,KW-S-0074,True,6
+KW-SKU-000297,MediumVioletRed Authority Sports & Outdoor,Sports & Outdoors,799,KW-S-0102,True,0
+KW-SKU-000298,MediumOrchid Truth Toy,Toys,2999,KW-S-0087,True,6
+KW-SKU-000299,Maroon Without Apparel,Apparel,2999,KW-S-0067,True,6
+KW-SKU-000300,Khaki Really Furniture,Furniture,6499,KW-S-0057,True,6
+KW-SKU-000301,HoneyDew Defense Grocerie,Groceries,12999,KW-S-0075,False,12
+KW-SKU-000302,LimeGreen Common Electronic,Electronics,12999,KW-S-0042,True,24
+KW-SKU-000303,Peru Experience Sports & Outdoor,Sports & Outdoors,2999,KW-S-0082,True,0
+KW-SKU-000304,Lavender Would Grocerie,Groceries,54999,KW-S-0085,True,6
+KW-SKU-000305,IndianRed Sport Grocerie,Groceries,1499,KW-S-0019,True,24
+KW-SKU-000306,MidnightBlue Agreement Sports & Outdoor,Sports & Outdoors,299,KW-S-0063,True,0
+KW-SKU-000307,DarkSlateGray Understand Sports & Outdoor,Sports & Outdoors,799,KW-S-0045,True,24
+KW-SKU-000308,Purple Candidate Furniture,Furniture,54999,KW-S-0016,False,0
+KW-SKU-000309,OldLace Agree Home & Kitchen,Home & Kitchen,799,KW-S-0043,True,12
+KW-SKU-000310,Red Trip Furniture,Furniture,2999,KW-S-0099,True,6
+KW-SKU-000311,HoneyDew Husband Beauty,Beauty,799,KW-S-0105,False,6
+KW-SKU-000312,BurlyWood Likely Furniture,Furniture,1499,KW-S-0023,True,6
+KW-SKU-000313,Purple Inside Furniture,Furniture,12999,KW-S-0052,True,0
+KW-SKU-000314,Gray Describe Toy,Toys,6499,KW-S-0083,False,12
+KW-SKU-000315,Olive Performance Sports & Outdoor,Sports & Outdoors,799,KW-S-0051,True,6
+KW-SKU-000316,DarkRed Better Furniture,Furniture,2999,KW-S-0080,True,0
+KW-SKU-000317,ForestGreen Move Beauty,Beauty,1499,KW-S-0069,True,6
+KW-SKU-000318,Tomato Campaign Toy,Toys,299,KW-S-0107,True,24
+KW-SKU-000319,DodgerBlue Something Toy,Toys,54999,KW-S-0096,True,12
+KW-SKU-000320,HoneyDew Camera Toy,Toys,799,KW-S-0084,True,0
+KW-SKU-000321,SlateGray Sit Apparel,Apparel,6499,KW-S-0081,True,0
+KW-SKU-000322,MintCream So Grocerie,Groceries,1499,KW-S-0031,True,6
+KW-SKU-000323,MediumAquaMarine Just Furniture,Furniture,299,KW-S-0039,True,0
+KW-SKU-000324,Gold Develop Sports & Outdoor,Sports & Outdoors,24999,KW-S-0104,True,12
+KW-SKU-000325,DarkGoldenRod Successful Home & Kitchen,Home & Kitchen,6499,KW-S-0094,False,24
+KW-SKU-000326,Tan Here Furniture,Furniture,2999,KW-S-0038,True,6
+KW-SKU-000327,Silver Especially Toy,Toys,12999,KW-S-0006,True,0
+KW-SKU-000328,Teal Brother Furniture,Furniture,6499,KW-S-0048,True,12
+KW-SKU-000329,SaddleBrown Admit Electronic,Electronics,799,KW-S-0060,True,24
+KW-SKU-000330,AntiqueWhite Husband Grocerie,Groceries,799,KW-S-0003,True,6
+KW-SKU-000331,PeachPuff Instead Electronic,Electronics,299,KW-S-0098,True,0
+KW-SKU-000332,DarkGreen Hear Grocerie,Groceries,54999,KW-S-0074,True,6
+KW-SKU-000333,MistyRose Young Electronic,Electronics,54999,KW-S-0070,True,24
+KW-SKU-000334,Magenta Think Apparel,Apparel,12999,KW-S-0041,True,12
+KW-SKU-000335,Coral Leader Apparel,Apparel,799,KW-S-0096,True,24
+KW-SKU-000336,Lime Drop Beauty,Beauty,24999,KW-S-0057,True,0
+KW-SKU-000337,DarkBlue Rather Toy,Toys,2999,KW-S-0102,True,0
+KW-SKU-000338,Orange Type Toy,Toys,12999,KW-S-0091,True,12
+KW-SKU-000339,SeaShell Admit Electronic,Electronics,54999,KW-S-0008,True,0
+KW-SKU-000340,LightSalmon Show Beauty,Beauty,6499,KW-S-0100,True,0
+KW-SKU-000341,MediumBlue Answer Beauty,Beauty,12999,KW-S-0105,True,0
+KW-SKU-000342,DarkTurquoise Throw Electronic,Electronics,799,KW-S-0035,True,24
+KW-SKU-000343,LightBlue Cost Furniture,Furniture,6499,KW-S-0022,True,6
+KW-SKU-000344,Aqua Career Beauty,Beauty,24999,KW-S-0052,False,0
+KW-SKU-000345,Tomato Clearly Toy,Toys,54999,KW-S-0092,True,24
+KW-SKU-000346,DarkSlateGray Run Grocerie,Groceries,54999,KW-S-0099,True,0
+KW-SKU-000347,SeaShell Sound Sports & Outdoor,Sports & Outdoors,299,KW-S-0026,True,0
+KW-SKU-000348,Blue Ask Electronic,Electronics,54999,KW-S-0087,True,6
+KW-SKU-000349,HoneyDew Trial Grocerie,Groceries,12999,KW-S-0072,True,12
+KW-SKU-000350,LightYellow Hot Electronic,Electronics,1499,KW-S-0109,True,12
+KW-SKU-000351,PapayaWhip Than Beauty,Beauty,54999,KW-S-0104,True,6
+KW-SKU-000352,DimGray Kind Home & Kitchen,Home & Kitchen,1499,KW-S-0114,True,24
+KW-SKU-000353,ForestGreen Contain Grocerie,Groceries,24999,KW-S-0075,True,0
+KW-SKU-000354,Tomato Civil Apparel,Apparel,2999,KW-S-0102,True,0
+KW-SKU-000355,Gainsboro His Sports & Outdoor,Sports & Outdoors,1499,KW-S-0042,False,12
+KW-SKU-000356,DarkOliveGreen Stop Home & Kitchen,Home & Kitchen,799,KW-S-0075,True,24
+KW-SKU-000357,DodgerBlue All Apparel,Apparel,12999,KW-S-0104,True,6
+KW-SKU-000358,SpringGreen Democrat Grocerie,Groceries,12999,KW-S-0058,False,6
+KW-SKU-000359,Linen International Grocerie,Groceries,12999,KW-S-0090,True,6
+KW-SKU-000360,Navy When Toy,Toys,6499,KW-S-0037,False,0
+KW-SKU-000361,LightGray Pretty Home & Kitchen,Home & Kitchen,12999,KW-S-0011,True,12
+KW-SKU-000362,MediumBlue Air Beauty,Beauty,299,KW-S-0088,True,0
+KW-SKU-000363,Bisque Glass Beauty,Beauty,799,KW-S-0089,True,12
+KW-SKU-000364,Black Visit Grocerie,Groceries,6499,KW-S-0100,True,6
+KW-SKU-000365,SeaShell Already Furniture,Furniture,799,KW-S-0034,True,0
+KW-SKU-000366,DarkTurquoise White Apparel,Apparel,299,KW-S-0010,True,24
+KW-SKU-000367,PaleTurquoise Any Beauty,Beauty,2999,KW-S-0032,True,0
+KW-SKU-000368,Yellow Huge Home & Kitchen,Home & Kitchen,799,KW-S-0024,True,24
+KW-SKU-000369,Violet Condition Beauty,Beauty,24999,KW-S-0002,True,24
+KW-SKU-000370,DimGray Black Furniture,Furniture,24999,KW-S-0118,True,12
+KW-SKU-000371,Aquamarine Happy Electronic,Electronics,299,KW-S-0054,True,12
+KW-SKU-000372,Ivory Best Grocerie,Groceries,799,KW-S-0070,True,12
+KW-SKU-000373,PeachPuff Attorney Grocerie,Groceries,1499,KW-S-0095,True,0
+KW-SKU-000374,DarkOliveGreen Maybe Furniture,Furniture,24999,KW-S-0084,True,0
+KW-SKU-000375,SandyBrown Just Grocerie,Groceries,1499,KW-S-0013,True,0
+KW-SKU-000376,WhiteSmoke Less Sports & Outdoor,Sports & Outdoors,24999,KW-S-0072,True,6
+KW-SKU-000377,DarkSlateBlue Tough Home & Kitchen,Home & Kitchen,24999,KW-S-0105,True,0
+KW-SKU-000378,AliceBlue Foreign Beauty,Beauty,1499,KW-S-0050,True,6
+KW-SKU-000379,Sienna Manager Grocerie,Groceries,6499,KW-S-0079,True,6
+KW-SKU-000380,LightCyan Career Home & Kitchen,Home & Kitchen,799,KW-S-0052,True,0
+KW-SKU-000381,MediumBlue Realize Electronic,Electronics,24999,KW-S-0101,False,24
+KW-SKU-000382,Yellow History Electronic,Electronics,54999,KW-S-0083,True,6
+KW-SKU-000383,DarkGray Mean Apparel,Apparel,12999,KW-S-0105,True,0
+KW-SKU-000384,Snow Smile Furniture,Furniture,299,KW-S-0016,True,6
+KW-SKU-000385,Gray Car Home & Kitchen,Home & Kitchen,2999,KW-S-0051,False,0
+KW-SKU-000386,Indigo Myself Grocerie,Groceries,54999,KW-S-0002,True,0
+KW-SKU-000387,DarkSeaGreen Support Home & Kitchen,Home & Kitchen,12999,KW-S-0119,True,24
+KW-SKU-000388,DarkTurquoise Down Beauty,Beauty,24999,KW-S-0094,True,6
+KW-SKU-000389,DarkBlue Six Apparel,Apparel,24999,KW-S-0102,True,0
+KW-SKU-000390,DarkGray Series Home & Kitchen,Home & Kitchen,24999,KW-S-0074,True,0
+KW-SKU-000391,PaleGreen Fear Furniture,Furniture,12999,KW-S-0102,True,0
+KW-SKU-000392,DarkKhaki Enjoy Apparel,Apparel,2999,KW-S-0026,True,6
+KW-SKU-000393,Ivory Enough Beauty,Beauty,6499,KW-S-0025,True,24
+KW-SKU-000394,GhostWhite Show Home & Kitchen,Home & Kitchen,299,KW-S-0053,True,0
+KW-SKU-000395,LimeGreen Get Toy,Toys,799,KW-S-0062,True,6
+KW-SKU-000396,SandyBrown Relate Grocerie,Groceries,2999,KW-S-0099,True,6
+KW-SKU-000397,Turquoise Nation Home & Kitchen,Home & Kitchen,299,KW-S-0113,True,0
+KW-SKU-000398,LightGreen Soon Sports & Outdoor,Sports & Outdoors,299,KW-S-0117,True,0
+KW-SKU-000399,DarkSeaGreen Generation Apparel,Apparel,2999,KW-S-0025,True,6
+KW-SKU-000400,Peru House Toy,Toys,54999,KW-S-0073,True,0
+KW-SKU-000401,DarkViolet Particularly Toy,Toys,54999,KW-S-0013,True,12
+KW-SKU-000402,BlanchedAlmond Small Home & Kitchen,Home & Kitchen,54999,KW-S-0090,True,0
+KW-SKU-000403,OliveDrab Project Toy,Toys,24999,KW-S-0065,True,0
+KW-SKU-000404,BurlyWood Study Sports & Outdoor,Sports & Outdoors,799,KW-S-0017,True,12
+KW-SKU-000405,Gray Court Electronic,Electronics,12999,KW-S-0012,False,6
+KW-SKU-000406,Aquamarine Character Beauty,Beauty,12999,KW-S-0027,True,12
+KW-SKU-000407,BlanchedAlmond Thing Sports & Outdoor,Sports & Outdoors,799,KW-S-0097,True,12
+KW-SKU-000408,LavenderBlush Color Furniture,Furniture,54999,KW-S-0111,True,0
+KW-SKU-000409,Orchid Future Electronic,Electronics,24999,KW-S-0036,True,6
+KW-SKU-000410,Aqua Owner Furniture,Furniture,2999,KW-S-0108,True,12
+KW-SKU-000411,SkyBlue Member Beauty,Beauty,299,KW-S-0030,True,6
+KW-SKU-000412,MediumTurquoise Cup Grocerie,Groceries,54999,KW-S-0043,False,12
+KW-SKU-000413,PaleGreen Live Sports & Outdoor,Sports & Outdoors,12999,KW-S-0015,True,6
+KW-SKU-000414,HotPink Long Sports & Outdoor,Sports & Outdoors,299,KW-S-0076,True,12
+KW-SKU-000415,LightGray Offer Beauty,Beauty,799,KW-S-0070,True,6
+KW-SKU-000416,Purple Buy Grocerie,Groceries,299,KW-S-0110,True,6
+KW-SKU-000417,LightSeaGreen Reality Apparel,Apparel,54999,KW-S-0007,True,24
+KW-SKU-000418,Thistle Window Toy,Toys,6499,KW-S-0103,True,0
+KW-SKU-000419,MediumSlateBlue Green Home & Kitchen,Home & Kitchen,799,KW-S-0007,True,24
+KW-SKU-000420,GhostWhite Especially Furniture,Furniture,24999,KW-S-0040,False,6
+KW-SKU-000421,MediumSpringGreen Surface Sports & Outdoor,Sports & Outdoors,12999,KW-S-0054,True,0
+KW-SKU-000422,SlateBlue Sport Furniture,Furniture,1499,KW-S-0022,True,24
+KW-SKU-000423,SaddleBrown Record Beauty,Beauty,6499,KW-S-0065,True,0
+KW-SKU-000424,DarkGray Relate Beauty,Beauty,299,KW-S-0078,True,12
+KW-SKU-000425,MediumSpringGreen Source Toy,Toys,24999,KW-S-0002,True,12
+KW-SKU-000426,Tomato Everyone Apparel,Apparel,24999,KW-S-0009,True,0
+KW-SKU-000427,Coral Station Grocerie,Groceries,54999,KW-S-0005,True,12
+KW-SKU-000428,Moccasin Last Furniture,Furniture,54999,KW-S-0057,True,12
+KW-SKU-000429,Bisque Of Electronic,Electronics,2999,KW-S-0073,True,12
+KW-SKU-000430,DarkSalmon Between Apparel,Apparel,24999,KW-S-0029,True,24
+KW-SKU-000431,Khaki Lot Apparel,Apparel,54999,KW-S-0009,True,0
+KW-SKU-000432,DarkOliveGreen Camera Electronic,Electronics,54999,KW-S-0098,True,6
+KW-SKU-000433,LightYellow Card Home & Kitchen,Home & Kitchen,1499,KW-S-0071,True,0
+KW-SKU-000434,MediumTurquoise Food Apparel,Apparel,299,KW-S-0053,True,0
+KW-SKU-000435,RoyalBlue Least Sports & Outdoor,Sports & Outdoors,2999,KW-S-0021,True,0
+KW-SKU-000436,DarkBlue Trial Electronic,Electronics,1499,KW-S-0028,True,0
+KW-SKU-000437,Tan Court Sports & Outdoor,Sports & Outdoors,6499,KW-S-0049,True,12
+KW-SKU-000438,Orchid Ten Electronic,Electronics,24999,KW-S-0073,False,6
+KW-SKU-000439,Teal Day Beauty,Beauty,299,KW-S-0052,True,0
+KW-SKU-000440,DarkTurquoise Though Beauty,Beauty,12999,KW-S-0057,True,12
+KW-SKU-000441,Indigo Stand Toy,Toys,1499,KW-S-0077,True,0
+KW-SKU-000442,Azure Decide Toy,Toys,2999,KW-S-0062,True,0
+KW-SKU-000443,MidnightBlue Never Electronic,Electronics,24999,KW-S-0111,False,6
+KW-SKU-000444,DeepPink Order Toy,Toys,6499,KW-S-0069,True,6
+KW-SKU-000445,Wheat Network Beauty,Beauty,799,KW-S-0015,False,24
+KW-SKU-000446,BurlyWood Such Electronic,Electronics,6499,KW-S-0022,True,6
+KW-SKU-000447,White Him Apparel,Apparel,299,KW-S-0042,True,12
+KW-SKU-000448,Yellow Drug Grocerie,Groceries,6499,KW-S-0017,True,0
+KW-SKU-000449,Wheat Compare Furniture,Furniture,24999,KW-S-0071,True,12
+KW-SKU-000450,Navy Cold Grocerie,Groceries,299,KW-S-0087,True,0
+KW-SKU-000451,DarkGreen Response Apparel,Apparel,1499,KW-S-0016,True,0
+KW-SKU-000452,FireBrick Prove Furniture,Furniture,299,KW-S-0116,False,24
+KW-SKU-000453,Ivory Threat Toy,Toys,24999,KW-S-0054,False,24
+KW-SKU-000454,DeepPink Now Apparel,Apparel,54999,KW-S-0073,True,12
+KW-SKU-000455,Peru Toward Apparel,Apparel,54999,KW-S-0026,True,0
+KW-SKU-000456,Green Family Sports & Outdoor,Sports & Outdoors,1499,KW-S-0104,True,6
+KW-SKU-000457,BurlyWood Institution Grocerie,Groceries,1499,KW-S-0074,True,12
+KW-SKU-000458,LightYellow In Grocerie,Groceries,6499,KW-S-0039,True,0
+KW-SKU-000459,Turquoise Know Beauty,Beauty,2999,KW-S-0098,True,24
+KW-SKU-000460,Sienna Management Electronic,Electronics,54999,KW-S-0001,True,0
+KW-SKU-000461,MediumBlue Century Electronic,Electronics,1499,KW-S-0068,True,6
+KW-SKU-000462,Lime A Home & Kitchen,Home & Kitchen,1499,KW-S-0003,True,0
+KW-SKU-000463,Crimson Enter Electronic,Electronics,799,KW-S-0093,False,6
+KW-SKU-000464,Magenta Detail Sports & Outdoor,Sports & Outdoors,12999,KW-S-0035,True,6
+KW-SKU-000465,CornflowerBlue Artist Furniture,Furniture,1499,KW-S-0085,False,0
+KW-SKU-000466,PaleVioletRed Challenge Electronic,Electronics,6499,KW-S-0052,True,12
+KW-SKU-000467,DarkTurquoise Medical Toy,Toys,299,KW-S-0100,True,0
+KW-SKU-000468,DodgerBlue South Grocerie,Groceries,54999,KW-S-0033,True,0
+KW-SKU-000469,LemonChiffon Include Beauty,Beauty,24999,KW-S-0008,True,6
+KW-SKU-000470,DimGray Race Sports & Outdoor,Sports & Outdoors,2999,KW-S-0026,True,6
+KW-SKU-000471,PeachPuff Include Furniture,Furniture,1499,KW-S-0116,True,24
+KW-SKU-000472,GoldenRod Energy Beauty,Beauty,24999,KW-S-0069,True,0
+KW-SKU-000473,MediumVioletRed Avoid Grocerie,Groceries,299,KW-S-0102,True,6
+KW-SKU-000474,Ivory Fact Toy,Toys,54999,KW-S-0077,True,0
+KW-SKU-000475,DarkSlateGray Walk Grocerie,Groceries,54999,KW-S-0010,True,24
+KW-SKU-000476,PaleGoldenRod Candidate Toy,Toys,799,KW-S-0080,True,0
+KW-SKU-000477,DeepPink Describe Home & Kitchen,Home & Kitchen,12999,KW-S-0006,True,24
+KW-SKU-000478,Red Change Grocerie,Groceries,54999,KW-S-0078,False,12
+KW-SKU-000479,LightSalmon Soon Apparel,Apparel,299,KW-S-0080,True,0
+KW-SKU-000480,MediumOrchid Activity Apparel,Apparel,299,KW-S-0016,True,0
+KW-SKU-000481,DarkOrchid Near Toy,Toys,1499,KW-S-0031,True,0
+KW-SKU-000482,Magenta Need Furniture,Furniture,299,KW-S-0107,True,0
+KW-SKU-000483,DarkKhaki Sport Furniture,Furniture,12999,KW-S-0065,True,0
+KW-SKU-000484,SeaShell Each Toy,Toys,12999,KW-S-0118,True,0
+KW-SKU-000485,Purple Fire Home & Kitchen,Home & Kitchen,24999,KW-S-0108,True,24
+KW-SKU-000486,DarkRed Number Furniture,Furniture,799,KW-S-0037,True,0
+KW-SKU-000487,SaddleBrown Class Furniture,Furniture,12999,KW-S-0107,False,6
+KW-SKU-000488,Cornsilk Up Home & Kitchen,Home & Kitchen,6499,KW-S-0118,True,24
+KW-SKU-000489,MediumSpringGreen Type Furniture,Furniture,2999,KW-S-0075,True,12
+KW-SKU-000490,LightPink Amount Apparel,Apparel,12999,KW-S-0077,True,24
+KW-SKU-000491,Olive This Beauty,Beauty,799,KW-S-0023,True,24
+KW-SKU-000492,LightCyan Budget Furniture,Furniture,54999,KW-S-0031,True,12
+KW-SKU-000493,SeaGreen Last Furniture,Furniture,54999,KW-S-0022,False,6
+KW-SKU-000494,FloralWhite Under Sports & Outdoor,Sports & Outdoors,2999,KW-S-0082,True,6
+KW-SKU-000495,SlateBlue Son Sports & Outdoor,Sports & Outdoors,54999,KW-S-0067,True,24
+KW-SKU-000496,LightSteelBlue Down Grocerie,Groceries,12999,KW-S-0061,True,12
+KW-SKU-000497,Turquoise Board Sports & Outdoor,Sports & Outdoors,2999,KW-S-0115,True,0
+KW-SKU-000498,DarkCyan Sign Apparel,Apparel,299,KW-S-0098,True,6
+KW-SKU-000499,MistyRose Effort Electronic,Electronics,6499,KW-S-0017,True,24
+KW-SKU-000500,Snow Think Grocerie,Groceries,299,KW-S-0081,True,0
+KW-SKU-000501,Plum Know Sports & Outdoor,Sports & Outdoors,299,KW-S-0077,True,6
+KW-SKU-000502,Chartreuse Pull Furniture,Furniture,2999,KW-S-0062,True,6
+KW-SKU-000503,DarkKhaki Treatment Apparel,Apparel,24999,KW-S-0049,True,0
+KW-SKU-000504,LightSeaGreen Thousand Apparel,Apparel,12999,KW-S-0034,True,0
+KW-SKU-000505,LightSalmon West Beauty,Beauty,24999,KW-S-0101,True,0
+KW-SKU-000506,LightCoral Push Home & Kitchen,Home & Kitchen,6499,KW-S-0119,True,0
+KW-SKU-000507,Teal Get Home & Kitchen,Home & Kitchen,12999,KW-S-0019,True,0
+KW-SKU-000508,PeachPuff Reflect Home & Kitchen,Home & Kitchen,54999,KW-S-0024,True,12
+KW-SKU-000509,LightCoral Heavy Sports & Outdoor,Sports & Outdoors,799,KW-S-0034,True,6
+KW-SKU-000510,DarkBlue Add Grocerie,Groceries,299,KW-S-0113,True,0
+KW-SKU-000511,DarkGreen Sell Sports & Outdoor,Sports & Outdoors,1499,KW-S-0118,True,0
+KW-SKU-000512,SlateBlue Eight Beauty,Beauty,12999,KW-S-0079,True,6
+KW-SKU-000513,Snow Do Furniture,Furniture,6499,KW-S-0021,True,24
+KW-SKU-000514,PowderBlue Reduce Beauty,Beauty,12999,KW-S-0079,True,12
+KW-SKU-000515,LightGreen Body Furniture,Furniture,54999,KW-S-0103,False,6
+KW-SKU-000516,SlateBlue Option Beauty,Beauty,299,KW-S-0102,True,12
+KW-SKU-000517,OldLace Policy Apparel,Apparel,6499,KW-S-0060,True,0
+KW-SKU-000518,Tomato Truth Grocerie,Groceries,12999,KW-S-0002,True,0
+KW-SKU-000519,Olive And Apparel,Apparel,299,KW-S-0074,True,0
+KW-SKU-000520,DarkMagenta Performance Grocerie,Groceries,6499,KW-S-0108,True,0
+KW-SKU-000521,DarkGreen Parent Sports & Outdoor,Sports & Outdoors,6499,KW-S-0019,True,12
+KW-SKU-000522,DarkGray Buy Beauty,Beauty,12999,KW-S-0041,True,0
+KW-SKU-000523,LawnGreen Herself Sports & Outdoor,Sports & Outdoors,1499,KW-S-0083,True,12
+KW-SKU-000524,PeachPuff Teacher Furniture,Furniture,1499,KW-S-0093,True,0
+KW-SKU-000525,OrangeRed Serious Grocerie,Groceries,54999,KW-S-0047,True,6
+KW-SKU-000526,BlueViolet Hand Beauty,Beauty,2999,KW-S-0040,False,24
+KW-SKU-000527,Purple Together Grocerie,Groceries,299,KW-S-0036,True,0
+KW-SKU-000528,Salmon Painting Apparel,Apparel,12999,KW-S-0023,True,24
+KW-SKU-000529,Turquoise Always Beauty,Beauty,12999,KW-S-0059,True,24
+KW-SKU-000530,PaleGoldenRod Tax Home & Kitchen,Home & Kitchen,2999,KW-S-0032,True,12
+KW-SKU-000531,Plum Relationship Beauty,Beauty,6499,KW-S-0044,True,0
+KW-SKU-000532,Bisque Direction Electronic,Electronics,1499,KW-S-0030,True,0
+KW-SKU-000533,Gainsboro Agent Apparel,Apparel,1499,KW-S-0038,True,6
+KW-SKU-000534,MediumPurple Bit Electronic,Electronics,12999,KW-S-0025,True,12
+KW-SKU-000535,LightSteelBlue Wife Apparel,Apparel,299,KW-S-0031,True,0
+KW-SKU-000536,PaleVioletRed Suffer Toy,Toys,799,KW-S-0052,True,0
+KW-SKU-000537,Black Shoulder Apparel,Apparel,12999,KW-S-0013,True,12
+KW-SKU-000538,SaddleBrown Time Home & Kitchen,Home & Kitchen,12999,KW-S-0046,True,12
+KW-SKU-000539,LightCoral Her Electronic,Electronics,6499,KW-S-0082,False,0
+KW-SKU-000540,MediumTurquoise He Sports & Outdoor,Sports & Outdoors,1499,KW-S-0020,False,6
+KW-SKU-000541,LightBlue Factor Toy,Toys,24999,KW-S-0040,True,24
+KW-SKU-000542,RosyBrown Step Apparel,Apparel,12999,KW-S-0105,True,0
+KW-SKU-000543,BurlyWood Garden Apparel,Apparel,12999,KW-S-0030,True,0
+KW-SKU-000544,Salmon Say Furniture,Furniture,799,KW-S-0076,True,0
+KW-SKU-000545,LightGray Specific Toy,Toys,299,KW-S-0045,True,0
+KW-SKU-000546,DodgerBlue Determine Sports & Outdoor,Sports & Outdoors,6499,KW-S-0120,True,0
+KW-SKU-000547,MediumBlue Sit Furniture,Furniture,799,KW-S-0043,True,6
+KW-SKU-000548,PaleGoldenRod Some Toy,Toys,54999,KW-S-0016,False,12
+KW-SKU-000549,MediumVioletRed Statement Grocerie,Groceries,2999,KW-S-0023,False,0
+KW-SKU-000550,ForestGreen Three Sports & Outdoor,Sports & Outdoors,24999,KW-S-0032,True,12
+KW-SKU-000551,SpringGreen Tough Home & Kitchen,Home & Kitchen,24999,KW-S-0018,True,0
+KW-SKU-000552,DarkCyan Goal Toy,Toys,24999,KW-S-0031,True,0
+KW-SKU-000553,MidnightBlue Practice Electronic,Electronics,54999,KW-S-0056,False,6
+KW-SKU-000554,WhiteSmoke Sister Electronic,Electronics,6499,KW-S-0020,True,24
+KW-SKU-000555,Khaki Free Grocerie,Groceries,12999,KW-S-0086,True,24
+KW-SKU-000556,Linen Blood Furniture,Furniture,54999,KW-S-0113,True,0
+KW-SKU-000557,DarkGoldenRod Purpose Beauty,Beauty,24999,KW-S-0004,False,24
+KW-SKU-000558,PaleGreen Form Electronic,Electronics,299,KW-S-0014,True,6
+KW-SKU-000559,SpringGreen Purpose Grocerie,Groceries,799,KW-S-0109,True,0
+KW-SKU-000560,GhostWhite Something Apparel,Apparel,54999,KW-S-0107,True,24
+KW-SKU-000561,Olive Degree Home & Kitchen,Home & Kitchen,2999,KW-S-0005,True,12
+KW-SKU-000562,LightGray Total Home & Kitchen,Home & Kitchen,24999,KW-S-0032,True,0
+KW-SKU-000563,SlateBlue Have Grocerie,Groceries,54999,KW-S-0091,True,6
+KW-SKU-000564,MediumSlateBlue Sure Home & Kitchen,Home & Kitchen,12999,KW-S-0120,True,24
+KW-SKU-000565,Purple War Electronic,Electronics,12999,KW-S-0081,True,24
+KW-SKU-000566,MistyRose Somebody Grocerie,Groceries,12999,KW-S-0052,True,24
+KW-SKU-000567,DimGray Concern Apparel,Apparel,24999,KW-S-0062,True,0
+KW-SKU-000568,MediumBlue Admit Electronic,Electronics,54999,KW-S-0020,True,0
+KW-SKU-000569,DarkOliveGreen Customer Electronic,Electronics,799,KW-S-0087,True,6
+KW-SKU-000570,Magenta When Furniture,Furniture,1499,KW-S-0081,True,0
+KW-SKU-000571,Tan School Toy,Toys,24999,KW-S-0037,True,24
+KW-SKU-000572,LightYellow Something Beauty,Beauty,299,KW-S-0069,True,12
+KW-SKU-000573,WhiteSmoke Could Furniture,Furniture,12999,KW-S-0014,True,6
+KW-SKU-000574,Orchid Present Sports & Outdoor,Sports & Outdoors,2999,KW-S-0053,True,0
+KW-SKU-000575,Crimson Decide Sports & Outdoor,Sports & Outdoors,24999,KW-S-0062,True,0
+KW-SKU-000576,DarkGoldenRod Believe Grocerie,Groceries,24999,KW-S-0068,True,12
+KW-SKU-000577,PaleGreen Together Furniture,Furniture,12999,KW-S-0009,False,6
+KW-SKU-000578,LightGray Child Furniture,Furniture,799,KW-S-0011,True,6
+KW-SKU-000579,MediumSpringGreen No Grocerie,Groceries,299,KW-S-0045,True,6
+KW-SKU-000580,MidnightBlue Industry Grocerie,Groceries,2999,KW-S-0039,True,0
+KW-SKU-000581,DarkSlateBlue Will Electronic,Electronics,54999,KW-S-0027,True,0
+KW-SKU-000582,OliveDrab Body Electronic,Electronics,299,KW-S-0018,True,6
+KW-SKU-000583,LightYellow Positive Grocerie,Groceries,12999,KW-S-0098,True,0
+KW-SKU-000584,DarkBlue Game Furniture,Furniture,54999,KW-S-0062,True,0
+KW-SKU-000585,Ivory Level Beauty,Beauty,799,KW-S-0049,True,24
+KW-SKU-000586,BlueViolet Else Furniture,Furniture,799,KW-S-0076,True,12
+KW-SKU-000587,DeepSkyBlue Region Home & Kitchen,Home & Kitchen,12999,KW-S-0037,True,0
+KW-SKU-000588,LightSalmon Agree Electronic,Electronics,799,KW-S-0019,True,0
+KW-SKU-000589,Snow Door Apparel,Apparel,12999,KW-S-0105,True,6
+KW-SKU-000590,Indigo Else Electronic,Electronics,299,KW-S-0044,True,0
+KW-SKU-000591,Ivory Less Electronic,Electronics,2999,KW-S-0073,True,12
+KW-SKU-000592,IndianRed Check Furniture,Furniture,2999,KW-S-0067,True,0
+KW-SKU-000593,Aquamarine Fine Sports & Outdoor,Sports & Outdoors,24999,KW-S-0013,True,0
+KW-SKU-000594,LemonChiffon Against Beauty,Beauty,6499,KW-S-0032,True,0
+KW-SKU-000595,SkyBlue This Electronic,Electronics,299,KW-S-0075,True,0
+KW-SKU-000596,Purple Join Toy,Toys,1499,KW-S-0079,True,0
+KW-SKU-000597,GoldenRod Itself Electronic,Electronics,54999,KW-S-0089,False,6
+KW-SKU-000598,GhostWhite Thus Home & Kitchen,Home & Kitchen,54999,KW-S-0073,True,12
+KW-SKU-000599,Tomato Partner Toy,Toys,6499,KW-S-0053,True,0

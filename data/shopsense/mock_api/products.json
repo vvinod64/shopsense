@@ -1,0 +1,5402 @@
+[
+  {
+    "sku": "KW-SKU-000000",
+    "title": "Gold Provide Furniture",
+    "category": "Furniture",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0064",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000001",
+    "title": "Black Present Furniture",
+    "category": "Furniture",
+    "price_inr": 799,
+    "seller_id": "KW-S-0089",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000002",
+    "title": "Ivory Certainly Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0109",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000003",
+    "title": "SteelBlue Be Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0014",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000004",
+    "title": "PaleTurquoise Young Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0070",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000005",
+    "title": "Beige Garden Toy",
+    "category": "Toys",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0064",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000006",
+    "title": "LightBlue Compare Beauty",
+    "category": "Beauty",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0096",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000007",
+    "title": "SeaShell Return Apparel",
+    "category": "Apparel",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0028",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000008",
+    "title": "DarkGoldenRod Hospital Grocerie",
+    "category": "Groceries",
+    "price_inr": 799,
+    "seller_id": "KW-S-0039",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000009",
+    "title": "Beige Situation Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0064",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000010",
+    "title": "Orange Old Electronic",
+    "category": "Electronics",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0088",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000011",
+    "title": "Teal Treat Grocerie",
+    "category": "Groceries",
+    "price_inr": 799,
+    "seller_id": "KW-S-0088",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000012",
+    "title": "GoldenRod To Toy",
+    "category": "Toys",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0038",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000013",
+    "title": "DodgerBlue Lot Grocerie",
+    "category": "Groceries",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0027",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000014",
+    "title": "NavajoWhite Several Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0004",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000015",
+    "title": "LawnGreen Continue Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0069",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000016",
+    "title": "SeaShell Write Furniture",
+    "category": "Furniture",
+    "price_inr": 299,
+    "seller_id": "KW-S-0028",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000017",
+    "title": "Green Future Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0004",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000018",
+    "title": "DarkSeaGreen Finally Furniture",
+    "category": "Furniture",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0052",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000019",
+    "title": "Coral Wall Toy",
+    "category": "Toys",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0096",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000020",
+    "title": "Black Design Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0062",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000021",
+    "title": "SandyBrown Machine Toy",
+    "category": "Toys",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0036",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000022",
+    "title": "LemonChiffon Return Electronic",
+    "category": "Electronics",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0096",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000023",
+    "title": "Red Effort Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0070",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000024",
+    "title": "Fuchsia Main Apparel",
+    "category": "Apparel",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0062",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000025",
+    "title": "SteelBlue Put Electronic",
+    "category": "Electronics",
+    "price_inr": 799,
+    "seller_id": "KW-S-0069",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000026",
+    "title": "DarkOliveGreen Suggest Grocerie",
+    "category": "Groceries",
+    "price_inr": 299,
+    "seller_id": "KW-S-0109",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000027",
+    "title": "MediumPurple Turn Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0107",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000028",
+    "title": "DimGray Election Furniture",
+    "category": "Furniture",
+    "price_inr": 299,
+    "seller_id": "KW-S-0041",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000029",
+    "title": "SandyBrown Seven Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0016",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000030",
+    "title": "CornflowerBlue Account Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0054",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000031",
+    "title": "BlanchedAlmond Rest Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 299,
+    "seller_id": "KW-S-0056",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000032",
+    "title": "PaleTurquoise Trial Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0111",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000033",
+    "title": "Turquoise Many Beauty",
+    "category": "Beauty",
+    "price_inr": 799,
+    "seller_id": "KW-S-0022",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000034",
+    "title": "OliveDrab Avoid Toy",
+    "category": "Toys",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0105",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000035",
+    "title": "PapayaWhip Ever Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0077",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000036",
+    "title": "WhiteSmoke Camera Beauty",
+    "category": "Beauty",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0117",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000037",
+    "title": "White Send Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0068",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000038",
+    "title": "Bisque Leg Electronic",
+    "category": "Electronics",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0068",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000039",
+    "title": "SkyBlue Their Electronic",
+    "category": "Electronics",
+    "price_inr": 799,
+    "seller_id": "KW-S-0098",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000040",
+    "title": "Chocolate Final Furniture",
+    "category": "Furniture",
+    "price_inr": 799,
+    "seller_id": "KW-S-0055",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000041",
+    "title": "Orchid Them Beauty",
+    "category": "Beauty",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0015",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000042",
+    "title": "BlueViolet Himself Grocerie",
+    "category": "Groceries",
+    "price_inr": 799,
+    "seller_id": "KW-S-0103",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000043",
+    "title": "PaleGoldenRod Sense Furniture",
+    "category": "Furniture",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0035",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000044",
+    "title": "Teal Professional Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 299,
+    "seller_id": "KW-S-0032",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000045",
+    "title": "Purple Later Toy",
+    "category": "Toys",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0048",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000046",
+    "title": "DarkRed Body Beauty",
+    "category": "Beauty",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0089",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000047",
+    "title": "DarkViolet Throw Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0062",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000048",
+    "title": "LightGray Son Apparel",
+    "category": "Apparel",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0117",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000049",
+    "title": "DarkOliveGreen Seven Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0104",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000050",
+    "title": "FloralWhite Hit Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0072",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000051",
+    "title": "PaleVioletRed Realize Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0112",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000052",
+    "title": "MediumSlateBlue Change Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0091",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000053",
+    "title": "LemonChiffon Stuff Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0030",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000054",
+    "title": "SkyBlue Develop Toy",
+    "category": "Toys",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0013",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000055",
+    "title": "LightGray Bill Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0030",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000056",
+    "title": "MediumPurple Quality Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0078",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000057",
+    "title": "Cornsilk Low Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0100",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000058",
+    "title": "SlateGray Soldier Grocerie",
+    "category": "Groceries",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0047",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000059",
+    "title": "LemonChiffon Sometimes Furniture",
+    "category": "Furniture",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0081",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000060",
+    "title": "LightGoldenRodYellow Guess Apparel",
+    "category": "Apparel",
+    "price_inr": 799,
+    "seller_id": "KW-S-0059",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000061",
+    "title": "LightYellow Risk Toy",
+    "category": "Toys",
+    "price_inr": 799,
+    "seller_id": "KW-S-0054",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000062",
+    "title": "Red Give Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0028",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000063",
+    "title": "RoyalBlue Scene Beauty",
+    "category": "Beauty",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0058",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000064",
+    "title": "LightGoldenRodYellow Out Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0085",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000065",
+    "title": "LightSalmon Phone Electronic",
+    "category": "Electronics",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0040",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000066",
+    "title": "Blue Sort Apparel",
+    "category": "Apparel",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0013",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000067",
+    "title": "DarkSlateGray Choose Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0053",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000068",
+    "title": "Turquoise Fight Apparel",
+    "category": "Apparel",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0056",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000069",
+    "title": "Bisque Do Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0084",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000070",
+    "title": "NavajoWhite Organization Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0038",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000071",
+    "title": "MistyRose Sell Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0086",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000072",
+    "title": "LightSteelBlue Food Apparel",
+    "category": "Apparel",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0032",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000073",
+    "title": "DimGray Out Electronic",
+    "category": "Electronics",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0057",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000074",
+    "title": "Linen May Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0085",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000075",
+    "title": "Purple Report Grocerie",
+    "category": "Groceries",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0002",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000076",
+    "title": "LightYellow Clear Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 799,
+    "seller_id": "KW-S-0040",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000077",
+    "title": "DarkSalmon Choice Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0060",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000078",
+    "title": "LightSteelBlue Town Apparel",
+    "category": "Apparel",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0108",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000079",
+    "title": "OliveDrab Even Electronic",
+    "category": "Electronics",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0050",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000080",
+    "title": "Khaki Ahead Electronic",
+    "category": "Electronics",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0041",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000081",
+    "title": "HotPink Past Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0096",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000082",
+    "title": "LimeGreen Choose Electronic",
+    "category": "Electronics",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0031",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000083",
+    "title": "Aquamarine Event Grocerie",
+    "category": "Groceries",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0077",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000084",
+    "title": "Moccasin Set Toy",
+    "category": "Toys",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0030",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000085",
+    "title": "Teal Skill Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 799,
+    "seller_id": "KW-S-0107",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000086",
+    "title": "Tomato Into Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0107",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000087",
+    "title": "Silver Present Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0036",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000088",
+    "title": "FloralWhite Guy Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 299,
+    "seller_id": "KW-S-0049",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000089",
+    "title": "DeepSkyBlue People Beauty",
+    "category": "Beauty",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0053",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000090",
+    "title": "SteelBlue Former Beauty",
+    "category": "Beauty",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0033",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000091",
+    "title": "Turquoise House Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0056",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000092",
+    "title": "OldLace Tree Electronic",
+    "category": "Electronics",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0100",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000093",
+    "title": "SlateBlue Raise Apparel",
+    "category": "Apparel",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0032",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000094",
+    "title": "FloralWhite Truth Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0071",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000095",
+    "title": "Violet Meet Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0027",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000096",
+    "title": "ForestGreen Member Toy",
+    "category": "Toys",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0098",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000097",
+    "title": "Olive Address Toy",
+    "category": "Toys",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0113",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000098",
+    "title": "Coral Guess Electronic",
+    "category": "Electronics",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0073",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000099",
+    "title": "Ivory For Grocerie",
+    "category": "Groceries",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0042",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000100",
+    "title": "GreenYellow Door Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0052",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000101",
+    "title": "DeepPink Fall Furniture",
+    "category": "Furniture",
+    "price_inr": 799,
+    "seller_id": "KW-S-0103",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000102",
+    "title": "DarkOrchid Rate Electronic",
+    "category": "Electronics",
+    "price_inr": 299,
+    "seller_id": "KW-S-0098",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000103",
+    "title": "Gray Heavy Toy",
+    "category": "Toys",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0018",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000104",
+    "title": "SpringGreen Machine Beauty",
+    "category": "Beauty",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0037",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000105",
+    "title": "Aquamarine Though Grocerie",
+    "category": "Groceries",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0067",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000106",
+    "title": "Violet Water Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0059",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000107",
+    "title": "Khaki Site Furniture",
+    "category": "Furniture",
+    "price_inr": 299,
+    "seller_id": "KW-S-0112",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000108",
+    "title": "Green Himself Electronic",
+    "category": "Electronics",
+    "price_inr": 799,
+    "seller_id": "KW-S-0109",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000109",
+    "title": "BlanchedAlmond Inside Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0004",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000110",
+    "title": "DarkGreen Girl Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0014",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000111",
+    "title": "Tan Audience Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0056",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000112",
+    "title": "LightPink On Toy",
+    "category": "Toys",
+    "price_inr": 799,
+    "seller_id": "KW-S-0070",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000113",
+    "title": "White Throughout Electronic",
+    "category": "Electronics",
+    "price_inr": 799,
+    "seller_id": "KW-S-0050",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000114",
+    "title": "WhiteSmoke Turn Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0027",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000115",
+    "title": "Cyan Success Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0074",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000116",
+    "title": "Chartreuse Likely Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0098",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000117",
+    "title": "Turquoise End Grocerie",
+    "category": "Groceries",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0110",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000118",
+    "title": "LemonChiffon Establish Furniture",
+    "category": "Furniture",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0040",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000119",
+    "title": "Gainsboro Road Apparel",
+    "category": "Apparel",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0010",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000120",
+    "title": "LemonChiffon Drive Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0103",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000121",
+    "title": "SaddleBrown Cost Electronic",
+    "category": "Electronics",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0043",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000122",
+    "title": "BlueViolet Politics Toy",
+    "category": "Toys",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0055",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000123",
+    "title": "LightGreen Old Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 799,
+    "seller_id": "KW-S-0081",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000124",
+    "title": "LightSeaGreen Benefit Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0098",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000125",
+    "title": "Gold Significant Electronic",
+    "category": "Electronics",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0026",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000126",
+    "title": "Coral Western Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0093",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000127",
+    "title": "DarkSeaGreen Necessary Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0057",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000128",
+    "title": "LimeGreen Ask Toy",
+    "category": "Toys",
+    "price_inr": 799,
+    "seller_id": "KW-S-0104",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000129",
+    "title": "HoneyDew Drive Electronic",
+    "category": "Electronics",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0083",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000130",
+    "title": "LemonChiffon Pay Apparel",
+    "category": "Apparel",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0059",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000131",
+    "title": "Silver Majority Furniture",
+    "category": "Furniture",
+    "price_inr": 299,
+    "seller_id": "KW-S-0115",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000132",
+    "title": "DarkGreen Not Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0007",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000133",
+    "title": "CadetBlue From Beauty",
+    "category": "Beauty",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0039",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000134",
+    "title": "Cornsilk Debate Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0066",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000135",
+    "title": "Silver But Beauty",
+    "category": "Beauty",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0014",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000136",
+    "title": "Red Because Beauty",
+    "category": "Beauty",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0048",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000137",
+    "title": "Sienna Decade Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0092",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000138",
+    "title": "DarkGreen Occur Furniture",
+    "category": "Furniture",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0108",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000139",
+    "title": "IndianRed Piece Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0111",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000140",
+    "title": "SlateBlue First Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0087",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000141",
+    "title": "Aqua Party Grocerie",
+    "category": "Groceries",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0051",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000142",
+    "title": "Plum Traditional Electronic",
+    "category": "Electronics",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0105",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000143",
+    "title": "DarkOliveGreen Service Toy",
+    "category": "Toys",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0088",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000144",
+    "title": "Red Star Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0018",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000145",
+    "title": "GoldenRod Perform Furniture",
+    "category": "Furniture",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0101",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000146",
+    "title": "SaddleBrown A Beauty",
+    "category": "Beauty",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0050",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000147",
+    "title": "LightCoral Somebody Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0004",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000148",
+    "title": "PaleTurquoise Plant Electronic",
+    "category": "Electronics",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0054",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000149",
+    "title": "LightPink Mind Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0045",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000150",
+    "title": "Fuchsia Get Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0097",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000151",
+    "title": "Tan Meeting Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0080",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000152",
+    "title": "Thistle Federal Electronic",
+    "category": "Electronics",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0095",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000153",
+    "title": "Lime Everything Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0046",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000154",
+    "title": "White Energy Beauty",
+    "category": "Beauty",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0093",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000155",
+    "title": "MediumSpringGreen Face Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0047",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000156",
+    "title": "SteelBlue For Beauty",
+    "category": "Beauty",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0053",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000157",
+    "title": "Purple Brother Electronic",
+    "category": "Electronics",
+    "price_inr": 299,
+    "seller_id": "KW-S-0034",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000158",
+    "title": "Gainsboro Method Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0008",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000159",
+    "title": "AntiqueWhite From Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0010",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000160",
+    "title": "Teal Many Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0011",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000161",
+    "title": "Snow Common Toy",
+    "category": "Toys",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0096",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000162",
+    "title": "Fuchsia Attorney Grocerie",
+    "category": "Groceries",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0010",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000163",
+    "title": "Plum Report Furniture",
+    "category": "Furniture",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0055",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000164",
+    "title": "LimeGreen Between Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0086",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000165",
+    "title": "Red Guess Grocerie",
+    "category": "Groceries",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0086",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000166",
+    "title": "WhiteSmoke Test Apparel",
+    "category": "Apparel",
+    "price_inr": 299,
+    "seller_id": "KW-S-0095",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000167",
+    "title": "Gainsboro Daughter Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0044",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000168",
+    "title": "DarkMagenta Source Toy",
+    "category": "Toys",
+    "price_inr": 299,
+    "seller_id": "KW-S-0068",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000169",
+    "title": "Lavender Different Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0090",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000170",
+    "title": "Linen More Electronic",
+    "category": "Electronics",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0074",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000171",
+    "title": "Linen Front Grocerie",
+    "category": "Groceries",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0110",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000172",
+    "title": "Wheat Marriage Furniture",
+    "category": "Furniture",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0080",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000173",
+    "title": "DarkKhaki Reveal Apparel",
+    "category": "Apparel",
+    "price_inr": 799,
+    "seller_id": "KW-S-0033",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000174",
+    "title": "Lime Within Beauty",
+    "category": "Beauty",
+    "price_inr": 799,
+    "seller_id": "KW-S-0069",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000175",
+    "title": "HoneyDew Own Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0040",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000176",
+    "title": "DeepSkyBlue Game Beauty",
+    "category": "Beauty",
+    "price_inr": 799,
+    "seller_id": "KW-S-0033",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000177",
+    "title": "DimGray Dark Toy",
+    "category": "Toys",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0034",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000178",
+    "title": "Orchid Stock Apparel",
+    "category": "Apparel",
+    "price_inr": 299,
+    "seller_id": "KW-S-0025",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000179",
+    "title": "FloralWhite Together Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 799,
+    "seller_id": "KW-S-0003",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000180",
+    "title": "DimGray Poor Beauty",
+    "category": "Beauty",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0083",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000181",
+    "title": "DimGray Gas Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0053",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000182",
+    "title": "Tomato Matter Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0013",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000183",
+    "title": "PapayaWhip State Toy",
+    "category": "Toys",
+    "price_inr": 799,
+    "seller_id": "KW-S-0065",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000184",
+    "title": "LightGreen Drop Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0066",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000185",
+    "title": "LightGray Marriage Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0069",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000186",
+    "title": "LimeGreen Hospital Beauty",
+    "category": "Beauty",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0082",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000187",
+    "title": "DarkViolet Follow Furniture",
+    "category": "Furniture",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0044",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000188",
+    "title": "MediumSeaGreen Short Electronic",
+    "category": "Electronics",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0091",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000189",
+    "title": "MidnightBlue Themselves Apparel",
+    "category": "Apparel",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0043",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000190",
+    "title": "Maroon Listen Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0059",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000191",
+    "title": "Linen Large Apparel",
+    "category": "Apparel",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0069",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000192",
+    "title": "OrangeRed Sound Beauty",
+    "category": "Beauty",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0069",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000193",
+    "title": "PapayaWhip Accept Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 299,
+    "seller_id": "KW-S-0094",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000194",
+    "title": "PaleGreen Around Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0111",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000195",
+    "title": "PaleTurquoise Health Apparel",
+    "category": "Apparel",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0040",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000196",
+    "title": "DarkSlateGray Loss Toy",
+    "category": "Toys",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0096",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000197",
+    "title": "LightSalmon After Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0009",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000198",
+    "title": "Green Detail Furniture",
+    "category": "Furniture",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0038",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000199",
+    "title": "LightCyan Financial Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0012",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000200",
+    "title": "Navy Agent Toy",
+    "category": "Toys",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0047",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000201",
+    "title": "MediumBlue Late Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0029",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000202",
+    "title": "Olive Gas Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0002",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000203",
+    "title": "Green Subject Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0115",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000204",
+    "title": "IndianRed Prepare Toy",
+    "category": "Toys",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0085",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000205",
+    "title": "SteelBlue Less Furniture",
+    "category": "Furniture",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0095",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000206",
+    "title": "LightSalmon Both Beauty",
+    "category": "Beauty",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0042",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000207",
+    "title": "Crimson Eight Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0077",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000208",
+    "title": "DodgerBlue Gas Grocerie",
+    "category": "Groceries",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0044",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000209",
+    "title": "Silver Year Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 799,
+    "seller_id": "KW-S-0120",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000210",
+    "title": "SeaShell Your Electronic",
+    "category": "Electronics",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0014",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000211",
+    "title": "Brown Statement Grocerie",
+    "category": "Groceries",
+    "price_inr": 799,
+    "seller_id": "KW-S-0003",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000212",
+    "title": "Orange Rise Apparel",
+    "category": "Apparel",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0086",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000213",
+    "title": "SlateBlue Enjoy Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0054",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000214",
+    "title": "LightSeaGreen Policy Apparel",
+    "category": "Apparel",
+    "price_inr": 799,
+    "seller_id": "KW-S-0082",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000215",
+    "title": "OldLace Artist Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0084",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000216",
+    "title": "DarkGreen Arrive Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0004",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000217",
+    "title": "MediumSpringGreen Fact Furniture",
+    "category": "Furniture",
+    "price_inr": 799,
+    "seller_id": "KW-S-0096",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000218",
+    "title": "WhiteSmoke Hope Beauty",
+    "category": "Beauty",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0085",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000219",
+    "title": "Purple Wind Furniture",
+    "category": "Furniture",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0098",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000220",
+    "title": "LightSkyBlue Bring Electronic",
+    "category": "Electronics",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0021",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000221",
+    "title": "SeaShell Center Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0072",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000222",
+    "title": "Cornsilk Garden Apparel",
+    "category": "Apparel",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0104",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000223",
+    "title": "PaleVioletRed Thank Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0079",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000224",
+    "title": "DeepPink Tv Toy",
+    "category": "Toys",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0116",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000225",
+    "title": "DeepPink Perform Toy",
+    "category": "Toys",
+    "price_inr": 299,
+    "seller_id": "KW-S-0091",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000226",
+    "title": "Lime Painting Grocerie",
+    "category": "Groceries",
+    "price_inr": 299,
+    "seller_id": "KW-S-0104",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000227",
+    "title": "Green Or Electronic",
+    "category": "Electronics",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0102",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000228",
+    "title": "DarkCyan Left Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 299,
+    "seller_id": "KW-S-0054",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000229",
+    "title": "LemonChiffon Generation Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0058",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000230",
+    "title": "YellowGreen Source Toy",
+    "category": "Toys",
+    "price_inr": 299,
+    "seller_id": "KW-S-0092",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000231",
+    "title": "LightGoldenRodYellow Onto Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0056",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000232",
+    "title": "Wheat Technology Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0013",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000233",
+    "title": "LightSteelBlue Road Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0104",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000234",
+    "title": "Beige Challenge Furniture",
+    "category": "Furniture",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0094",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000235",
+    "title": "CornflowerBlue Truth Grocerie",
+    "category": "Groceries",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0010",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000236",
+    "title": "Maroon Tonight Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0114",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000237",
+    "title": "MistyRose West Electronic",
+    "category": "Electronics",
+    "price_inr": 799,
+    "seller_id": "KW-S-0013",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000238",
+    "title": "RosyBrown Small Grocerie",
+    "category": "Groceries",
+    "price_inr": 299,
+    "seller_id": "KW-S-0119",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000239",
+    "title": "HotPink Create Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0116",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000240",
+    "title": "MediumBlue Management Electronic",
+    "category": "Electronics",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0066",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000241",
+    "title": "Khaki Magazine Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0110",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000242",
+    "title": "MistyRose Goal Toy",
+    "category": "Toys",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0072",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000243",
+    "title": "Gray Research Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0010",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000244",
+    "title": "LightGoldenRodYellow Especially Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0104",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000245",
+    "title": "Beige Challenge Toy",
+    "category": "Toys",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0040",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000246",
+    "title": "DarkOrchid Quality Beauty",
+    "category": "Beauty",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0113",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000247",
+    "title": "PaleVioletRed Late Furniture",
+    "category": "Furniture",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0082",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000248",
+    "title": "Orchid Sure Toy",
+    "category": "Toys",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0017",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000249",
+    "title": "SlateBlue Success Furniture",
+    "category": "Furniture",
+    "price_inr": 299,
+    "seller_id": "KW-S-0104",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000250",
+    "title": "BurlyWood Theory Grocerie",
+    "category": "Groceries",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0107",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000251",
+    "title": "Wheat As Apparel",
+    "category": "Apparel",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0048",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000252",
+    "title": "Thistle Hour Apparel",
+    "category": "Apparel",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0068",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000253",
+    "title": "Azure Others Electronic",
+    "category": "Electronics",
+    "price_inr": 799,
+    "seller_id": "KW-S-0068",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000254",
+    "title": "PowderBlue Almost Toy",
+    "category": "Toys",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0006",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000255",
+    "title": "Tan Tv Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0069",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000256",
+    "title": "MediumOrchid Street Furniture",
+    "category": "Furniture",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0082",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000257",
+    "title": "WhiteSmoke Million Grocerie",
+    "category": "Groceries",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0042",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000258",
+    "title": "LightSkyBlue Paper Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0094",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000259",
+    "title": "MediumSeaGreen Protect Furniture",
+    "category": "Furniture",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0019",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000260",
+    "title": "CornflowerBlue Simple Beauty",
+    "category": "Beauty",
+    "price_inr": 799,
+    "seller_id": "KW-S-0062",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000261",
+    "title": "Crimson Other Toy",
+    "category": "Toys",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0119",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000262",
+    "title": "DarkGoldenRod Open Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0069",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000263",
+    "title": "DarkOliveGreen Night Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0091",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000264",
+    "title": "DimGray Success Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0055",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000265",
+    "title": "Thistle Throughout Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0055",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000266",
+    "title": "DarkCyan Painting Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0046",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000267",
+    "title": "SeaGreen Poor Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0040",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000268",
+    "title": "Gold Society Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0068",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000269",
+    "title": "Cornsilk Speak Electronic",
+    "category": "Electronics",
+    "price_inr": 299,
+    "seller_id": "KW-S-0073",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000270",
+    "title": "Plum Television Apparel",
+    "category": "Apparel",
+    "price_inr": 299,
+    "seller_id": "KW-S-0107",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000271",
+    "title": "LightSalmon Make Electronic",
+    "category": "Electronics",
+    "price_inr": 799,
+    "seller_id": "KW-S-0098",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000272",
+    "title": "RoyalBlue Visit Furniture",
+    "category": "Furniture",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0023",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000273",
+    "title": "DeepPink Rather Apparel",
+    "category": "Apparel",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0098",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000274",
+    "title": "MediumPurple Baby Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0062",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000275",
+    "title": "Gainsboro Raise Electronic",
+    "category": "Electronics",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0056",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000276",
+    "title": "MediumSlateBlue Long Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 299,
+    "seller_id": "KW-S-0036",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000277",
+    "title": "Wheat Statement Beauty",
+    "category": "Beauty",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0071",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000278",
+    "title": "Plum Visit Beauty",
+    "category": "Beauty",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0096",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000279",
+    "title": "Beige Interest Grocerie",
+    "category": "Groceries",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0096",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000280",
+    "title": "LightYellow According Toy",
+    "category": "Toys",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0035",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000281",
+    "title": "Orange After Toy",
+    "category": "Toys",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0075",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000282",
+    "title": "Aqua Down Electronic",
+    "category": "Electronics",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0063",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000283",
+    "title": "MediumBlue Late Apparel",
+    "category": "Apparel",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0018",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000284",
+    "title": "DeepPink Event Beauty",
+    "category": "Beauty",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0119",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000285",
+    "title": "Ivory Pattern Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0077",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000286",
+    "title": "MediumOrchid No Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0057",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000287",
+    "title": "Salmon Ready Toy",
+    "category": "Toys",
+    "price_inr": 299,
+    "seller_id": "KW-S-0022",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000288",
+    "title": "Green Speech Toy",
+    "category": "Toys",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0072",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000289",
+    "title": "MidnightBlue Walk Furniture",
+    "category": "Furniture",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0044",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000290",
+    "title": "DeepSkyBlue Current Apparel",
+    "category": "Apparel",
+    "price_inr": 799,
+    "seller_id": "KW-S-0118",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000291",
+    "title": "DarkViolet Design Grocerie",
+    "category": "Groceries",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0028",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000292",
+    "title": "Linen Course Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0083",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000293",
+    "title": "DarkGreen Agree Grocerie",
+    "category": "Groceries",
+    "price_inr": 299,
+    "seller_id": "KW-S-0058",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000294",
+    "title": "White Play Furniture",
+    "category": "Furniture",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0011",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000295",
+    "title": "BlueViolet State Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0059",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000296",
+    "title": "DarkSalmon Now Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0074",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000297",
+    "title": "MediumVioletRed Authority Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 799,
+    "seller_id": "KW-S-0102",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000298",
+    "title": "MediumOrchid Truth Toy",
+    "category": "Toys",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0087",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000299",
+    "title": "Maroon Without Apparel",
+    "category": "Apparel",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0067",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000300",
+    "title": "Khaki Really Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0057",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000301",
+    "title": "HoneyDew Defense Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0075",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000302",
+    "title": "LimeGreen Common Electronic",
+    "category": "Electronics",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0042",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000303",
+    "title": "Peru Experience Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0082",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000304",
+    "title": "Lavender Would Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0085",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000305",
+    "title": "IndianRed Sport Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0019",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000306",
+    "title": "MidnightBlue Agreement Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 299,
+    "seller_id": "KW-S-0063",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000307",
+    "title": "DarkSlateGray Understand Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 799,
+    "seller_id": "KW-S-0045",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000308",
+    "title": "Purple Candidate Furniture",
+    "category": "Furniture",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0016",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000309",
+    "title": "OldLace Agree Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0043",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000310",
+    "title": "Red Trip Furniture",
+    "category": "Furniture",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0099",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000311",
+    "title": "HoneyDew Husband Beauty",
+    "category": "Beauty",
+    "price_inr": 799,
+    "seller_id": "KW-S-0105",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000312",
+    "title": "BurlyWood Likely Furniture",
+    "category": "Furniture",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0023",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000313",
+    "title": "Purple Inside Furniture",
+    "category": "Furniture",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0052",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000314",
+    "title": "Gray Describe Toy",
+    "category": "Toys",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0083",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000315",
+    "title": "Olive Performance Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 799,
+    "seller_id": "KW-S-0051",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000316",
+    "title": "DarkRed Better Furniture",
+    "category": "Furniture",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0080",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000317",
+    "title": "ForestGreen Move Beauty",
+    "category": "Beauty",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0069",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000318",
+    "title": "Tomato Campaign Toy",
+    "category": "Toys",
+    "price_inr": 299,
+    "seller_id": "KW-S-0107",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000319",
+    "title": "DodgerBlue Something Toy",
+    "category": "Toys",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0096",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000320",
+    "title": "HoneyDew Camera Toy",
+    "category": "Toys",
+    "price_inr": 799,
+    "seller_id": "KW-S-0084",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000321",
+    "title": "SlateGray Sit Apparel",
+    "category": "Apparel",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0081",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000322",
+    "title": "MintCream So Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0031",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000323",
+    "title": "MediumAquaMarine Just Furniture",
+    "category": "Furniture",
+    "price_inr": 299,
+    "seller_id": "KW-S-0039",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000324",
+    "title": "Gold Develop Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0104",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000325",
+    "title": "DarkGoldenRod Successful Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0094",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000326",
+    "title": "Tan Here Furniture",
+    "category": "Furniture",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0038",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000327",
+    "title": "Silver Especially Toy",
+    "category": "Toys",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0006",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000328",
+    "title": "Teal Brother Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0048",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000329",
+    "title": "SaddleBrown Admit Electronic",
+    "category": "Electronics",
+    "price_inr": 799,
+    "seller_id": "KW-S-0060",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000330",
+    "title": "AntiqueWhite Husband Grocerie",
+    "category": "Groceries",
+    "price_inr": 799,
+    "seller_id": "KW-S-0003",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000331",
+    "title": "PeachPuff Instead Electronic",
+    "category": "Electronics",
+    "price_inr": 299,
+    "seller_id": "KW-S-0098",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000332",
+    "title": "DarkGreen Hear Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0074",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000333",
+    "title": "MistyRose Young Electronic",
+    "category": "Electronics",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0070",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000334",
+    "title": "Magenta Think Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0041",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000335",
+    "title": "Coral Leader Apparel",
+    "category": "Apparel",
+    "price_inr": 799,
+    "seller_id": "KW-S-0096",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000336",
+    "title": "Lime Drop Beauty",
+    "category": "Beauty",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0057",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000337",
+    "title": "DarkBlue Rather Toy",
+    "category": "Toys",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0102",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000338",
+    "title": "Orange Type Toy",
+    "category": "Toys",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0091",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000339",
+    "title": "SeaShell Admit Electronic",
+    "category": "Electronics",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0008",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000340",
+    "title": "LightSalmon Show Beauty",
+    "category": "Beauty",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0100",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000341",
+    "title": "MediumBlue Answer Beauty",
+    "category": "Beauty",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0105",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000342",
+    "title": "DarkTurquoise Throw Electronic",
+    "category": "Electronics",
+    "price_inr": 799,
+    "seller_id": "KW-S-0035",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000343",
+    "title": "LightBlue Cost Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0022",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000344",
+    "title": "Aqua Career Beauty",
+    "category": "Beauty",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0052",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000345",
+    "title": "Tomato Clearly Toy",
+    "category": "Toys",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0092",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000346",
+    "title": "DarkSlateGray Run Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0099",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000347",
+    "title": "SeaShell Sound Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 299,
+    "seller_id": "KW-S-0026",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000348",
+    "title": "Blue Ask Electronic",
+    "category": "Electronics",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0087",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000349",
+    "title": "HoneyDew Trial Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0072",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000350",
+    "title": "LightYellow Hot Electronic",
+    "category": "Electronics",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0109",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000351",
+    "title": "PapayaWhip Than Beauty",
+    "category": "Beauty",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0104",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000352",
+    "title": "DimGray Kind Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0114",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000353",
+    "title": "ForestGreen Contain Grocerie",
+    "category": "Groceries",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0075",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000354",
+    "title": "Tomato Civil Apparel",
+    "category": "Apparel",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0102",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000355",
+    "title": "Gainsboro His Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0042",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000356",
+    "title": "DarkOliveGreen Stop Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0075",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000357",
+    "title": "DodgerBlue All Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0104",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000358",
+    "title": "SpringGreen Democrat Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0058",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000359",
+    "title": "Linen International Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0090",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000360",
+    "title": "Navy When Toy",
+    "category": "Toys",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0037",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000361",
+    "title": "LightGray Pretty Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0011",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000362",
+    "title": "MediumBlue Air Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0088",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000363",
+    "title": "Bisque Glass Beauty",
+    "category": "Beauty",
+    "price_inr": 799,
+    "seller_id": "KW-S-0089",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000364",
+    "title": "Black Visit Grocerie",
+    "category": "Groceries",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0100",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000365",
+    "title": "SeaShell Already Furniture",
+    "category": "Furniture",
+    "price_inr": 799,
+    "seller_id": "KW-S-0034",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000366",
+    "title": "DarkTurquoise White Apparel",
+    "category": "Apparel",
+    "price_inr": 299,
+    "seller_id": "KW-S-0010",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000367",
+    "title": "PaleTurquoise Any Beauty",
+    "category": "Beauty",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0032",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000368",
+    "title": "Yellow Huge Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0024",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000369",
+    "title": "Violet Condition Beauty",
+    "category": "Beauty",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0002",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000370",
+    "title": "DimGray Black Furniture",
+    "category": "Furniture",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0118",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000371",
+    "title": "Aquamarine Happy Electronic",
+    "category": "Electronics",
+    "price_inr": 299,
+    "seller_id": "KW-S-0054",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000372",
+    "title": "Ivory Best Grocerie",
+    "category": "Groceries",
+    "price_inr": 799,
+    "seller_id": "KW-S-0070",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000373",
+    "title": "PeachPuff Attorney Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0095",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000374",
+    "title": "DarkOliveGreen Maybe Furniture",
+    "category": "Furniture",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0084",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000375",
+    "title": "SandyBrown Just Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0013",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000376",
+    "title": "WhiteSmoke Less Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0072",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000377",
+    "title": "DarkSlateBlue Tough Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0105",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000378",
+    "title": "AliceBlue Foreign Beauty",
+    "category": "Beauty",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0050",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000379",
+    "title": "Sienna Manager Grocerie",
+    "category": "Groceries",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0079",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000380",
+    "title": "LightCyan Career Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0052",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000381",
+    "title": "MediumBlue Realize Electronic",
+    "category": "Electronics",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0101",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000382",
+    "title": "Yellow History Electronic",
+    "category": "Electronics",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0083",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000383",
+    "title": "DarkGray Mean Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0105",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000384",
+    "title": "Snow Smile Furniture",
+    "category": "Furniture",
+    "price_inr": 299,
+    "seller_id": "KW-S-0016",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000385",
+    "title": "Gray Car Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0051",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000386",
+    "title": "Indigo Myself Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0002",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000387",
+    "title": "DarkSeaGreen Support Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0119",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000388",
+    "title": "DarkTurquoise Down Beauty",
+    "category": "Beauty",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0094",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000389",
+    "title": "DarkBlue Six Apparel",
+    "category": "Apparel",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0102",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000390",
+    "title": "DarkGray Series Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0074",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000391",
+    "title": "PaleGreen Fear Furniture",
+    "category": "Furniture",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0102",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000392",
+    "title": "DarkKhaki Enjoy Apparel",
+    "category": "Apparel",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0026",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000393",
+    "title": "Ivory Enough Beauty",
+    "category": "Beauty",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0025",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000394",
+    "title": "GhostWhite Show Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 299,
+    "seller_id": "KW-S-0053",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000395",
+    "title": "LimeGreen Get Toy",
+    "category": "Toys",
+    "price_inr": 799,
+    "seller_id": "KW-S-0062",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000396",
+    "title": "SandyBrown Relate Grocerie",
+    "category": "Groceries",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0099",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000397",
+    "title": "Turquoise Nation Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 299,
+    "seller_id": "KW-S-0113",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000398",
+    "title": "LightGreen Soon Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 299,
+    "seller_id": "KW-S-0117",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000399",
+    "title": "DarkSeaGreen Generation Apparel",
+    "category": "Apparel",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0025",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000400",
+    "title": "Peru House Toy",
+    "category": "Toys",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0073",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000401",
+    "title": "DarkViolet Particularly Toy",
+    "category": "Toys",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0013",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000402",
+    "title": "BlanchedAlmond Small Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0090",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000403",
+    "title": "OliveDrab Project Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0065",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000404",
+    "title": "BurlyWood Study Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 799,
+    "seller_id": "KW-S-0017",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000405",
+    "title": "Gray Court Electronic",
+    "category": "Electronics",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0012",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000406",
+    "title": "Aquamarine Character Beauty",
+    "category": "Beauty",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0027",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000407",
+    "title": "BlanchedAlmond Thing Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 799,
+    "seller_id": "KW-S-0097",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000408",
+    "title": "LavenderBlush Color Furniture",
+    "category": "Furniture",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0111",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000409",
+    "title": "Orchid Future Electronic",
+    "category": "Electronics",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0036",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000410",
+    "title": "Aqua Owner Furniture",
+    "category": "Furniture",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0108",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000411",
+    "title": "SkyBlue Member Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0030",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000412",
+    "title": "MediumTurquoise Cup Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0043",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000413",
+    "title": "PaleGreen Live Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0015",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000414",
+    "title": "HotPink Long Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 299,
+    "seller_id": "KW-S-0076",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000415",
+    "title": "LightGray Offer Beauty",
+    "category": "Beauty",
+    "price_inr": 799,
+    "seller_id": "KW-S-0070",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000416",
+    "title": "Purple Buy Grocerie",
+    "category": "Groceries",
+    "price_inr": 299,
+    "seller_id": "KW-S-0110",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000417",
+    "title": "LightSeaGreen Reality Apparel",
+    "category": "Apparel",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0007",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000418",
+    "title": "Thistle Window Toy",
+    "category": "Toys",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0103",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000419",
+    "title": "MediumSlateBlue Green Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 799,
+    "seller_id": "KW-S-0007",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000420",
+    "title": "GhostWhite Especially Furniture",
+    "category": "Furniture",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0040",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000421",
+    "title": "MediumSpringGreen Surface Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0054",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000422",
+    "title": "SlateBlue Sport Furniture",
+    "category": "Furniture",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0022",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000423",
+    "title": "SaddleBrown Record Beauty",
+    "category": "Beauty",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0065",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000424",
+    "title": "DarkGray Relate Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0078",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000425",
+    "title": "MediumSpringGreen Source Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0002",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000426",
+    "title": "Tomato Everyone Apparel",
+    "category": "Apparel",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0009",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000427",
+    "title": "Coral Station Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0005",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000428",
+    "title": "Moccasin Last Furniture",
+    "category": "Furniture",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0057",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000429",
+    "title": "Bisque Of Electronic",
+    "category": "Electronics",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0073",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000430",
+    "title": "DarkSalmon Between Apparel",
+    "category": "Apparel",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0029",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000431",
+    "title": "Khaki Lot Apparel",
+    "category": "Apparel",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0009",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000432",
+    "title": "DarkOliveGreen Camera Electronic",
+    "category": "Electronics",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0098",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000433",
+    "title": "LightYellow Card Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0071",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000434",
+    "title": "MediumTurquoise Food Apparel",
+    "category": "Apparel",
+    "price_inr": 299,
+    "seller_id": "KW-S-0053",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000435",
+    "title": "RoyalBlue Least Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0021",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000436",
+    "title": "DarkBlue Trial Electronic",
+    "category": "Electronics",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0028",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000437",
+    "title": "Tan Court Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0049",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000438",
+    "title": "Orchid Ten Electronic",
+    "category": "Electronics",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0073",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000439",
+    "title": "Teal Day Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0052",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000440",
+    "title": "DarkTurquoise Though Beauty",
+    "category": "Beauty",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0057",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000441",
+    "title": "Indigo Stand Toy",
+    "category": "Toys",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0077",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000442",
+    "title": "Azure Decide Toy",
+    "category": "Toys",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0062",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000443",
+    "title": "MidnightBlue Never Electronic",
+    "category": "Electronics",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0111",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000444",
+    "title": "DeepPink Order Toy",
+    "category": "Toys",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0069",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000445",
+    "title": "Wheat Network Beauty",
+    "category": "Beauty",
+    "price_inr": 799,
+    "seller_id": "KW-S-0015",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000446",
+    "title": "BurlyWood Such Electronic",
+    "category": "Electronics",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0022",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000447",
+    "title": "White Him Apparel",
+    "category": "Apparel",
+    "price_inr": 299,
+    "seller_id": "KW-S-0042",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000448",
+    "title": "Yellow Drug Grocerie",
+    "category": "Groceries",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0017",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000449",
+    "title": "Wheat Compare Furniture",
+    "category": "Furniture",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0071",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000450",
+    "title": "Navy Cold Grocerie",
+    "category": "Groceries",
+    "price_inr": 299,
+    "seller_id": "KW-S-0087",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000451",
+    "title": "DarkGreen Response Apparel",
+    "category": "Apparel",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0016",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000452",
+    "title": "FireBrick Prove Furniture",
+    "category": "Furniture",
+    "price_inr": 299,
+    "seller_id": "KW-S-0116",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000453",
+    "title": "Ivory Threat Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0054",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000454",
+    "title": "DeepPink Now Apparel",
+    "category": "Apparel",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0073",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000455",
+    "title": "Peru Toward Apparel",
+    "category": "Apparel",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0026",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000456",
+    "title": "Green Family Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0104",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000457",
+    "title": "BurlyWood Institution Grocerie",
+    "category": "Groceries",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0074",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000458",
+    "title": "LightYellow In Grocerie",
+    "category": "Groceries",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0039",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000459",
+    "title": "Turquoise Know Beauty",
+    "category": "Beauty",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0098",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000460",
+    "title": "Sienna Management Electronic",
+    "category": "Electronics",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0001",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000461",
+    "title": "MediumBlue Century Electronic",
+    "category": "Electronics",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0068",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000462",
+    "title": "Lime A Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0003",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000463",
+    "title": "Crimson Enter Electronic",
+    "category": "Electronics",
+    "price_inr": 799,
+    "seller_id": "KW-S-0093",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000464",
+    "title": "Magenta Detail Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0035",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000465",
+    "title": "CornflowerBlue Artist Furniture",
+    "category": "Furniture",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0085",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000466",
+    "title": "PaleVioletRed Challenge Electronic",
+    "category": "Electronics",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0052",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000467",
+    "title": "DarkTurquoise Medical Toy",
+    "category": "Toys",
+    "price_inr": 299,
+    "seller_id": "KW-S-0100",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000468",
+    "title": "DodgerBlue South Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0033",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000469",
+    "title": "LemonChiffon Include Beauty",
+    "category": "Beauty",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0008",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000470",
+    "title": "DimGray Race Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0026",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000471",
+    "title": "PeachPuff Include Furniture",
+    "category": "Furniture",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0116",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000472",
+    "title": "GoldenRod Energy Beauty",
+    "category": "Beauty",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0069",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000473",
+    "title": "MediumVioletRed Avoid Grocerie",
+    "category": "Groceries",
+    "price_inr": 299,
+    "seller_id": "KW-S-0102",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000474",
+    "title": "Ivory Fact Toy",
+    "category": "Toys",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0077",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000475",
+    "title": "DarkSlateGray Walk Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0010",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000476",
+    "title": "PaleGoldenRod Candidate Toy",
+    "category": "Toys",
+    "price_inr": 799,
+    "seller_id": "KW-S-0080",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000477",
+    "title": "DeepPink Describe Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0006",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000478",
+    "title": "Red Change Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0078",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000479",
+    "title": "LightSalmon Soon Apparel",
+    "category": "Apparel",
+    "price_inr": 299,
+    "seller_id": "KW-S-0080",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000480",
+    "title": "MediumOrchid Activity Apparel",
+    "category": "Apparel",
+    "price_inr": 299,
+    "seller_id": "KW-S-0016",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000481",
+    "title": "DarkOrchid Near Toy",
+    "category": "Toys",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0031",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000482",
+    "title": "Magenta Need Furniture",
+    "category": "Furniture",
+    "price_inr": 299,
+    "seller_id": "KW-S-0107",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000483",
+    "title": "DarkKhaki Sport Furniture",
+    "category": "Furniture",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0065",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000484",
+    "title": "SeaShell Each Toy",
+    "category": "Toys",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0118",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000485",
+    "title": "Purple Fire Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0108",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000486",
+    "title": "DarkRed Number Furniture",
+    "category": "Furniture",
+    "price_inr": 799,
+    "seller_id": "KW-S-0037",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000487",
+    "title": "SaddleBrown Class Furniture",
+    "category": "Furniture",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0107",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000488",
+    "title": "Cornsilk Up Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0118",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000489",
+    "title": "MediumSpringGreen Type Furniture",
+    "category": "Furniture",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0075",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000490",
+    "title": "LightPink Amount Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0077",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000491",
+    "title": "Olive This Beauty",
+    "category": "Beauty",
+    "price_inr": 799,
+    "seller_id": "KW-S-0023",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000492",
+    "title": "LightCyan Budget Furniture",
+    "category": "Furniture",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0031",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000493",
+    "title": "SeaGreen Last Furniture",
+    "category": "Furniture",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0022",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000494",
+    "title": "FloralWhite Under Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0082",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000495",
+    "title": "SlateBlue Son Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0067",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000496",
+    "title": "LightSteelBlue Down Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0061",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000497",
+    "title": "Turquoise Board Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0115",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000498",
+    "title": "DarkCyan Sign Apparel",
+    "category": "Apparel",
+    "price_inr": 299,
+    "seller_id": "KW-S-0098",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000499",
+    "title": "MistyRose Effort Electronic",
+    "category": "Electronics",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0017",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000500",
+    "title": "Snow Think Grocerie",
+    "category": "Groceries",
+    "price_inr": 299,
+    "seller_id": "KW-S-0081",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000501",
+    "title": "Plum Know Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 299,
+    "seller_id": "KW-S-0077",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000502",
+    "title": "Chartreuse Pull Furniture",
+    "category": "Furniture",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0062",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000503",
+    "title": "DarkKhaki Treatment Apparel",
+    "category": "Apparel",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0049",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000504",
+    "title": "LightSeaGreen Thousand Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0034",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000505",
+    "title": "LightSalmon West Beauty",
+    "category": "Beauty",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0101",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000506",
+    "title": "LightCoral Push Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0119",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000507",
+    "title": "Teal Get Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0019",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000508",
+    "title": "PeachPuff Reflect Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0024",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000509",
+    "title": "LightCoral Heavy Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 799,
+    "seller_id": "KW-S-0034",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000510",
+    "title": "DarkBlue Add Grocerie",
+    "category": "Groceries",
+    "price_inr": 299,
+    "seller_id": "KW-S-0113",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000511",
+    "title": "DarkGreen Sell Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0118",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000512",
+    "title": "SlateBlue Eight Beauty",
+    "category": "Beauty",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0079",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000513",
+    "title": "Snow Do Furniture",
+    "category": "Furniture",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0021",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000514",
+    "title": "PowderBlue Reduce Beauty",
+    "category": "Beauty",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0079",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000515",
+    "title": "LightGreen Body Furniture",
+    "category": "Furniture",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0103",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000516",
+    "title": "SlateBlue Option Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0102",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000517",
+    "title": "OldLace Policy Apparel",
+    "category": "Apparel",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0060",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000518",
+    "title": "Tomato Truth Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0002",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000519",
+    "title": "Olive And Apparel",
+    "category": "Apparel",
+    "price_inr": 299,
+    "seller_id": "KW-S-0074",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000520",
+    "title": "DarkMagenta Performance Grocerie",
+    "category": "Groceries",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0108",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000521",
+    "title": "DarkGreen Parent Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0019",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000522",
+    "title": "DarkGray Buy Beauty",
+    "category": "Beauty",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0041",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000523",
+    "title": "LawnGreen Herself Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0083",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000524",
+    "title": "PeachPuff Teacher Furniture",
+    "category": "Furniture",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0093",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000525",
+    "title": "OrangeRed Serious Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0047",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000526",
+    "title": "BlueViolet Hand Beauty",
+    "category": "Beauty",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0040",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000527",
+    "title": "Purple Together Grocerie",
+    "category": "Groceries",
+    "price_inr": 299,
+    "seller_id": "KW-S-0036",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000528",
+    "title": "Salmon Painting Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0023",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000529",
+    "title": "Turquoise Always Beauty",
+    "category": "Beauty",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0059",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000530",
+    "title": "PaleGoldenRod Tax Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0032",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000531",
+    "title": "Plum Relationship Beauty",
+    "category": "Beauty",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0044",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000532",
+    "title": "Bisque Direction Electronic",
+    "category": "Electronics",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0030",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000533",
+    "title": "Gainsboro Agent Apparel",
+    "category": "Apparel",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0038",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000534",
+    "title": "MediumPurple Bit Electronic",
+    "category": "Electronics",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0025",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000535",
+    "title": "LightSteelBlue Wife Apparel",
+    "category": "Apparel",
+    "price_inr": 299,
+    "seller_id": "KW-S-0031",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000536",
+    "title": "PaleVioletRed Suffer Toy",
+    "category": "Toys",
+    "price_inr": 799,
+    "seller_id": "KW-S-0052",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000537",
+    "title": "Black Shoulder Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0013",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000538",
+    "title": "SaddleBrown Time Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0046",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000539",
+    "title": "LightCoral Her Electronic",
+    "category": "Electronics",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0082",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000540",
+    "title": "MediumTurquoise He Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0020",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000541",
+    "title": "LightBlue Factor Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0040",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000542",
+    "title": "RosyBrown Step Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0105",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000543",
+    "title": "BurlyWood Garden Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0030",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000544",
+    "title": "Salmon Say Furniture",
+    "category": "Furniture",
+    "price_inr": 799,
+    "seller_id": "KW-S-0076",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000545",
+    "title": "LightGray Specific Toy",
+    "category": "Toys",
+    "price_inr": 299,
+    "seller_id": "KW-S-0045",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000546",
+    "title": "DodgerBlue Determine Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0120",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000547",
+    "title": "MediumBlue Sit Furniture",
+    "category": "Furniture",
+    "price_inr": 799,
+    "seller_id": "KW-S-0043",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000548",
+    "title": "PaleGoldenRod Some Toy",
+    "category": "Toys",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0016",
+    "in_stock": false,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000549",
+    "title": "MediumVioletRed Statement Grocerie",
+    "category": "Groceries",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0023",
+    "in_stock": false,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000550",
+    "title": "ForestGreen Three Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0032",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000551",
+    "title": "SpringGreen Tough Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0018",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000552",
+    "title": "DarkCyan Goal Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0031",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000553",
+    "title": "MidnightBlue Practice Electronic",
+    "category": "Electronics",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0056",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000554",
+    "title": "WhiteSmoke Sister Electronic",
+    "category": "Electronics",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0020",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000555",
+    "title": "Khaki Free Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0086",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000556",
+    "title": "Linen Blood Furniture",
+    "category": "Furniture",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0113",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000557",
+    "title": "DarkGoldenRod Purpose Beauty",
+    "category": "Beauty",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0004",
+    "in_stock": false,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000558",
+    "title": "PaleGreen Form Electronic",
+    "category": "Electronics",
+    "price_inr": 299,
+    "seller_id": "KW-S-0014",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000559",
+    "title": "SpringGreen Purpose Grocerie",
+    "category": "Groceries",
+    "price_inr": 799,
+    "seller_id": "KW-S-0109",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000560",
+    "title": "GhostWhite Something Apparel",
+    "category": "Apparel",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0107",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000561",
+    "title": "Olive Degree Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0005",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000562",
+    "title": "LightGray Total Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0032",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000563",
+    "title": "SlateBlue Have Grocerie",
+    "category": "Groceries",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0091",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000564",
+    "title": "MediumSlateBlue Sure Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0120",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000565",
+    "title": "Purple War Electronic",
+    "category": "Electronics",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0081",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000566",
+    "title": "MistyRose Somebody Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0052",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000567",
+    "title": "DimGray Concern Apparel",
+    "category": "Apparel",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0062",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000568",
+    "title": "MediumBlue Admit Electronic",
+    "category": "Electronics",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0020",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000569",
+    "title": "DarkOliveGreen Customer Electronic",
+    "category": "Electronics",
+    "price_inr": 799,
+    "seller_id": "KW-S-0087",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000570",
+    "title": "Magenta When Furniture",
+    "category": "Furniture",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0081",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000571",
+    "title": "Tan School Toy",
+    "category": "Toys",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0037",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000572",
+    "title": "LightYellow Something Beauty",
+    "category": "Beauty",
+    "price_inr": 299,
+    "seller_id": "KW-S-0069",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000573",
+    "title": "WhiteSmoke Could Furniture",
+    "category": "Furniture",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0014",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000574",
+    "title": "Orchid Present Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0053",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000575",
+    "title": "Crimson Decide Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0062",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000576",
+    "title": "DarkGoldenRod Believe Grocerie",
+    "category": "Groceries",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0068",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000577",
+    "title": "PaleGreen Together Furniture",
+    "category": "Furniture",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0009",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000578",
+    "title": "LightGray Child Furniture",
+    "category": "Furniture",
+    "price_inr": 799,
+    "seller_id": "KW-S-0011",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000579",
+    "title": "MediumSpringGreen No Grocerie",
+    "category": "Groceries",
+    "price_inr": 299,
+    "seller_id": "KW-S-0045",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000580",
+    "title": "MidnightBlue Industry Grocerie",
+    "category": "Groceries",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0039",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000581",
+    "title": "DarkSlateBlue Will Electronic",
+    "category": "Electronics",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0027",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000582",
+    "title": "OliveDrab Body Electronic",
+    "category": "Electronics",
+    "price_inr": 299,
+    "seller_id": "KW-S-0018",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000583",
+    "title": "LightYellow Positive Grocerie",
+    "category": "Groceries",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0098",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000584",
+    "title": "DarkBlue Game Furniture",
+    "category": "Furniture",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0062",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000585",
+    "title": "Ivory Level Beauty",
+    "category": "Beauty",
+    "price_inr": 799,
+    "seller_id": "KW-S-0049",
+    "in_stock": true,
+    "warranty_months": 24
+  },
+  {
+    "sku": "KW-SKU-000586",
+    "title": "BlueViolet Else Furniture",
+    "category": "Furniture",
+    "price_inr": 799,
+    "seller_id": "KW-S-0076",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000587",
+    "title": "DeepSkyBlue Region Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0037",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000588",
+    "title": "LightSalmon Agree Electronic",
+    "category": "Electronics",
+    "price_inr": 799,
+    "seller_id": "KW-S-0019",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000589",
+    "title": "Snow Door Apparel",
+    "category": "Apparel",
+    "price_inr": 12999,
+    "seller_id": "KW-S-0105",
+    "in_stock": true,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000590",
+    "title": "Indigo Else Electronic",
+    "category": "Electronics",
+    "price_inr": 299,
+    "seller_id": "KW-S-0044",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000591",
+    "title": "Ivory Less Electronic",
+    "category": "Electronics",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0073",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000592",
+    "title": "IndianRed Check Furniture",
+    "category": "Furniture",
+    "price_inr": 2999,
+    "seller_id": "KW-S-0067",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000593",
+    "title": "Aquamarine Fine Sports & Outdoor",
+    "category": "Sports & Outdoors",
+    "price_inr": 24999,
+    "seller_id": "KW-S-0013",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000594",
+    "title": "LemonChiffon Against Beauty",
+    "category": "Beauty",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0032",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000595",
+    "title": "SkyBlue This Electronic",
+    "category": "Electronics",
+    "price_inr": 299,
+    "seller_id": "KW-S-0075",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000596",
+    "title": "Purple Join Toy",
+    "category": "Toys",
+    "price_inr": 1499,
+    "seller_id": "KW-S-0079",
+    "in_stock": true,
+    "warranty_months": 0
+  },
+  {
+    "sku": "KW-SKU-000597",
+    "title": "GoldenRod Itself Electronic",
+    "category": "Electronics",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0089",
+    "in_stock": false,
+    "warranty_months": 6
+  },
+  {
+    "sku": "KW-SKU-000598",
+    "title": "GhostWhite Thus Home & Kitchen",
+    "category": "Home & Kitchen",
+    "price_inr": 54999,
+    "seller_id": "KW-S-0073",
+    "in_stock": true,
+    "warranty_months": 12
+  },
+  {
+    "sku": "KW-SKU-000599",
+    "title": "Tomato Partner Toy",
+    "category": "Toys",
+    "price_inr": 6499,
+    "seller_id": "KW-S-0053",
+    "in_stock": true,
+    "warranty_months": 0
+  }
+]

@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kartway Support</title>
+<style>
+  :root { --paper:#F7F2E8; --panel:#FFFFFF; --ink:#2A2925; --muted:#6D685D; --line:#DED6C6; --sand:#EFE8DA;
+          --green:#2F6A4F; --forest:#1F3A2E; --amber:#B5541C; --amber-bg:#FBEBDD; --red:#A33A2A; --red-bg:#F8E1DC; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--paper); color:var(--ink); font:15px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif;
+         height:100vh; display:flex; flex-direction:column; }
+  header { background:var(--forest); color:#F7F2E8; padding:14px 22px; display:flex; align-items:center; gap:14px; }
+  header h1 { font-size:18px; margin:0; font-weight:650; letter-spacing:.2px; }
+  header .who { margin-left:auto; background:rgba(255,255,255,.12); padding:5px 12px; border-radius:999px; font-size:13px; }
+  header small { opacity:.7; font-size:12px; }
+  main { flex:1; overflow-y:auto; padding:22px; display:flex; flex-direction:column; gap:12px; }
+  .msg { max-width:72%; padding:11px 14px; border-radius:14px; white-space:pre-wrap; word-wrap:break-word; }
+  .me { align-self:flex-end; background:var(--forest); color:#F7F2E8; border-bottom-right-radius:4px; }
+  .bot { align-self:flex-start; background:var(--panel); border:1px solid var(--line); border-bottom-left-radius:4px; }
+  .note { align-self:center; color:var(--muted); font-size:13px; }
+  .meta { margin-top:8px; display:flex; flex-wrap:wrap; gap:6px; align-items:center; font-size:12px; color:var(--muted); white-space:normal; }
+  .pill { padding:2px 9px; border-radius:999px; font-weight:600; font-size:12px; }
+  .ok { background:#E2EEE6; color:var(--green); } .held { background:var(--amber-bg); color:var(--amber); }
+  .bad { background:var(--red-bg); color:var(--red); }
+  .update { border-left:4px solid var(--green); } .update.rej { border-left-color:var(--red); }
+  .typing { align-self:flex-start; color:var(--muted); font-size:13px; font-style:italic; }
+  footer { border-top:1px solid var(--line); background:var(--panel); padding:12px 16px; }
+  .chips { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:8px; }
+  .chip { border:1px solid var(--line); background:var(--sand); color:var(--ink); padding:4px 10px; border-radius:999px;
+          font-size:12px; cursor:pointer; }
+  .row { display:flex; gap:10px; }
+  textarea { flex:1; resize:none; height:52px; padding:10px 12px; border:1px solid var(--line); border-radius:10px;
+             font:inherit; background:var(--paper); color:var(--ink); }
+  button.send { background:var(--forest); color:#F7F2E8; border:0; border-radius:10px; padding:0 22px; font-weight:600; cursor:pointer; }
+  button.send:disabled { opacity:.5; cursor:default; }
+  .pick { margin:auto; background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:26px; max-width:420px; }
+  .pick a { display:block; margin:8px 0; color:var(--forest); font-weight:600; }
+  @media (max-width:600px) { .msg { max-width:90%; } main { padding:14px; } }
+</style>
+</head>
+<body>
+<header><h1>Kartway Support</h1><small>answered by ShopSense</small><span class="who" id="who"></span>
+<button id="out" style="background:transparent;border:1px solid rgba(255,255,255,.35);color:#F7F2E8;border-radius:8px;padding:4px 10px;cursor:pointer;font-size:12px">Sign out</button></header>
+<main id="log"></main>
+<footer id="composer">
+  <div class="row">
+    <textarea id="text" placeholder="Type your message… (Enter to send, Shift+Enter for a new line)"></textarea>
+    <button class="send" id="send">Send</button>
+  </div>
+</footer>
+<script>
+// who is chatting comes from the sign-in page (/ui): a signed-in customer or a guest
+const who = JSON.parse(sessionStorage.getItem("shopsense-customer") || "null");
+if (!who) location.replace("/ui");
+const ref = (who && who.ref) || "", token = (who && who.token) || "";
+const log = document.getElementById("log"), text = document.getElementById("text"), sendBtn = document.getElementById("send");
+const watched = {};   // ticket id -> true while held
+document.getElementById("who").textContent = ref ? `Signed in as ${ref}` : "Guest";
+document.title = `Kartway Support · ${ref || "Guest"}`;
+document.getElementById("out").onclick = () => { sessionStorage.removeItem("shopsense-customer"); location.href = "/ui"; };
+const authHeaders = token ? {"X-Customer-Token": token} : {};
+add("note", "Hi! Ask about an order, a refund or our policies.");
+
+const sessionKey = `shopsense-session-${ref || "guest"}`;
+let session = sessionStorage.getItem(sessionKey);
+if (!session) { session = crypto.randomUUID().replace(/-/g, "").slice(0, 16); sessionStorage.setItem(sessionKey, session); }
+
+function add(kind, body, meta) {
+  const d = document.createElement("div"); d.className = kind.startsWith("note") ? "note" : `msg ${kind}`;
+  d.textContent = body;
+  if (meta) { const m = document.createElement("div"); m.className = "meta"; m.innerHTML = meta; d.appendChild(m); }
+  log.appendChild(d); log.scrollTop = log.scrollHeight; return d;
+}
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+async function send() {
+  const message = text.value.trim();
+  if (!message) return;
+  add("me", message); text.value = ""; sendBtn.disabled = true;
+  const typing = document.createElement("div"); typing.className = "typing";
+  typing.textContent = "ShopSense is checking your order and our policies… (this can take up to 2 minutes)";
+  log.appendChild(typing); log.scrollTop = log.scrollHeight;
+  const t0 = Date.now();
+  try {
+    const r = await fetch("/chat", {method: "POST", headers: {"Content-Type": "application/json", ...authHeaders},
+                                    body: JSON.stringify({message, session_id: session})});
+    if (r.status === 401) { sessionStorage.removeItem("shopsense-customer"); return location.replace("/ui"); }
+    const data = await r.json().catch(() => ({}));
+    const secs = Math.round((Date.now() - t0) / 1000);
+    if (r.status === 200 || r.status === 202) {
+      const pill = r.status === 200 ? `<span class="pill ok">Resolved</span>` : `<span class="pill held">With our support team</span>`;
+      const src = (data.policy_sources || []).length ? ` · policy: ${esc(data.policy_sources.join(", "))}` : "";
+      add("bot", data.reply, `${pill} <span>HTTP ${r.status} · ${secs}s · ticket ${esc(data.ticket_id)}${src}</span>`);
+      if (r.status === 202) watched[data.ticket_id] = true;
+    } else if (r.status === 503) {
+      add("note", `Our assistant is busy right now. Please try again in ${r.headers.get("Retry-After") || 60} seconds.`);
+    } else if (r.status === 422 && data.detail && data.detail.flags) {
+      add("bot", "Sorry, we couldn't send an answer that met our quality checks. A member of our team will reply instead.",
+          `<span class="pill bad">Blocked by guardrails</span> <span>${esc(data.detail.flags.join("; "))}</span>`);
+    } else {
+      add("note", `Something went wrong (HTTP ${r.status}): ${esc(JSON.stringify(data.detail || data))}`);
+    }
+  } catch (e) {
+    add("note", "Could not reach the server.");
+  } finally { typing.remove(); sendBtn.disabled = false; text.focus(); }
+}
+
+async function poll() {           // a held request's outcome appears here once staff decide it
+  for (const id of Object.keys(watched)) {
+    try {
+      const r = await fetch(`/tickets/${id}/status`, {headers: authHeaders}); if (!r.ok) continue;
+      const s = await r.json();
+      if (s.status && s.status !== "awaiting_human") {
+        delete watched[id];
+        const ok = s.status === "resolved";
+        const d = add("bot", s.reply, `<span class="pill ${ok ? "ok" : "bad"}">${ok ? "Update: approved" : "Update: " + esc(s.status)}</span>
+                       <span>ticket ${esc(id)}</span>`);
+        d.classList.add("update"); if (!ok) d.classList.add("rej");
+      }
+    } catch (e) {}
+  }
+}
+setInterval(poll, 4000);
+sendBtn.onclick = send;
+text.addEventListener("keydown", e => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); send(); } });
+</script>
+</body>
+</html>

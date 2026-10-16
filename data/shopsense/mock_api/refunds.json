@@ -1,0 +1,2882 @@
+[
+  {
+    "refund_id": "KW-RF-00000",
+    "order_ref": "KW-O-001261",
+    "amount_inr": 1499,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-03-26"
+  },
+  {
+    "refund_id": "KW-RF-00001",
+    "order_ref": "KW-O-000288",
+    "amount_inr": 24999,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "agent",
+    "requested_on": "2025-12-18"
+  },
+  {
+    "refund_id": "KW-RF-00002",
+    "order_ref": "KW-O-000743",
+    "amount_inr": 24999,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-06-25"
+  },
+  {
+    "refund_id": "KW-RF-00003",
+    "order_ref": "KW-O-000304",
+    "amount_inr": 6499,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-04-12"
+  },
+  {
+    "refund_id": "KW-RF-00004",
+    "order_ref": "KW-O-000441",
+    "amount_inr": 12999,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-07-12"
+  },
+  {
+    "refund_id": "KW-RF-00005",
+    "order_ref": "KW-O-000890",
+    "amount_inr": 299,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-12-04"
+  },
+  {
+    "refund_id": "KW-RF-00006",
+    "order_ref": "KW-O-001136",
+    "amount_inr": 2999,
+    "reason_code": "not_delivered",
+    "status": "approved",
+    "approved_by": "agent",
+    "requested_on": "2026-03-17"
+  },
+  {
+    "refund_id": "KW-RF-00007",
+    "order_ref": "KW-O-000838",
+    "amount_inr": 299,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-04-18"
+  },
+  {
+    "refund_id": "KW-RF-00008",
+    "order_ref": "KW-O-000116",
+    "amount_inr": 24999,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2025-11-24"
+  },
+  {
+    "refund_id": "KW-RF-00009",
+    "order_ref": "KW-O-000132",
+    "amount_inr": 2999,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-04-11"
+  },
+  {
+    "refund_id": "KW-RF-00010",
+    "order_ref": "KW-O-000086",
+    "amount_inr": 799,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-03-28"
+  },
+  {
+    "refund_id": "KW-RF-00011",
+    "order_ref": "KW-O-001397",
+    "amount_inr": 12999,
+    "reason_code": "late_delivery",
+    "status": "requested",
+    "approved_by": "team_lead",
+    "requested_on": "2026-06-27"
+  },
+  {
+    "refund_id": "KW-RF-00012",
+    "order_ref": "KW-O-000539",
+    "amount_inr": 6499,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-03-28"
+  },
+  {
+    "refund_id": "KW-RF-00013",
+    "order_ref": "KW-O-000247",
+    "amount_inr": 2999,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2025-12-10"
+  },
+  {
+    "refund_id": "KW-RF-00014",
+    "order_ref": "KW-O-001056",
+    "amount_inr": 1499,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-03-17"
+  },
+  {
+    "refund_id": "KW-RF-00015",
+    "order_ref": "KW-O-000527",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-01-11"
+  },
+  {
+    "refund_id": "KW-RF-00016",
+    "order_ref": "KW-O-000376",
+    "amount_inr": 6499,
+    "reason_code": "quality",
+    "status": "rejected",
+    "approved_by": "team_lead",
+    "requested_on": "2026-05-13"
+  },
+  {
+    "refund_id": "KW-RF-00017",
+    "order_ref": "KW-O-001106",
+    "amount_inr": 24999,
+    "reason_code": "damaged",
+    "status": "rejected",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-04-13"
+  },
+  {
+    "refund_id": "KW-RF-00018",
+    "order_ref": "KW-O-000379",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-12-17"
+  },
+  {
+    "refund_id": "KW-RF-00019",
+    "order_ref": "KW-O-000935",
+    "amount_inr": 24999,
+    "reason_code": "damaged",
+    "status": "requested",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-11-20"
+  },
+  {
+    "refund_id": "KW-RF-00020",
+    "order_ref": "KW-O-000430",
+    "amount_inr": 24999,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-01-21"
+  },
+  {
+    "refund_id": "KW-RF-00021",
+    "order_ref": "KW-O-000658",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2025-09-20"
+  },
+  {
+    "refund_id": "KW-RF-00022",
+    "order_ref": "KW-O-000676",
+    "amount_inr": 1499,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-02-11"
+  },
+  {
+    "refund_id": "KW-RF-00023",
+    "order_ref": "KW-O-000050",
+    "amount_inr": 12999,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-06-15"
+  },
+  {
+    "refund_id": "KW-RF-00024",
+    "order_ref": "KW-O-001228",
+    "amount_inr": 12999,
+    "reason_code": "damaged",
+    "status": "requested",
+    "approved_by": "team_lead",
+    "requested_on": "2026-04-28"
+  },
+  {
+    "refund_id": "KW-RF-00025",
+    "order_ref": "KW-O-001337",
+    "amount_inr": 6499,
+    "reason_code": "damaged",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2025-12-27"
+  },
+  {
+    "refund_id": "KW-RF-00026",
+    "order_ref": "KW-O-000312",
+    "amount_inr": 1499,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2026-04-09"
+  },
+  {
+    "refund_id": "KW-RF-00027",
+    "order_ref": "KW-O-001399",
+    "amount_inr": 1499,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-09-22"
+  },
+  {
+    "refund_id": "KW-RF-00028",
+    "order_ref": "KW-O-000706",
+    "amount_inr": 299,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-07-15"
+  },
+  {
+    "refund_id": "KW-RF-00029",
+    "order_ref": "KW-O-001332",
+    "amount_inr": 2999,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2026-05-31"
+  },
+  {
+    "refund_id": "KW-RF-00030",
+    "order_ref": "KW-O-000870",
+    "amount_inr": 299,
+    "reason_code": "quality",
+    "status": "rejected",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-04-25"
+  },
+  {
+    "refund_id": "KW-RF-00031",
+    "order_ref": "KW-O-000992",
+    "amount_inr": 799,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-11-21"
+  },
+  {
+    "refund_id": "KW-RF-00032",
+    "order_ref": "KW-O-000938",
+    "amount_inr": 2999,
+    "reason_code": "wrong_item",
+    "status": "rejected",
+    "approved_by": "auto",
+    "requested_on": "2026-04-24"
+  },
+  {
+    "refund_id": "KW-RF-00033",
+    "order_ref": "KW-O-001088",
+    "amount_inr": 799,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-03-23"
+  },
+  {
+    "refund_id": "KW-RF-00034",
+    "order_ref": "KW-O-000060",
+    "amount_inr": 6499,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-08-15"
+  },
+  {
+    "refund_id": "KW-RF-00035",
+    "order_ref": "KW-O-001466",
+    "amount_inr": 12999,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-11-28"
+  },
+  {
+    "refund_id": "KW-RF-00036",
+    "order_ref": "KW-O-001285",
+    "amount_inr": 24999,
+    "reason_code": "late_delivery",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2026-06-15"
+  },
+  {
+    "refund_id": "KW-RF-00037",
+    "order_ref": "KW-O-000540",
+    "amount_inr": 24999,
+    "reason_code": "wrong_item",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2025-10-01"
+  },
+  {
+    "refund_id": "KW-RF-00038",
+    "order_ref": "KW-O-000398",
+    "amount_inr": 299,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-02-02"
+  },
+  {
+    "refund_id": "KW-RF-00039",
+    "order_ref": "KW-O-000705",
+    "amount_inr": 2999,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-03-05"
+  },
+  {
+    "refund_id": "KW-RF-00040",
+    "order_ref": "KW-O-001336",
+    "amount_inr": 24999,
+    "reason_code": "wrong_item",
+    "status": "rejected",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-12-26"
+  },
+  {
+    "refund_id": "KW-RF-00041",
+    "order_ref": "KW-O-000704",
+    "amount_inr": 2999,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-09-24"
+  },
+  {
+    "refund_id": "KW-RF-00042",
+    "order_ref": "KW-O-000679",
+    "amount_inr": 6499,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-07-07"
+  },
+  {
+    "refund_id": "KW-RF-00043",
+    "order_ref": "KW-O-001107",
+    "amount_inr": 1499,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-05-24"
+  },
+  {
+    "refund_id": "KW-RF-00044",
+    "order_ref": "KW-O-000787",
+    "amount_inr": 1499,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-04-13"
+  },
+  {
+    "refund_id": "KW-RF-00045",
+    "order_ref": "KW-O-000820",
+    "amount_inr": 1499,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2025-08-18"
+  },
+  {
+    "refund_id": "KW-RF-00046",
+    "order_ref": "KW-O-000105",
+    "amount_inr": 299,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2026-01-05"
+  },
+  {
+    "refund_id": "KW-RF-00047",
+    "order_ref": "KW-O-001312",
+    "amount_inr": 1499,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2025-11-20"
+  },
+  {
+    "refund_id": "KW-RF-00048",
+    "order_ref": "KW-O-000910",
+    "amount_inr": 6499,
+    "reason_code": "quality",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2025-11-12"
+  },
+  {
+    "refund_id": "KW-RF-00049",
+    "order_ref": "KW-O-001301",
+    "amount_inr": 12999,
+    "reason_code": "quality",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-08-03"
+  },
+  {
+    "refund_id": "KW-RF-00050",
+    "order_ref": "KW-O-000587",
+    "amount_inr": 24999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-12-23"
+  },
+  {
+    "refund_id": "KW-RF-00051",
+    "order_ref": "KW-O-000072",
+    "amount_inr": 1499,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-05-25"
+  },
+  {
+    "refund_id": "KW-RF-00052",
+    "order_ref": "KW-O-000401",
+    "amount_inr": 2999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-04-10"
+  },
+  {
+    "refund_id": "KW-RF-00053",
+    "order_ref": "KW-O-000216",
+    "amount_inr": 24999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-01-01"
+  },
+  {
+    "refund_id": "KW-RF-00054",
+    "order_ref": "KW-O-001327",
+    "amount_inr": 299,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-06-29"
+  },
+  {
+    "refund_id": "KW-RF-00055",
+    "order_ref": "KW-O-000745",
+    "amount_inr": 12999,
+    "reason_code": "quality",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2025-11-17"
+  },
+  {
+    "refund_id": "KW-RF-00056",
+    "order_ref": "KW-O-000334",
+    "amount_inr": 799,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-04-16"
+  },
+  {
+    "refund_id": "KW-RF-00057",
+    "order_ref": "KW-O-000391",
+    "amount_inr": 799,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-03-28"
+  },
+  {
+    "refund_id": "KW-RF-00058",
+    "order_ref": "KW-O-001367",
+    "amount_inr": 6499,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-05-07"
+  },
+  {
+    "refund_id": "KW-RF-00059",
+    "order_ref": "KW-O-000178",
+    "amount_inr": 299,
+    "reason_code": "quality",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2026-05-05"
+  },
+  {
+    "refund_id": "KW-RF-00060",
+    "order_ref": "KW-O-001420",
+    "amount_inr": 2999,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-11-23"
+  },
+  {
+    "refund_id": "KW-RF-00061",
+    "order_ref": "KW-O-000396",
+    "amount_inr": 2999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-03-31"
+  },
+  {
+    "refund_id": "KW-RF-00062",
+    "order_ref": "KW-O-000005",
+    "amount_inr": 24999,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2025-09-30"
+  },
+  {
+    "refund_id": "KW-RF-00063",
+    "order_ref": "KW-O-000898",
+    "amount_inr": 299,
+    "reason_code": "not_delivered",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-03-12"
+  },
+  {
+    "refund_id": "KW-RF-00064",
+    "order_ref": "KW-O-000555",
+    "amount_inr": 2999,
+    "reason_code": "not_delivered",
+    "status": "rejected",
+    "approved_by": "agent",
+    "requested_on": "2026-04-05"
+  },
+  {
+    "refund_id": "KW-RF-00065",
+    "order_ref": "KW-O-000626",
+    "amount_inr": 24999,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2026-02-24"
+  },
+  {
+    "refund_id": "KW-RF-00066",
+    "order_ref": "KW-O-001192",
+    "amount_inr": 799,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-12-31"
+  },
+  {
+    "refund_id": "KW-RF-00067",
+    "order_ref": "KW-O-001294",
+    "amount_inr": 12999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-04-16"
+  },
+  {
+    "refund_id": "KW-RF-00068",
+    "order_ref": "KW-O-000984",
+    "amount_inr": 24999,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2026-02-20"
+  },
+  {
+    "refund_id": "KW-RF-00069",
+    "order_ref": "KW-O-001380",
+    "amount_inr": 299,
+    "reason_code": "quality",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-06-03"
+  },
+  {
+    "refund_id": "KW-RF-00070",
+    "order_ref": "KW-O-001266",
+    "amount_inr": 2999,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-07-18"
+  },
+  {
+    "refund_id": "KW-RF-00071",
+    "order_ref": "KW-O-001421",
+    "amount_inr": 2999,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-07-01"
+  },
+  {
+    "refund_id": "KW-RF-00072",
+    "order_ref": "KW-O-000657",
+    "amount_inr": 799,
+    "reason_code": "late_delivery",
+    "status": "requested",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-08-09"
+  },
+  {
+    "refund_id": "KW-RF-00073",
+    "order_ref": "KW-O-000758",
+    "amount_inr": 1499,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-08-25"
+  },
+  {
+    "refund_id": "KW-RF-00074",
+    "order_ref": "KW-O-000286",
+    "amount_inr": 12999,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-07-27"
+  },
+  {
+    "refund_id": "KW-RF-00075",
+    "order_ref": "KW-O-000688",
+    "amount_inr": 6499,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-01-12"
+  },
+  {
+    "refund_id": "KW-RF-00076",
+    "order_ref": "KW-O-001173",
+    "amount_inr": 1499,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-04-07"
+  },
+  {
+    "refund_id": "KW-RF-00077",
+    "order_ref": "KW-O-000349",
+    "amount_inr": 2999,
+    "reason_code": "quality",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2026-02-10"
+  },
+  {
+    "refund_id": "KW-RF-00078",
+    "order_ref": "KW-O-001061",
+    "amount_inr": 799,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-05-31"
+  },
+  {
+    "refund_id": "KW-RF-00079",
+    "order_ref": "KW-O-001065",
+    "amount_inr": 12999,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2026-07-24"
+  },
+  {
+    "refund_id": "KW-RF-00080",
+    "order_ref": "KW-O-000628",
+    "amount_inr": 299,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-12-06"
+  },
+  {
+    "refund_id": "KW-RF-00081",
+    "order_ref": "KW-O-001193",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2026-04-27"
+  },
+  {
+    "refund_id": "KW-RF-00082",
+    "order_ref": "KW-O-001057",
+    "amount_inr": 299,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2025-12-03"
+  },
+  {
+    "refund_id": "KW-RF-00083",
+    "order_ref": "KW-O-001023",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-06-12"
+  },
+  {
+    "refund_id": "KW-RF-00084",
+    "order_ref": "KW-O-001432",
+    "amount_inr": 2999,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-09-10"
+  },
+  {
+    "refund_id": "KW-RF-00085",
+    "order_ref": "KW-O-000579",
+    "amount_inr": 6499,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-10-18"
+  },
+  {
+    "refund_id": "KW-RF-00086",
+    "order_ref": "KW-O-000274",
+    "amount_inr": 2999,
+    "reason_code": "late_delivery",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2025-09-09"
+  },
+  {
+    "refund_id": "KW-RF-00087",
+    "order_ref": "KW-O-000951",
+    "amount_inr": 1499,
+    "reason_code": "late_delivery",
+    "status": "rejected",
+    "approved_by": "auto",
+    "requested_on": "2025-09-20"
+  },
+  {
+    "refund_id": "KW-RF-00088",
+    "order_ref": "KW-O-001074",
+    "amount_inr": 12999,
+    "reason_code": "damaged",
+    "status": "requested",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-08-02"
+  },
+  {
+    "refund_id": "KW-RF-00089",
+    "order_ref": "KW-O-001292",
+    "amount_inr": 24999,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2025-11-15"
+  },
+  {
+    "refund_id": "KW-RF-00090",
+    "order_ref": "KW-O-000425",
+    "amount_inr": 799,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-10-10"
+  },
+  {
+    "refund_id": "KW-RF-00091",
+    "order_ref": "KW-O-001330",
+    "amount_inr": 12999,
+    "reason_code": "changed_mind",
+    "status": "rejected",
+    "approved_by": "agent",
+    "requested_on": "2025-11-04"
+  },
+  {
+    "refund_id": "KW-RF-00092",
+    "order_ref": "KW-O-001483",
+    "amount_inr": 1499,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-04-06"
+  },
+  {
+    "refund_id": "KW-RF-00093",
+    "order_ref": "KW-O-000367",
+    "amount_inr": 6499,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-08-16"
+  },
+  {
+    "refund_id": "KW-RF-00094",
+    "order_ref": "KW-O-000350",
+    "amount_inr": 1499,
+    "reason_code": "wrong_item",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2025-11-13"
+  },
+  {
+    "refund_id": "KW-RF-00095",
+    "order_ref": "KW-O-001388",
+    "amount_inr": 12999,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2026-06-29"
+  },
+  {
+    "refund_id": "KW-RF-00096",
+    "order_ref": "KW-O-000195",
+    "amount_inr": 2999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-07-25"
+  },
+  {
+    "refund_id": "KW-RF-00097",
+    "order_ref": "KW-O-001039",
+    "amount_inr": 1499,
+    "reason_code": "damaged",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2026-02-25"
+  },
+  {
+    "refund_id": "KW-RF-00098",
+    "order_ref": "KW-O-000744",
+    "amount_inr": 799,
+    "reason_code": "changed_mind",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2026-06-16"
+  },
+  {
+    "refund_id": "KW-RF-00099",
+    "order_ref": "KW-O-001479",
+    "amount_inr": 799,
+    "reason_code": "not_delivered",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-09-30"
+  },
+  {
+    "refund_id": "KW-RF-00100",
+    "order_ref": "KW-O-000345",
+    "amount_inr": 1499,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-06-09"
+  },
+  {
+    "refund_id": "KW-RF-00101",
+    "order_ref": "KW-O-000485",
+    "amount_inr": 299,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-10-28"
+  },
+  {
+    "refund_id": "KW-RF-00102",
+    "order_ref": "KW-O-001255",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2026-07-21"
+  },
+  {
+    "refund_id": "KW-RF-00103",
+    "order_ref": "KW-O-001237",
+    "amount_inr": 799,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "agent",
+    "requested_on": "2025-10-16"
+  },
+  {
+    "refund_id": "KW-RF-00104",
+    "order_ref": "KW-O-000548",
+    "amount_inr": 299,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-01-11"
+  },
+  {
+    "refund_id": "KW-RF-00105",
+    "order_ref": "KW-O-001151",
+    "amount_inr": 24999,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2025-12-21"
+  },
+  {
+    "refund_id": "KW-RF-00106",
+    "order_ref": "KW-O-000732",
+    "amount_inr": 2999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-03-04"
+  },
+  {
+    "refund_id": "KW-RF-00107",
+    "order_ref": "KW-O-000129",
+    "amount_inr": 6499,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-03-27"
+  },
+  {
+    "refund_id": "KW-RF-00108",
+    "order_ref": "KW-O-001154",
+    "amount_inr": 24999,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-03-14"
+  },
+  {
+    "refund_id": "KW-RF-00109",
+    "order_ref": "KW-O-001147",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-02-07"
+  },
+  {
+    "refund_id": "KW-RF-00110",
+    "order_ref": "KW-O-001457",
+    "amount_inr": 799,
+    "reason_code": "wrong_item",
+    "status": "rejected",
+    "approved_by": "auto",
+    "requested_on": "2026-01-27"
+  },
+  {
+    "refund_id": "KW-RF-00111",
+    "order_ref": "KW-O-001277",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-08-01"
+  },
+  {
+    "refund_id": "KW-RF-00112",
+    "order_ref": "KW-O-001183",
+    "amount_inr": 12999,
+    "reason_code": "not_delivered",
+    "status": "requested",
+    "approved_by": "team_lead",
+    "requested_on": "2026-01-25"
+  },
+  {
+    "refund_id": "KW-RF-00113",
+    "order_ref": "KW-O-000758",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-08-07"
+  },
+  {
+    "refund_id": "KW-RF-00114",
+    "order_ref": "KW-O-000682",
+    "amount_inr": 2999,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-05-31"
+  },
+  {
+    "refund_id": "KW-RF-00115",
+    "order_ref": "KW-O-000661",
+    "amount_inr": 6499,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-04-09"
+  },
+  {
+    "refund_id": "KW-RF-00116",
+    "order_ref": "KW-O-000814",
+    "amount_inr": 1499,
+    "reason_code": "quality",
+    "status": "rejected",
+    "approved_by": "finance",
+    "requested_on": "2026-02-10"
+  },
+  {
+    "refund_id": "KW-RF-00117",
+    "order_ref": "KW-O-001457",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "agent",
+    "requested_on": "2025-11-21"
+  },
+  {
+    "refund_id": "KW-RF-00118",
+    "order_ref": "KW-O-000372",
+    "amount_inr": 299,
+    "reason_code": "not_delivered",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-01-03"
+  },
+  {
+    "refund_id": "KW-RF-00119",
+    "order_ref": "KW-O-000489",
+    "amount_inr": 12999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-06-18"
+  },
+  {
+    "refund_id": "KW-RF-00120",
+    "order_ref": "KW-O-000879",
+    "amount_inr": 24999,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-05-15"
+  },
+  {
+    "refund_id": "KW-RF-00121",
+    "order_ref": "KW-O-000504",
+    "amount_inr": 2999,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-05-24"
+  },
+  {
+    "refund_id": "KW-RF-00122",
+    "order_ref": "KW-O-001375",
+    "amount_inr": 24999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-06-21"
+  },
+  {
+    "refund_id": "KW-RF-00123",
+    "order_ref": "KW-O-000101",
+    "amount_inr": 24999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-09-22"
+  },
+  {
+    "refund_id": "KW-RF-00124",
+    "order_ref": "KW-O-000295",
+    "amount_inr": 799,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-11-14"
+  },
+  {
+    "refund_id": "KW-RF-00125",
+    "order_ref": "KW-O-000004",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-11-25"
+  },
+  {
+    "refund_id": "KW-RF-00126",
+    "order_ref": "KW-O-000279",
+    "amount_inr": 799,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2025-10-06"
+  },
+  {
+    "refund_id": "KW-RF-00127",
+    "order_ref": "KW-O-000588",
+    "amount_inr": 799,
+    "reason_code": "damaged",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2026-05-28"
+  },
+  {
+    "refund_id": "KW-RF-00128",
+    "order_ref": "KW-O-001438",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2025-09-20"
+  },
+  {
+    "refund_id": "KW-RF-00129",
+    "order_ref": "KW-O-000916",
+    "amount_inr": 6499,
+    "reason_code": "quality",
+    "status": "approved",
+    "approved_by": "agent",
+    "requested_on": "2025-11-12"
+  },
+  {
+    "refund_id": "KW-RF-00130",
+    "order_ref": "KW-O-001356",
+    "amount_inr": 799,
+    "reason_code": "not_delivered",
+    "status": "requested",
+    "approved_by": "finance",
+    "requested_on": "2026-06-22"
+  },
+  {
+    "refund_id": "KW-RF-00131",
+    "order_ref": "KW-O-001000",
+    "amount_inr": 6499,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2025-12-09"
+  },
+  {
+    "refund_id": "KW-RF-00132",
+    "order_ref": "KW-O-000471",
+    "amount_inr": 24999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-09-15"
+  },
+  {
+    "refund_id": "KW-RF-00133",
+    "order_ref": "KW-O-001302",
+    "amount_inr": 2999,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2026-07-14"
+  },
+  {
+    "refund_id": "KW-RF-00134",
+    "order_ref": "KW-O-001426",
+    "amount_inr": 6499,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-06-08"
+  },
+  {
+    "refund_id": "KW-RF-00135",
+    "order_ref": "KW-O-000769",
+    "amount_inr": 1499,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-05-21"
+  },
+  {
+    "refund_id": "KW-RF-00136",
+    "order_ref": "KW-O-001220",
+    "amount_inr": 24999,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-10-24"
+  },
+  {
+    "refund_id": "KW-RF-00137",
+    "order_ref": "KW-O-000769",
+    "amount_inr": 299,
+    "reason_code": "not_delivered",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2025-08-01"
+  },
+  {
+    "refund_id": "KW-RF-00138",
+    "order_ref": "KW-O-001314",
+    "amount_inr": 2999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-11-04"
+  },
+  {
+    "refund_id": "KW-RF-00139",
+    "order_ref": "KW-O-000486",
+    "amount_inr": 2999,
+    "reason_code": "damaged",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2026-07-20"
+  },
+  {
+    "refund_id": "KW-RF-00140",
+    "order_ref": "KW-O-000249",
+    "amount_inr": 12999,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-01-12"
+  },
+  {
+    "refund_id": "KW-RF-00141",
+    "order_ref": "KW-O-000141",
+    "amount_inr": 2999,
+    "reason_code": "late_delivery",
+    "status": "rejected",
+    "approved_by": "agent",
+    "requested_on": "2026-01-15"
+  },
+  {
+    "refund_id": "KW-RF-00142",
+    "order_ref": "KW-O-000383",
+    "amount_inr": 6499,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2026-04-17"
+  },
+  {
+    "refund_id": "KW-RF-00143",
+    "order_ref": "KW-O-001116",
+    "amount_inr": 6499,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-10-16"
+  },
+  {
+    "refund_id": "KW-RF-00144",
+    "order_ref": "KW-O-001113",
+    "amount_inr": 12999,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2025-10-15"
+  },
+  {
+    "refund_id": "KW-RF-00145",
+    "order_ref": "KW-O-001029",
+    "amount_inr": 799,
+    "reason_code": "damaged",
+    "status": "approved",
+    "approved_by": "agent",
+    "requested_on": "2026-03-20"
+  },
+  {
+    "refund_id": "KW-RF-00146",
+    "order_ref": "KW-O-000327",
+    "amount_inr": 799,
+    "reason_code": "wrong_item",
+    "status": "rejected",
+    "approved_by": "finance",
+    "requested_on": "2026-06-29"
+  },
+  {
+    "refund_id": "KW-RF-00147",
+    "order_ref": "KW-O-000456",
+    "amount_inr": 799,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-10-16"
+  },
+  {
+    "refund_id": "KW-RF-00148",
+    "order_ref": "KW-O-001024",
+    "amount_inr": 1499,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2025-12-10"
+  },
+  {
+    "refund_id": "KW-RF-00149",
+    "order_ref": "KW-O-001231",
+    "amount_inr": 299,
+    "reason_code": "changed_mind",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2026-05-27"
+  },
+  {
+    "refund_id": "KW-RF-00150",
+    "order_ref": "KW-O-001189",
+    "amount_inr": 24999,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-07-08"
+  },
+  {
+    "refund_id": "KW-RF-00151",
+    "order_ref": "KW-O-001472",
+    "amount_inr": 12999,
+    "reason_code": "damaged",
+    "status": "rejected",
+    "approved_by": "team_lead",
+    "requested_on": "2025-08-30"
+  },
+  {
+    "refund_id": "KW-RF-00152",
+    "order_ref": "KW-O-000351",
+    "amount_inr": 1499,
+    "reason_code": "not_delivered",
+    "status": "rejected",
+    "approved_by": "agent",
+    "requested_on": "2026-03-18"
+  },
+  {
+    "refund_id": "KW-RF-00153",
+    "order_ref": "KW-O-000317",
+    "amount_inr": 1499,
+    "reason_code": "not_delivered",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-02-20"
+  },
+  {
+    "refund_id": "KW-RF-00154",
+    "order_ref": "KW-O-001362",
+    "amount_inr": 24999,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-05-02"
+  },
+  {
+    "refund_id": "KW-RF-00155",
+    "order_ref": "KW-O-000464",
+    "amount_inr": 24999,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-11-17"
+  },
+  {
+    "refund_id": "KW-RF-00156",
+    "order_ref": "KW-O-000849",
+    "amount_inr": 799,
+    "reason_code": "late_delivery",
+    "status": "rejected",
+    "approved_by": "agent",
+    "requested_on": "2025-10-16"
+  },
+  {
+    "refund_id": "KW-RF-00157",
+    "order_ref": "KW-O-001316",
+    "amount_inr": 2999,
+    "reason_code": "not_delivered",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2026-07-01"
+  },
+  {
+    "refund_id": "KW-RF-00158",
+    "order_ref": "KW-O-000700",
+    "amount_inr": 6499,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2025-10-20"
+  },
+  {
+    "refund_id": "KW-RF-00159",
+    "order_ref": "KW-O-001465",
+    "amount_inr": 6499,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2025-12-21"
+  },
+  {
+    "refund_id": "KW-RF-00160",
+    "order_ref": "KW-O-001278",
+    "amount_inr": 299,
+    "reason_code": "late_delivery",
+    "status": "rejected",
+    "approved_by": "finance",
+    "requested_on": "2025-08-09"
+  },
+  {
+    "refund_id": "KW-RF-00161",
+    "order_ref": "KW-O-000697",
+    "amount_inr": 799,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-12-11"
+  },
+  {
+    "refund_id": "KW-RF-00162",
+    "order_ref": "KW-O-001149",
+    "amount_inr": 2999,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-02-14"
+  },
+  {
+    "refund_id": "KW-RF-00163",
+    "order_ref": "KW-O-001432",
+    "amount_inr": 799,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-09-20"
+  },
+  {
+    "refund_id": "KW-RF-00164",
+    "order_ref": "KW-O-000460",
+    "amount_inr": 799,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2025-08-06"
+  },
+  {
+    "refund_id": "KW-RF-00165",
+    "order_ref": "KW-O-000011",
+    "amount_inr": 2999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-03-05"
+  },
+  {
+    "refund_id": "KW-RF-00166",
+    "order_ref": "KW-O-000892",
+    "amount_inr": 6499,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-01-01"
+  },
+  {
+    "refund_id": "KW-RF-00167",
+    "order_ref": "KW-O-001395",
+    "amount_inr": 2999,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-10-05"
+  },
+  {
+    "refund_id": "KW-RF-00168",
+    "order_ref": "KW-O-001269",
+    "amount_inr": 299,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-04-09"
+  },
+  {
+    "refund_id": "KW-RF-00169",
+    "order_ref": "KW-O-000779",
+    "amount_inr": 24999,
+    "reason_code": "not_delivered",
+    "status": "requested",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-03-11"
+  },
+  {
+    "refund_id": "KW-RF-00170",
+    "order_ref": "KW-O-000279",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-05-18"
+  },
+  {
+    "refund_id": "KW-RF-00171",
+    "order_ref": "KW-O-000353",
+    "amount_inr": 1499,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-06-09"
+  },
+  {
+    "refund_id": "KW-RF-00172",
+    "order_ref": "KW-O-001300",
+    "amount_inr": 12999,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-06-06"
+  },
+  {
+    "refund_id": "KW-RF-00173",
+    "order_ref": "KW-O-000226",
+    "amount_inr": 12999,
+    "reason_code": "late_delivery",
+    "status": "requested",
+    "approved_by": "team_lead",
+    "requested_on": "2025-12-17"
+  },
+  {
+    "refund_id": "KW-RF-00174",
+    "order_ref": "KW-O-000840",
+    "amount_inr": 799,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2025-09-25"
+  },
+  {
+    "refund_id": "KW-RF-00175",
+    "order_ref": "KW-O-000865",
+    "amount_inr": 12999,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2025-08-11"
+  },
+  {
+    "refund_id": "KW-RF-00176",
+    "order_ref": "KW-O-001325",
+    "amount_inr": 6499,
+    "reason_code": "not_delivered",
+    "status": "rejected",
+    "approved_by": "team_lead",
+    "requested_on": "2026-03-10"
+  },
+  {
+    "refund_id": "KW-RF-00177",
+    "order_ref": "KW-O-000823",
+    "amount_inr": 1499,
+    "reason_code": "changed_mind",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2026-01-13"
+  },
+  {
+    "refund_id": "KW-RF-00178",
+    "order_ref": "KW-O-000546",
+    "amount_inr": 799,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-05-23"
+  },
+  {
+    "refund_id": "KW-RF-00179",
+    "order_ref": "KW-O-000406",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "requested",
+    "approved_by": "team_lead",
+    "requested_on": "2025-11-14"
+  },
+  {
+    "refund_id": "KW-RF-00180",
+    "order_ref": "KW-O-001487",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "requested",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-04-04"
+  },
+  {
+    "refund_id": "KW-RF-00181",
+    "order_ref": "KW-O-000137",
+    "amount_inr": 1499,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-04-28"
+  },
+  {
+    "refund_id": "KW-RF-00182",
+    "order_ref": "KW-O-001363",
+    "amount_inr": 24999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-09-28"
+  },
+  {
+    "refund_id": "KW-RF-00183",
+    "order_ref": "KW-O-001456",
+    "amount_inr": 1499,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-03-25"
+  },
+  {
+    "refund_id": "KW-RF-00184",
+    "order_ref": "KW-O-000133",
+    "amount_inr": 1499,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-02-24"
+  },
+  {
+    "refund_id": "KW-RF-00185",
+    "order_ref": "KW-O-000506",
+    "amount_inr": 12999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-11-02"
+  },
+  {
+    "refund_id": "KW-RF-00186",
+    "order_ref": "KW-O-001488",
+    "amount_inr": 299,
+    "reason_code": "late_delivery",
+    "status": "rejected",
+    "approved_by": "agent",
+    "requested_on": "2025-12-20"
+  },
+  {
+    "refund_id": "KW-RF-00187",
+    "order_ref": "KW-O-000334",
+    "amount_inr": 12999,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-11-18"
+  },
+  {
+    "refund_id": "KW-RF-00188",
+    "order_ref": "KW-O-000897",
+    "amount_inr": 6499,
+    "reason_code": "changed_mind",
+    "status": "requested",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-04-11"
+  },
+  {
+    "refund_id": "KW-RF-00189",
+    "order_ref": "KW-O-001282",
+    "amount_inr": 12999,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "agent",
+    "requested_on": "2026-02-13"
+  },
+  {
+    "refund_id": "KW-RF-00190",
+    "order_ref": "KW-O-000847",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2026-01-27"
+  },
+  {
+    "refund_id": "KW-RF-00191",
+    "order_ref": "KW-O-001073",
+    "amount_inr": 299,
+    "reason_code": "late_delivery",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2026-05-13"
+  },
+  {
+    "refund_id": "KW-RF-00192",
+    "order_ref": "KW-O-000075",
+    "amount_inr": 299,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2026-02-20"
+  },
+  {
+    "refund_id": "KW-RF-00193",
+    "order_ref": "KW-O-000018",
+    "amount_inr": 1499,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-09-20"
+  },
+  {
+    "refund_id": "KW-RF-00194",
+    "order_ref": "KW-O-000214",
+    "amount_inr": 299,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-05-06"
+  },
+  {
+    "refund_id": "KW-RF-00195",
+    "order_ref": "KW-O-001200",
+    "amount_inr": 12999,
+    "reason_code": "damaged",
+    "status": "requested",
+    "approved_by": "team_lead",
+    "requested_on": "2026-03-16"
+  },
+  {
+    "refund_id": "KW-RF-00196",
+    "order_ref": "KW-O-000142",
+    "amount_inr": 24999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-01-18"
+  },
+  {
+    "refund_id": "KW-RF-00197",
+    "order_ref": "KW-O-000347",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-07-23"
+  },
+  {
+    "refund_id": "KW-RF-00198",
+    "order_ref": "KW-O-001167",
+    "amount_inr": 799,
+    "reason_code": "damaged",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2025-10-21"
+  },
+  {
+    "refund_id": "KW-RF-00199",
+    "order_ref": "KW-O-000033",
+    "amount_inr": 12999,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2025-09-03"
+  },
+  {
+    "refund_id": "KW-RF-00200",
+    "order_ref": "KW-O-000266",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-04-24"
+  },
+  {
+    "refund_id": "KW-RF-00201",
+    "order_ref": "KW-O-000423",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-06-02"
+  },
+  {
+    "refund_id": "KW-RF-00202",
+    "order_ref": "KW-O-000019",
+    "amount_inr": 799,
+    "reason_code": "damaged",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2026-02-16"
+  },
+  {
+    "refund_id": "KW-RF-00203",
+    "order_ref": "KW-O-000933",
+    "amount_inr": 6499,
+    "reason_code": "not_delivered",
+    "status": "requested",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-08-07"
+  },
+  {
+    "refund_id": "KW-RF-00204",
+    "order_ref": "KW-O-000881",
+    "amount_inr": 2999,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-09-15"
+  },
+  {
+    "refund_id": "KW-RF-00205",
+    "order_ref": "KW-O-000542",
+    "amount_inr": 6499,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2025-12-08"
+  },
+  {
+    "refund_id": "KW-RF-00206",
+    "order_ref": "KW-O-000825",
+    "amount_inr": 299,
+    "reason_code": "quality",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2026-05-07"
+  },
+  {
+    "refund_id": "KW-RF-00207",
+    "order_ref": "KW-O-000269",
+    "amount_inr": 2999,
+    "reason_code": "changed_mind",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2025-08-26"
+  },
+  {
+    "refund_id": "KW-RF-00208",
+    "order_ref": "KW-O-000701",
+    "amount_inr": 24999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-09-11"
+  },
+  {
+    "refund_id": "KW-RF-00209",
+    "order_ref": "KW-O-000685",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "requested",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-10-08"
+  },
+  {
+    "refund_id": "KW-RF-00210",
+    "order_ref": "KW-O-001484",
+    "amount_inr": 2999,
+    "reason_code": "damaged",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2026-03-28"
+  },
+  {
+    "refund_id": "KW-RF-00211",
+    "order_ref": "KW-O-000394",
+    "amount_inr": 1499,
+    "reason_code": "damaged",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2026-04-09"
+  },
+  {
+    "refund_id": "KW-RF-00212",
+    "order_ref": "KW-O-000863",
+    "amount_inr": 1499,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-10-12"
+  },
+  {
+    "refund_id": "KW-RF-00213",
+    "order_ref": "KW-O-000650",
+    "amount_inr": 1499,
+    "reason_code": "wrong_item",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2026-02-10"
+  },
+  {
+    "refund_id": "KW-RF-00214",
+    "order_ref": "KW-O-000409",
+    "amount_inr": 2999,
+    "reason_code": "damaged",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-01-18"
+  },
+  {
+    "refund_id": "KW-RF-00215",
+    "order_ref": "KW-O-000297",
+    "amount_inr": 1499,
+    "reason_code": "late_delivery",
+    "status": "requested",
+    "approved_by": "team_lead",
+    "requested_on": "2025-12-03"
+  },
+  {
+    "refund_id": "KW-RF-00216",
+    "order_ref": "KW-O-001483",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-03-02"
+  },
+  {
+    "refund_id": "KW-RF-00217",
+    "order_ref": "KW-O-001059",
+    "amount_inr": 2999,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-01-14"
+  },
+  {
+    "refund_id": "KW-RF-00218",
+    "order_ref": "KW-O-001380",
+    "amount_inr": 6499,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "agent",
+    "requested_on": "2026-06-12"
+  },
+  {
+    "refund_id": "KW-RF-00219",
+    "order_ref": "KW-O-000480",
+    "amount_inr": 2999,
+    "reason_code": "damaged",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2026-07-25"
+  },
+  {
+    "refund_id": "KW-RF-00220",
+    "order_ref": "KW-O-001192",
+    "amount_inr": 12999,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-06-01"
+  },
+  {
+    "refund_id": "KW-RF-00221",
+    "order_ref": "KW-O-000152",
+    "amount_inr": 24999,
+    "reason_code": "quality",
+    "status": "rejected",
+    "approved_by": "team_lead",
+    "requested_on": "2026-05-28"
+  },
+  {
+    "refund_id": "KW-RF-00222",
+    "order_ref": "KW-O-000120",
+    "amount_inr": 299,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2025-09-14"
+  },
+  {
+    "refund_id": "KW-RF-00223",
+    "order_ref": "KW-O-000337",
+    "amount_inr": 24999,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-05-03"
+  },
+  {
+    "refund_id": "KW-RF-00224",
+    "order_ref": "KW-O-000226",
+    "amount_inr": 24999,
+    "reason_code": "quality",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2026-02-17"
+  },
+  {
+    "refund_id": "KW-RF-00225",
+    "order_ref": "KW-O-001066",
+    "amount_inr": 2999,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-05-04"
+  },
+  {
+    "refund_id": "KW-RF-00226",
+    "order_ref": "KW-O-001210",
+    "amount_inr": 24999,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-11-12"
+  },
+  {
+    "refund_id": "KW-RF-00227",
+    "order_ref": "KW-O-001302",
+    "amount_inr": 799,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-09-28"
+  },
+  {
+    "refund_id": "KW-RF-00228",
+    "order_ref": "KW-O-000829",
+    "amount_inr": 2999,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-11-03"
+  },
+  {
+    "refund_id": "KW-RF-00229",
+    "order_ref": "KW-O-001090",
+    "amount_inr": 12999,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-06-23"
+  },
+  {
+    "refund_id": "KW-RF-00230",
+    "order_ref": "KW-O-000895",
+    "amount_inr": 1499,
+    "reason_code": "quality",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2025-08-15"
+  },
+  {
+    "refund_id": "KW-RF-00231",
+    "order_ref": "KW-O-000684",
+    "amount_inr": 299,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-04-29"
+  },
+  {
+    "refund_id": "KW-RF-00232",
+    "order_ref": "KW-O-000959",
+    "amount_inr": 799,
+    "reason_code": "not_delivered",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-02-08"
+  },
+  {
+    "refund_id": "KW-RF-00233",
+    "order_ref": "KW-O-000964",
+    "amount_inr": 2999,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-01-25"
+  },
+  {
+    "refund_id": "KW-RF-00234",
+    "order_ref": "KW-O-000939",
+    "amount_inr": 6499,
+    "reason_code": "damaged",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2026-02-15"
+  },
+  {
+    "refund_id": "KW-RF-00235",
+    "order_ref": "KW-O-001415",
+    "amount_inr": 799,
+    "reason_code": "not_delivered",
+    "status": "rejected",
+    "approved_by": "finance",
+    "requested_on": "2026-03-26"
+  },
+  {
+    "refund_id": "KW-RF-00236",
+    "order_ref": "KW-O-000456",
+    "amount_inr": 12999,
+    "reason_code": "not_delivered",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2025-10-14"
+  },
+  {
+    "refund_id": "KW-RF-00237",
+    "order_ref": "KW-O-000198",
+    "amount_inr": 1499,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-03-07"
+  },
+  {
+    "refund_id": "KW-RF-00238",
+    "order_ref": "KW-O-000369",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-09-02"
+  },
+  {
+    "refund_id": "KW-RF-00239",
+    "order_ref": "KW-O-001455",
+    "amount_inr": 2999,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-01-21"
+  },
+  {
+    "refund_id": "KW-RF-00240",
+    "order_ref": "KW-O-000309",
+    "amount_inr": 6499,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2025-12-27"
+  },
+  {
+    "refund_id": "KW-RF-00241",
+    "order_ref": "KW-O-001319",
+    "amount_inr": 24999,
+    "reason_code": "changed_mind",
+    "status": "requested",
+    "approved_by": "finance",
+    "requested_on": "2026-07-23"
+  },
+  {
+    "refund_id": "KW-RF-00242",
+    "order_ref": "KW-O-000857",
+    "amount_inr": 6499,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-06-27"
+  },
+  {
+    "refund_id": "KW-RF-00243",
+    "order_ref": "KW-O-000040",
+    "amount_inr": 6499,
+    "reason_code": "not_delivered",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2026-04-01"
+  },
+  {
+    "refund_id": "KW-RF-00244",
+    "order_ref": "KW-O-000055",
+    "amount_inr": 12999,
+    "reason_code": "quality",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-12-31"
+  },
+  {
+    "refund_id": "KW-RF-00245",
+    "order_ref": "KW-O-000990",
+    "amount_inr": 799,
+    "reason_code": "changed_mind",
+    "status": "requested",
+    "approved_by": "finance",
+    "requested_on": "2026-01-10"
+  },
+  {
+    "refund_id": "KW-RF-00246",
+    "order_ref": "KW-O-000468",
+    "amount_inr": 24999,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2026-03-20"
+  },
+  {
+    "refund_id": "KW-RF-00247",
+    "order_ref": "KW-O-001327",
+    "amount_inr": 1499,
+    "reason_code": "damaged",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-04-08"
+  },
+  {
+    "refund_id": "KW-RF-00248",
+    "order_ref": "KW-O-001010",
+    "amount_inr": 2999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-12-16"
+  },
+  {
+    "refund_id": "KW-RF-00249",
+    "order_ref": "KW-O-000040",
+    "amount_inr": 6499,
+    "reason_code": "late_delivery",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2025-12-11"
+  },
+  {
+    "refund_id": "KW-RF-00250",
+    "order_ref": "KW-O-000099",
+    "amount_inr": 12999,
+    "reason_code": "quality",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2025-08-18"
+  },
+  {
+    "refund_id": "KW-RF-00251",
+    "order_ref": "KW-O-000852",
+    "amount_inr": 12999,
+    "reason_code": "quality",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-04-27"
+  },
+  {
+    "refund_id": "KW-RF-00252",
+    "order_ref": "KW-O-001453",
+    "amount_inr": 6499,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-12-23"
+  },
+  {
+    "refund_id": "KW-RF-00253",
+    "order_ref": "KW-O-000882",
+    "amount_inr": 1499,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-03-12"
+  },
+  {
+    "refund_id": "KW-RF-00254",
+    "order_ref": "KW-O-000589",
+    "amount_inr": 24999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-10-22"
+  },
+  {
+    "refund_id": "KW-RF-00255",
+    "order_ref": "KW-O-000855",
+    "amount_inr": 299,
+    "reason_code": "changed_mind",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2026-04-29"
+  },
+  {
+    "refund_id": "KW-RF-00256",
+    "order_ref": "KW-O-000368",
+    "amount_inr": 6499,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-03-26"
+  },
+  {
+    "refund_id": "KW-RF-00257",
+    "order_ref": "KW-O-000086",
+    "amount_inr": 2999,
+    "reason_code": "changed_mind",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2026-05-24"
+  },
+  {
+    "refund_id": "KW-RF-00258",
+    "order_ref": "KW-O-001290",
+    "amount_inr": 6499,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-03-26"
+  },
+  {
+    "refund_id": "KW-RF-00259",
+    "order_ref": "KW-O-001098",
+    "amount_inr": 799,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-03-26"
+  },
+  {
+    "refund_id": "KW-RF-00260",
+    "order_ref": "KW-O-000029",
+    "amount_inr": 799,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-01-23"
+  },
+  {
+    "refund_id": "KW-RF-00261",
+    "order_ref": "KW-O-000906",
+    "amount_inr": 1499,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-09-16"
+  },
+  {
+    "refund_id": "KW-RF-00262",
+    "order_ref": "KW-O-000979",
+    "amount_inr": 2999,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-04-27"
+  },
+  {
+    "refund_id": "KW-RF-00263",
+    "order_ref": "KW-O-001367",
+    "amount_inr": 24999,
+    "reason_code": "damaged",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-12-11"
+  },
+  {
+    "refund_id": "KW-RF-00264",
+    "order_ref": "KW-O-001314",
+    "amount_inr": 24999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-12-08"
+  },
+  {
+    "refund_id": "KW-RF-00265",
+    "order_ref": "KW-O-000912",
+    "amount_inr": 1499,
+    "reason_code": "late_delivery",
+    "status": "rejected",
+    "approved_by": "agent",
+    "requested_on": "2026-07-14"
+  },
+  {
+    "refund_id": "KW-RF-00266",
+    "order_ref": "KW-O-000363",
+    "amount_inr": 6499,
+    "reason_code": "not_delivered",
+    "status": "requested",
+    "approved_by": "finance",
+    "requested_on": "2025-11-05"
+  },
+  {
+    "refund_id": "KW-RF-00267",
+    "order_ref": "KW-O-001144",
+    "amount_inr": 2999,
+    "reason_code": "damaged",
+    "status": "rejected",
+    "approved_by": "finance",
+    "requested_on": "2025-08-24"
+  },
+  {
+    "refund_id": "KW-RF-00268",
+    "order_ref": "KW-O-000436",
+    "amount_inr": 2999,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-01-20"
+  },
+  {
+    "refund_id": "KW-RF-00269",
+    "order_ref": "KW-O-000737",
+    "amount_inr": 2999,
+    "reason_code": "changed_mind",
+    "status": "rejected",
+    "approved_by": "agent",
+    "requested_on": "2026-05-28"
+  },
+  {
+    "refund_id": "KW-RF-00270",
+    "order_ref": "KW-O-000665",
+    "amount_inr": 299,
+    "reason_code": "not_delivered",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-11-19"
+  },
+  {
+    "refund_id": "KW-RF-00271",
+    "order_ref": "KW-O-000413",
+    "amount_inr": 6499,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2025-09-11"
+  },
+  {
+    "refund_id": "KW-RF-00272",
+    "order_ref": "KW-O-000349",
+    "amount_inr": 299,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-10-20"
+  },
+  {
+    "refund_id": "KW-RF-00273",
+    "order_ref": "KW-O-001008",
+    "amount_inr": 6499,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-08-02"
+  },
+  {
+    "refund_id": "KW-RF-00274",
+    "order_ref": "KW-O-000510",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-02-12"
+  },
+  {
+    "refund_id": "KW-RF-00275",
+    "order_ref": "KW-O-000311",
+    "amount_inr": 24999,
+    "reason_code": "wrong_item",
+    "status": "approved",
+    "approved_by": "auto",
+    "requested_on": "2026-06-13"
+  },
+  {
+    "refund_id": "KW-RF-00276",
+    "order_ref": "KW-O-000829",
+    "amount_inr": 299,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-03-13"
+  },
+  {
+    "refund_id": "KW-RF-00277",
+    "order_ref": "KW-O-000950",
+    "amount_inr": 1499,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-06-10"
+  },
+  {
+    "refund_id": "KW-RF-00278",
+    "order_ref": "KW-O-000724",
+    "amount_inr": 299,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2025-08-08"
+  },
+  {
+    "refund_id": "KW-RF-00279",
+    "order_ref": "KW-O-001021",
+    "amount_inr": 2999,
+    "reason_code": "not_delivered",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2025-08-20"
+  },
+  {
+    "refund_id": "KW-RF-00280",
+    "order_ref": "KW-O-000574",
+    "amount_inr": 799,
+    "reason_code": "quality",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-05-07"
+  },
+  {
+    "refund_id": "KW-RF-00281",
+    "order_ref": "KW-O-000153",
+    "amount_inr": 2999,
+    "reason_code": "late_delivery",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2026-01-29"
+  },
+  {
+    "refund_id": "KW-RF-00282",
+    "order_ref": "KW-O-001412",
+    "amount_inr": 24999,
+    "reason_code": "changed_mind",
+    "status": "requested",
+    "approved_by": "auto",
+    "requested_on": "2025-08-08"
+  },
+  {
+    "refund_id": "KW-RF-00283",
+    "order_ref": "KW-O-000697",
+    "amount_inr": 1499,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-10-06"
+  },
+  {
+    "refund_id": "KW-RF-00284",
+    "order_ref": "KW-O-001483",
+    "amount_inr": 2999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-02-20"
+  },
+  {
+    "refund_id": "KW-RF-00285",
+    "order_ref": "KW-O-001330",
+    "amount_inr": 1499,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2026-03-16"
+  },
+  {
+    "refund_id": "KW-RF-00286",
+    "order_ref": "KW-O-000291",
+    "amount_inr": 299,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-12-28"
+  },
+  {
+    "refund_id": "KW-RF-00287",
+    "order_ref": "KW-O-001107",
+    "amount_inr": 6499,
+    "reason_code": "changed_mind",
+    "status": "rejected",
+    "approved_by": "finance",
+    "requested_on": "2026-03-13"
+  },
+  {
+    "refund_id": "KW-RF-00288",
+    "order_ref": "KW-O-000444",
+    "amount_inr": 24999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-11-15"
+  },
+  {
+    "refund_id": "KW-RF-00289",
+    "order_ref": "KW-O-000721",
+    "amount_inr": 799,
+    "reason_code": "quality",
+    "status": "rejected",
+    "approved_by": "finance",
+    "requested_on": "2025-08-17"
+  },
+  {
+    "refund_id": "KW-RF-00290",
+    "order_ref": "KW-O-000360",
+    "amount_inr": 799,
+    "reason_code": "quality",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-01-07"
+  },
+  {
+    "refund_id": "KW-RF-00291",
+    "order_ref": "KW-O-000172",
+    "amount_inr": 24999,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2025-10-27"
+  },
+  {
+    "refund_id": "KW-RF-00292",
+    "order_ref": "KW-O-001498",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-07-18"
+  },
+  {
+    "refund_id": "KW-RF-00293",
+    "order_ref": "KW-O-000474",
+    "amount_inr": 2999,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-06-25"
+  },
+  {
+    "refund_id": "KW-RF-00294",
+    "order_ref": "KW-O-000126",
+    "amount_inr": 6499,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-05-30"
+  },
+  {
+    "refund_id": "KW-RF-00295",
+    "order_ref": "KW-O-000958",
+    "amount_inr": 6499,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2025-09-11"
+  },
+  {
+    "refund_id": "KW-RF-00296",
+    "order_ref": "KW-O-001082",
+    "amount_inr": 12999,
+    "reason_code": "wrong_item",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-05-04"
+  },
+  {
+    "refund_id": "KW-RF-00297",
+    "order_ref": "KW-O-001172",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2025-10-04"
+  },
+  {
+    "refund_id": "KW-RF-00298",
+    "order_ref": "KW-O-001315",
+    "amount_inr": 2999,
+    "reason_code": "quality",
+    "status": "rejected",
+    "approved_by": "team_lead",
+    "requested_on": "2025-10-01"
+  },
+  {
+    "refund_id": "KW-RF-00299",
+    "order_ref": "KW-O-000415",
+    "amount_inr": 1499,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2025-12-02"
+  },
+  {
+    "refund_id": "KW-RF-00300",
+    "order_ref": "KW-O-000142",
+    "amount_inr": 24999,
+    "reason_code": "wrong_item",
+    "status": "requested",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-02-08"
+  },
+  {
+    "refund_id": "KW-RF-00301",
+    "order_ref": "KW-O-000825",
+    "amount_inr": 12999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "finance",
+    "requested_on": "2026-01-07"
+  },
+  {
+    "refund_id": "KW-RF-00302",
+    "order_ref": "KW-O-000090",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-07-06"
+  },
+  {
+    "refund_id": "KW-RF-00303",
+    "order_ref": "KW-O-000649",
+    "amount_inr": 6499,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-05-02"
+  },
+  {
+    "refund_id": "KW-RF-00304",
+    "order_ref": "KW-O-000635",
+    "amount_inr": 799,
+    "reason_code": "late_delivery",
+    "status": "approved",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-12-19"
+  },
+  {
+    "refund_id": "KW-RF-00305",
+    "order_ref": "KW-O-001131",
+    "amount_inr": 799,
+    "reason_code": "quality",
+    "status": "approved",
+    "approved_by": "team_lead",
+    "requested_on": "2025-11-06"
+  },
+  {
+    "refund_id": "KW-RF-00306",
+    "order_ref": "KW-O-001438",
+    "amount_inr": 12999,
+    "reason_code": "damaged",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2026-05-08"
+  },
+  {
+    "refund_id": "KW-RF-00307",
+    "order_ref": "KW-O-000603",
+    "amount_inr": 12999,
+    "reason_code": "not_delivered",
+    "status": "requested",
+    "approved_by": "agent",
+    "requested_on": "2026-07-09"
+  },
+  {
+    "refund_id": "KW-RF-00308",
+    "order_ref": "KW-O-001176",
+    "amount_inr": 6499,
+    "reason_code": "changed_mind",
+    "status": "approved",
+    "approved_by": "agent",
+    "requested_on": "2026-05-18"
+  },
+  {
+    "refund_id": "KW-RF-00309",
+    "order_ref": "KW-O-000519",
+    "amount_inr": 2999,
+    "reason_code": "changed_mind",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-02-20"
+  },
+  {
+    "refund_id": "KW-RF-00310",
+    "order_ref": "KW-O-000245",
+    "amount_inr": 1499,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2025-08-18"
+  },
+  {
+    "refund_id": "KW-RF-00311",
+    "order_ref": "KW-O-000281",
+    "amount_inr": 6499,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-10-27"
+  },
+  {
+    "refund_id": "KW-RF-00312",
+    "order_ref": "KW-O-000375",
+    "amount_inr": 12999,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "agent",
+    "requested_on": "2026-07-03"
+  },
+  {
+    "refund_id": "KW-RF-00313",
+    "order_ref": "KW-O-000157",
+    "amount_inr": 1499,
+    "reason_code": "late_delivery",
+    "status": "rejected",
+    "approved_by": "auto",
+    "requested_on": "2026-02-03"
+  },
+  {
+    "refund_id": "KW-RF-00314",
+    "order_ref": "KW-O-000034",
+    "amount_inr": 2999,
+    "reason_code": "quality",
+    "status": "processed",
+    "approved_by": "auto",
+    "requested_on": "2026-03-29"
+  },
+  {
+    "refund_id": "KW-RF-00315",
+    "order_ref": "KW-O-000086",
+    "amount_inr": 24999,
+    "reason_code": "not_delivered",
+    "status": "processed",
+    "approved_by": "ops_manager",
+    "requested_on": "2026-02-17"
+  },
+  {
+    "refund_id": "KW-RF-00316",
+    "order_ref": "KW-O-000870",
+    "amount_inr": 299,
+    "reason_code": "damaged",
+    "status": "approved",
+    "approved_by": "finance",
+    "requested_on": "2026-05-04"
+  },
+  {
+    "refund_id": "KW-RF-00317",
+    "order_ref": "KW-O-001305",
+    "amount_inr": 24999,
+    "reason_code": "wrong_item",
+    "status": "rejected",
+    "approved_by": "agent",
+    "requested_on": "2026-07-28"
+  },
+  {
+    "refund_id": "KW-RF-00318",
+    "order_ref": "KW-O-000567",
+    "amount_inr": 24999,
+    "reason_code": "not_delivered",
+    "status": "requested",
+    "approved_by": "finance",
+    "requested_on": "2026-02-22"
+  },
+  {
+    "refund_id": "KW-RF-00319",
+    "order_ref": "KW-O-000305",
+    "amount_inr": 6499,
+    "reason_code": "late_delivery",
+    "status": "processed",
+    "approved_by": "team_lead",
+    "requested_on": "2025-11-15"
+  }
+]

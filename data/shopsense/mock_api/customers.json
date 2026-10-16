@@ -1,0 +1,5002 @@
+[
+  {
+    "customer_ref": "KW-C-00000",
+    "display_name": "Jaime Holt",
+    "city": "Port Stevenfurt",
+    "tier": "plus",
+    "joined_on": "2021-10-23",
+    "lifetime_orders": 126,
+    "return_rate": 0.004,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00001",
+    "display_name": "Matthew Richardson",
+    "city": "North Christopherfort",
+    "tier": "plus",
+    "joined_on": "2021-11-24",
+    "lifetime_orders": 31,
+    "return_rate": 0.026,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00002",
+    "display_name": "Susan Walker",
+    "city": "Hillville",
+    "tier": "standard",
+    "joined_on": "2022-11-01",
+    "lifetime_orders": 37,
+    "return_rate": 0.213,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00003",
+    "display_name": "Catherine Washington",
+    "city": "Evansberg",
+    "tier": "standard",
+    "joined_on": "2023-12-04",
+    "lifetime_orders": 131,
+    "return_rate": 0.365,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00004",
+    "display_name": "Arthur Stout",
+    "city": "South Lisa",
+    "tier": "standard",
+    "joined_on": "2025-06-13",
+    "lifetime_orders": 12,
+    "return_rate": 0.133,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00005",
+    "display_name": "Justin Herrera",
+    "city": "Brownshire",
+    "tier": "standard",
+    "joined_on": "2024-05-17",
+    "lifetime_orders": 118,
+    "return_rate": 0.281,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00006",
+    "display_name": "Sabrina Pearson",
+    "city": "Lake Priscilla",
+    "tier": "standard",
+    "joined_on": "2023-07-03",
+    "lifetime_orders": 49,
+    "return_rate": 0.186,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00007",
+    "display_name": "Kyle White",
+    "city": "Mcbrideville",
+    "tier": "standard",
+    "joined_on": "2025-09-22",
+    "lifetime_orders": 114,
+    "return_rate": 0.13,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00008",
+    "display_name": "Kenneth Delgado",
+    "city": "New Jonathanton",
+    "tier": "standard",
+    "joined_on": "2023-06-10",
+    "lifetime_orders": 26,
+    "return_rate": 0.178,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00009",
+    "display_name": "Caleb Evans",
+    "city": "South Tiffany",
+    "tier": "standard",
+    "joined_on": "2024-04-17",
+    "lifetime_orders": 113,
+    "return_rate": 0.372,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00010",
+    "display_name": "Danielle Williams",
+    "city": "Donnamouth",
+    "tier": "standard",
+    "joined_on": "2022-05-20",
+    "lifetime_orders": 135,
+    "return_rate": 0.263,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00011",
+    "display_name": "John Edwards",
+    "city": "Catherinehaven",
+    "tier": "plus",
+    "joined_on": "2023-06-25",
+    "lifetime_orders": 133,
+    "return_rate": 0.151,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00012",
+    "display_name": "Brett Weiss",
+    "city": "North Jacob",
+    "tier": "standard",
+    "joined_on": "2024-03-26",
+    "lifetime_orders": 95,
+    "return_rate": 0.54,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00013",
+    "display_name": "Ronnie Bernard",
+    "city": "New Michael",
+    "tier": "standard",
+    "joined_on": "2022-03-27",
+    "lifetime_orders": 80,
+    "return_rate": 0.035,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00014",
+    "display_name": "Marcus Jones",
+    "city": "Jorgeburgh",
+    "tier": "premium",
+    "joined_on": "2022-06-16",
+    "lifetime_orders": 40,
+    "return_rate": 0.515,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00015",
+    "display_name": "Bradley King",
+    "city": "Bentleyberg",
+    "tier": "plus",
+    "joined_on": "2022-01-02",
+    "lifetime_orders": 51,
+    "return_rate": 0.22,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00016",
+    "display_name": "Andrea Oconnor",
+    "city": "Lake Nathan",
+    "tier": "standard",
+    "joined_on": "2024-12-07",
+    "lifetime_orders": 137,
+    "return_rate": 0.331,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00017",
+    "display_name": "Samantha Jacobs",
+    "city": "Underwoodmouth",
+    "tier": "standard",
+    "joined_on": "2025-04-23",
+    "lifetime_orders": 116,
+    "return_rate": 0.34,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00018",
+    "display_name": "Jessica Johnson DDS",
+    "city": "West Davidville",
+    "tier": "plus",
+    "joined_on": "2022-10-17",
+    "lifetime_orders": 60,
+    "return_rate": 0.351,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00019",
+    "display_name": "Jennifer Murphy",
+    "city": "West Reginaview",
+    "tier": "plus",
+    "joined_on": "2023-11-09",
+    "lifetime_orders": 92,
+    "return_rate": 0.234,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00020",
+    "display_name": "Robert Hill",
+    "city": "South Tiffanybury",
+    "tier": "standard",
+    "joined_on": "2025-08-11",
+    "lifetime_orders": 76,
+    "return_rate": 0.014,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00021",
+    "display_name": "Brian Frost",
+    "city": "New Jessica",
+    "tier": "standard",
+    "joined_on": "2025-03-09",
+    "lifetime_orders": 110,
+    "return_rate": 0.525,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00022",
+    "display_name": "Roberto Burns",
+    "city": "Jackieport",
+    "tier": "standard",
+    "joined_on": "2023-06-10",
+    "lifetime_orders": 35,
+    "return_rate": 0.337,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00023",
+    "display_name": "Lisa Mosley",
+    "city": "West Stacey",
+    "tier": "plus",
+    "joined_on": "2025-11-21",
+    "lifetime_orders": 54,
+    "return_rate": 0.478,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00024",
+    "display_name": "Gregory Figueroa",
+    "city": "Woodsberg",
+    "tier": "premium",
+    "joined_on": "2024-09-12",
+    "lifetime_orders": 116,
+    "return_rate": 0.389,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00025",
+    "display_name": "Michael Reeves",
+    "city": "East Nicholas",
+    "tier": "plus",
+    "joined_on": "2022-11-03",
+    "lifetime_orders": 113,
+    "return_rate": 0.128,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00026",
+    "display_name": "Amy Swanson",
+    "city": "Jasminebury",
+    "tier": "premium",
+    "joined_on": "2023-05-11",
+    "lifetime_orders": 10,
+    "return_rate": 0.075,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00027",
+    "display_name": "Jennifer Ellis",
+    "city": "Andersenmouth",
+    "tier": "standard",
+    "joined_on": "2024-09-19",
+    "lifetime_orders": 78,
+    "return_rate": 0.353,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00028",
+    "display_name": "Desiree Patterson",
+    "city": "West Cynthia",
+    "tier": "standard",
+    "joined_on": "2023-01-28",
+    "lifetime_orders": 77,
+    "return_rate": 0.05,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00029",
+    "display_name": "Eric Townsend",
+    "city": "Lake Christopherbury",
+    "tier": "plus",
+    "joined_on": "2022-03-04",
+    "lifetime_orders": 89,
+    "return_rate": 0.345,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00030",
+    "display_name": "Carmen Brown",
+    "city": "Angelafort",
+    "tier": "standard",
+    "joined_on": "2025-04-08",
+    "lifetime_orders": 100,
+    "return_rate": 0.013,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00031",
+    "display_name": "Alexandra Vaughan",
+    "city": "South Tyler",
+    "tier": "standard",
+    "joined_on": "2024-01-25",
+    "lifetime_orders": 99,
+    "return_rate": 0.466,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00032",
+    "display_name": "Megan Patel",
+    "city": "South Alexanderborough",
+    "tier": "standard",
+    "joined_on": "2022-08-17",
+    "lifetime_orders": 89,
+    "return_rate": 0.409,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00033",
+    "display_name": "Nichole Klein",
+    "city": "Johnhaven",
+    "tier": "standard",
+    "joined_on": "2022-04-15",
+    "lifetime_orders": 125,
+    "return_rate": 0.147,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00034",
+    "display_name": "Amanda West",
+    "city": "Lake Sarah",
+    "tier": "premium",
+    "joined_on": "2022-07-25",
+    "lifetime_orders": 109,
+    "return_rate": 0.035,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00035",
+    "display_name": "Stephanie Thompson",
+    "city": "Maryhaven",
+    "tier": "standard",
+    "joined_on": "2022-12-17",
+    "lifetime_orders": 43,
+    "return_rate": 0.042,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00036",
+    "display_name": "Anthony Simpson",
+    "city": "West Tara",
+    "tier": "standard",
+    "joined_on": "2026-04-12",
+    "lifetime_orders": 19,
+    "return_rate": 0.355,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00037",
+    "display_name": "Michael Decker",
+    "city": "West Kevinport",
+    "tier": "plus",
+    "joined_on": "2022-06-05",
+    "lifetime_orders": 59,
+    "return_rate": 0.433,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00038",
+    "display_name": "Aaron Welch",
+    "city": "Robinsonport",
+    "tier": "standard",
+    "joined_on": "2025-08-31",
+    "lifetime_orders": 99,
+    "return_rate": 0.384,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00039",
+    "display_name": "Tina Robertson",
+    "city": "South Patriciafort",
+    "tier": "standard",
+    "joined_on": "2026-05-15",
+    "lifetime_orders": 53,
+    "return_rate": 0.382,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00040",
+    "display_name": "Aaron Stevens",
+    "city": "Michaeltown",
+    "tier": "standard",
+    "joined_on": "2022-09-05",
+    "lifetime_orders": 33,
+    "return_rate": 0.295,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00041",
+    "display_name": "Nathan Morales",
+    "city": "North Ryanborough",
+    "tier": "standard",
+    "joined_on": "2023-08-22",
+    "lifetime_orders": 52,
+    "return_rate": 0.424,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00042",
+    "display_name": "Jose Hernandez",
+    "city": "South Adamview",
+    "tier": "standard",
+    "joined_on": "2024-07-18",
+    "lifetime_orders": 8,
+    "return_rate": 0.316,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00043",
+    "display_name": "James Evans",
+    "city": "Mcclainside",
+    "tier": "standard",
+    "joined_on": "2023-03-06",
+    "lifetime_orders": 30,
+    "return_rate": 0.307,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00044",
+    "display_name": "Ashley Gonzales",
+    "city": "Martinstad",
+    "tier": "standard",
+    "joined_on": "2025-06-30",
+    "lifetime_orders": 32,
+    "return_rate": 0.33,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00045",
+    "display_name": "Abigail Stephenson",
+    "city": "North Jake",
+    "tier": "standard",
+    "joined_on": "2025-04-16",
+    "lifetime_orders": 20,
+    "return_rate": 0.001,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00046",
+    "display_name": "James Manning",
+    "city": "East Elizabethfort",
+    "tier": "plus",
+    "joined_on": "2023-08-19",
+    "lifetime_orders": 72,
+    "return_rate": 0.096,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00047",
+    "display_name": "Victoria Wilson",
+    "city": "Pierceberg",
+    "tier": "standard",
+    "joined_on": "2022-09-04",
+    "lifetime_orders": 35,
+    "return_rate": 0.374,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00048",
+    "display_name": "Phillip Macias",
+    "city": "Andersonville",
+    "tier": "standard",
+    "joined_on": "2026-03-20",
+    "lifetime_orders": 11,
+    "return_rate": 0.04,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00049",
+    "display_name": "Beth Cooper",
+    "city": "Port Gabrielleton",
+    "tier": "plus",
+    "joined_on": "2025-03-09",
+    "lifetime_orders": 57,
+    "return_rate": 0.49,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00050",
+    "display_name": "Gloria Bray",
+    "city": "South Timothyport",
+    "tier": "standard",
+    "joined_on": "2021-09-21",
+    "lifetime_orders": 25,
+    "return_rate": 0.261,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00051",
+    "display_name": "Dr. David Hernandez",
+    "city": "East Juan",
+    "tier": "standard",
+    "joined_on": "2022-11-10",
+    "lifetime_orders": 78,
+    "return_rate": 0.152,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00052",
+    "display_name": "Dennis Haynes",
+    "city": "Gonzalezville",
+    "tier": "standard",
+    "joined_on": "2021-10-24",
+    "lifetime_orders": 43,
+    "return_rate": 0.116,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00053",
+    "display_name": "Kathryn White",
+    "city": "East David",
+    "tier": "standard",
+    "joined_on": "2025-06-25",
+    "lifetime_orders": 78,
+    "return_rate": 0.468,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00054",
+    "display_name": "Donald Lee",
+    "city": "South Andres",
+    "tier": "standard",
+    "joined_on": "2024-03-13",
+    "lifetime_orders": 36,
+    "return_rate": 0.478,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00055",
+    "display_name": "Sean James",
+    "city": "Isabelbury",
+    "tier": "standard",
+    "joined_on": "2026-04-05",
+    "lifetime_orders": 99,
+    "return_rate": 0.135,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00056",
+    "display_name": "Jeffery Brown",
+    "city": "Schneiderport",
+    "tier": "standard",
+    "joined_on": "2022-02-24",
+    "lifetime_orders": 92,
+    "return_rate": 0.404,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00057",
+    "display_name": "Jack Hahn",
+    "city": "Wrightton",
+    "tier": "plus",
+    "joined_on": "2024-06-07",
+    "lifetime_orders": 92,
+    "return_rate": 0.32,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00058",
+    "display_name": "Aaron Guerrero",
+    "city": "Jasonfort",
+    "tier": "standard",
+    "joined_on": "2025-04-26",
+    "lifetime_orders": 97,
+    "return_rate": 0.468,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00059",
+    "display_name": "Lawrence Jordan",
+    "city": "Stacystad",
+    "tier": "standard",
+    "joined_on": "2021-12-20",
+    "lifetime_orders": 7,
+    "return_rate": 0.119,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00060",
+    "display_name": "Brian Caldwell",
+    "city": "West Michael",
+    "tier": "plus",
+    "joined_on": "2026-03-30",
+    "lifetime_orders": 83,
+    "return_rate": 0.001,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00061",
+    "display_name": "Natalie Chapman",
+    "city": "Johnview",
+    "tier": "plus",
+    "joined_on": "2024-07-03",
+    "lifetime_orders": 17,
+    "return_rate": 0.401,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00062",
+    "display_name": "James Eaton",
+    "city": "Lake Julia",
+    "tier": "plus",
+    "joined_on": "2023-11-22",
+    "lifetime_orders": 74,
+    "return_rate": 0.509,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00063",
+    "display_name": "Kevin Barr",
+    "city": "East Janet",
+    "tier": "standard",
+    "joined_on": "2025-09-05",
+    "lifetime_orders": 37,
+    "return_rate": 0.099,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00064",
+    "display_name": "Angela Payne",
+    "city": "Kevinfort",
+    "tier": "standard",
+    "joined_on": "2021-08-04",
+    "lifetime_orders": 77,
+    "return_rate": 0.258,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00065",
+    "display_name": "Christina Le MD",
+    "city": "South Andrea",
+    "tier": "standard",
+    "joined_on": "2023-09-26",
+    "lifetime_orders": 93,
+    "return_rate": 0.152,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00066",
+    "display_name": "Shawn Castaneda",
+    "city": "Patriciamouth",
+    "tier": "standard",
+    "joined_on": "2024-10-06",
+    "lifetime_orders": 124,
+    "return_rate": 0.161,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00067",
+    "display_name": "Autumn Graham",
+    "city": "Barneshaven",
+    "tier": "standard",
+    "joined_on": "2022-05-17",
+    "lifetime_orders": 30,
+    "return_rate": 0.143,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00068",
+    "display_name": "Carol Hill",
+    "city": "West Brandon",
+    "tier": "standard",
+    "joined_on": "2025-12-25",
+    "lifetime_orders": 120,
+    "return_rate": 0.324,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00069",
+    "display_name": "Rebecca Benson",
+    "city": "Simpsonside",
+    "tier": "standard",
+    "joined_on": "2021-08-27",
+    "lifetime_orders": 75,
+    "return_rate": 0.008,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00070",
+    "display_name": "Valerie Martin",
+    "city": "Hartfurt",
+    "tier": "standard",
+    "joined_on": "2025-10-19",
+    "lifetime_orders": 112,
+    "return_rate": 0.234,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00071",
+    "display_name": "Devon White",
+    "city": "New Jeffery",
+    "tier": "standard",
+    "joined_on": "2026-01-29",
+    "lifetime_orders": 96,
+    "return_rate": 0.276,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00072",
+    "display_name": "Sherry Gibbs",
+    "city": "Gordonhaven",
+    "tier": "plus",
+    "joined_on": "2026-02-22",
+    "lifetime_orders": 123,
+    "return_rate": 0.531,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00073",
+    "display_name": "Samuel Phillips",
+    "city": "Andreaburgh",
+    "tier": "standard",
+    "joined_on": "2022-04-21",
+    "lifetime_orders": 84,
+    "return_rate": 0.051,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00074",
+    "display_name": "Joseph Carter",
+    "city": "West Sara",
+    "tier": "standard",
+    "joined_on": "2025-09-05",
+    "lifetime_orders": 137,
+    "return_rate": 0.227,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00075",
+    "display_name": "Richard Day",
+    "city": "Port Jason",
+    "tier": "premium",
+    "joined_on": "2021-09-17",
+    "lifetime_orders": 125,
+    "return_rate": 0.439,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00076",
+    "display_name": "Matthew Chen",
+    "city": "Markside",
+    "tier": "standard",
+    "joined_on": "2021-12-21",
+    "lifetime_orders": 104,
+    "return_rate": 0.347,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00077",
+    "display_name": "Casey Villanueva",
+    "city": "Markton",
+    "tier": "standard",
+    "joined_on": "2024-05-25",
+    "lifetime_orders": 117,
+    "return_rate": 0.461,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00078",
+    "display_name": "Alexandra Kelly",
+    "city": "Gregorytown",
+    "tier": "standard",
+    "joined_on": "2021-08-09",
+    "lifetime_orders": 37,
+    "return_rate": 0.475,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00079",
+    "display_name": "Veronica Osborne",
+    "city": "Lake Juliefurt",
+    "tier": "standard",
+    "joined_on": "2023-08-31",
+    "lifetime_orders": 19,
+    "return_rate": 0.205,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00080",
+    "display_name": "Dawn Sims",
+    "city": "Port Scott",
+    "tier": "plus",
+    "joined_on": "2023-04-03",
+    "lifetime_orders": 4,
+    "return_rate": 0.222,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00081",
+    "display_name": "Damon Soto",
+    "city": "Moorebury",
+    "tier": "standard",
+    "joined_on": "2023-02-28",
+    "lifetime_orders": 129,
+    "return_rate": 0.237,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00082",
+    "display_name": "Jessica Hernandez",
+    "city": "Davisburgh",
+    "tier": "standard",
+    "joined_on": "2024-06-08",
+    "lifetime_orders": 5,
+    "return_rate": 0.371,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00083",
+    "display_name": "Robert Thompson",
+    "city": "Hardingburgh",
+    "tier": "standard",
+    "joined_on": "2024-01-15",
+    "lifetime_orders": 25,
+    "return_rate": 0.053,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00084",
+    "display_name": "Alisha Martin",
+    "city": "Port Phillip",
+    "tier": "standard",
+    "joined_on": "2025-01-23",
+    "lifetime_orders": 123,
+    "return_rate": 0.02,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00085",
+    "display_name": "Andrea Jones",
+    "city": "South Regina",
+    "tier": "standard",
+    "joined_on": "2026-05-28",
+    "lifetime_orders": 37,
+    "return_rate": 0.011,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00086",
+    "display_name": "Ariel Rose",
+    "city": "New Coryfurt",
+    "tier": "standard",
+    "joined_on": "2023-09-17",
+    "lifetime_orders": 53,
+    "return_rate": 0.467,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00087",
+    "display_name": "Ronald Hines",
+    "city": "East Johnland",
+    "tier": "standard",
+    "joined_on": "2022-09-30",
+    "lifetime_orders": 72,
+    "return_rate": 0.021,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00088",
+    "display_name": "Todd Greene",
+    "city": "Port Danielmouth",
+    "tier": "standard",
+    "joined_on": "2022-09-11",
+    "lifetime_orders": 48,
+    "return_rate": 0.366,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00089",
+    "display_name": "Angela Taylor",
+    "city": "Ochoaport",
+    "tier": "standard",
+    "joined_on": "2021-10-26",
+    "lifetime_orders": 25,
+    "return_rate": 0.528,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00090",
+    "display_name": "Christopher Brown",
+    "city": "Courtneyville",
+    "tier": "plus",
+    "joined_on": "2022-03-25",
+    "lifetime_orders": 30,
+    "return_rate": 0.417,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00091",
+    "display_name": "Andrew Stephens",
+    "city": "New Oliviachester",
+    "tier": "standard",
+    "joined_on": "2023-06-28",
+    "lifetime_orders": 26,
+    "return_rate": 0.106,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00092",
+    "display_name": "Thomas Johnson",
+    "city": "Cruzstad",
+    "tier": "standard",
+    "joined_on": "2025-12-25",
+    "lifetime_orders": 97,
+    "return_rate": 0.525,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00093",
+    "display_name": "Courtney Koch",
+    "city": "Mcdanielville",
+    "tier": "standard",
+    "joined_on": "2023-08-28",
+    "lifetime_orders": 66,
+    "return_rate": 0.185,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00094",
+    "display_name": "William Walker DVM",
+    "city": "Michaelmouth",
+    "tier": "standard",
+    "joined_on": "2024-06-02",
+    "lifetime_orders": 33,
+    "return_rate": 0.119,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00095",
+    "display_name": "Thomas Gillespie",
+    "city": "New Edwardchester",
+    "tier": "standard",
+    "joined_on": "2024-02-14",
+    "lifetime_orders": 114,
+    "return_rate": 0.236,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00096",
+    "display_name": "Linda Shelton",
+    "city": "Lake Gloria",
+    "tier": "standard",
+    "joined_on": "2025-12-10",
+    "lifetime_orders": 111,
+    "return_rate": 0.236,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00097",
+    "display_name": "Donna Hutchinson",
+    "city": "Sabrinastad",
+    "tier": "plus",
+    "joined_on": "2024-08-14",
+    "lifetime_orders": 64,
+    "return_rate": 0.24,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00098",
+    "display_name": "Rita Dawson",
+    "city": "Port Aaronberg",
+    "tier": "standard",
+    "joined_on": "2023-08-25",
+    "lifetime_orders": 71,
+    "return_rate": 0.364,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00099",
+    "display_name": "Bridget Hernandez",
+    "city": "Griffithfort",
+    "tier": "standard",
+    "joined_on": "2023-02-04",
+    "lifetime_orders": 121,
+    "return_rate": 0.457,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00100",
+    "display_name": "Ashley Simmons",
+    "city": "Duanemouth",
+    "tier": "plus",
+    "joined_on": "2022-05-15",
+    "lifetime_orders": 86,
+    "return_rate": 0.379,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00101",
+    "display_name": "Catherine Cruz MD",
+    "city": "Olsonchester",
+    "tier": "premium",
+    "joined_on": "2025-01-09",
+    "lifetime_orders": 95,
+    "return_rate": 0.448,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00102",
+    "display_name": "Mallory Taylor",
+    "city": "South Robert",
+    "tier": "standard",
+    "joined_on": "2025-09-26",
+    "lifetime_orders": 100,
+    "return_rate": 0.528,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00103",
+    "display_name": "Joseph Patel PhD",
+    "city": "Millerchester",
+    "tier": "standard",
+    "joined_on": "2025-12-06",
+    "lifetime_orders": 16,
+    "return_rate": 0.341,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00104",
+    "display_name": "Paula Shepherd",
+    "city": "Lake Christopher",
+    "tier": "standard",
+    "joined_on": "2023-11-08",
+    "lifetime_orders": 122,
+    "return_rate": 0.431,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00105",
+    "display_name": "Dalton Jefferson",
+    "city": "Angelaberg",
+    "tier": "standard",
+    "joined_on": "2024-09-27",
+    "lifetime_orders": 41,
+    "return_rate": 0.159,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00106",
+    "display_name": "Amy Bailey",
+    "city": "West Steven",
+    "tier": "premium",
+    "joined_on": "2023-11-21",
+    "lifetime_orders": 101,
+    "return_rate": 0.239,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00107",
+    "display_name": "Kristen Velazquez",
+    "city": "Sanchezbury",
+    "tier": "standard",
+    "joined_on": "2023-05-11",
+    "lifetime_orders": 105,
+    "return_rate": 0.07,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00108",
+    "display_name": "Chad Hayden",
+    "city": "South Jessica",
+    "tier": "plus",
+    "joined_on": "2026-04-11",
+    "lifetime_orders": 87,
+    "return_rate": 0.411,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00109",
+    "display_name": "Jessica Brown",
+    "city": "Lake Bonniefort",
+    "tier": "standard",
+    "joined_on": "2024-11-20",
+    "lifetime_orders": 127,
+    "return_rate": 0.508,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00110",
+    "display_name": "Sheila Johnson",
+    "city": "Donaldbury",
+    "tier": "standard",
+    "joined_on": "2025-08-16",
+    "lifetime_orders": 21,
+    "return_rate": 0.086,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00111",
+    "display_name": "Keith Cervantes",
+    "city": "Port Ian",
+    "tier": "standard",
+    "joined_on": "2025-02-22",
+    "lifetime_orders": 51,
+    "return_rate": 0.41,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00112",
+    "display_name": "Nicole Hale",
+    "city": "Theodoremouth",
+    "tier": "standard",
+    "joined_on": "2023-11-23",
+    "lifetime_orders": 55,
+    "return_rate": 0.517,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00113",
+    "display_name": "Matthew Smith",
+    "city": "East Brianton",
+    "tier": "standard",
+    "joined_on": "2025-11-03",
+    "lifetime_orders": 110,
+    "return_rate": 0.135,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00114",
+    "display_name": "Carrie Martin",
+    "city": "Wallmouth",
+    "tier": "standard",
+    "joined_on": "2022-06-13",
+    "lifetime_orders": 101,
+    "return_rate": 0.402,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00115",
+    "display_name": "Sandra Ellison",
+    "city": "Jennachester",
+    "tier": "standard",
+    "joined_on": "2023-08-06",
+    "lifetime_orders": 140,
+    "return_rate": 0.433,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00116",
+    "display_name": "Denise Davis",
+    "city": "Spenceberg",
+    "tier": "standard",
+    "joined_on": "2023-07-01",
+    "lifetime_orders": 129,
+    "return_rate": 0.046,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00117",
+    "display_name": "Jennifer Brown",
+    "city": "Whiteside",
+    "tier": "plus",
+    "joined_on": "2023-04-05",
+    "lifetime_orders": 119,
+    "return_rate": 0.049,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00118",
+    "display_name": "Angela Schwartz",
+    "city": "Edwardsfurt",
+    "tier": "standard",
+    "joined_on": "2023-05-11",
+    "lifetime_orders": 122,
+    "return_rate": 0.072,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00119",
+    "display_name": "Carmen Pratt",
+    "city": "Leeville",
+    "tier": "standard",
+    "joined_on": "2021-08-15",
+    "lifetime_orders": 25,
+    "return_rate": 0.151,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00120",
+    "display_name": "Jack Maxwell",
+    "city": "Anthonyport",
+    "tier": "plus",
+    "joined_on": "2026-04-19",
+    "lifetime_orders": 5,
+    "return_rate": 0.306,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00121",
+    "display_name": "Brian Lewis",
+    "city": "Port Reneeborough",
+    "tier": "plus",
+    "joined_on": "2026-06-20",
+    "lifetime_orders": 54,
+    "return_rate": 0.065,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00122",
+    "display_name": "Margaret Johnson",
+    "city": "Christophershire",
+    "tier": "premium",
+    "joined_on": "2024-12-21",
+    "lifetime_orders": 51,
+    "return_rate": 0.326,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00123",
+    "display_name": "Kristy Tyler",
+    "city": "North Leonardport",
+    "tier": "plus",
+    "joined_on": "2024-12-17",
+    "lifetime_orders": 48,
+    "return_rate": 0.178,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00124",
+    "display_name": "Howard Campbell",
+    "city": "Portermouth",
+    "tier": "standard",
+    "joined_on": "2022-12-26",
+    "lifetime_orders": 100,
+    "return_rate": 0.463,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00125",
+    "display_name": "Molly Dickson",
+    "city": "West Richardhaven",
+    "tier": "plus",
+    "joined_on": "2023-05-01",
+    "lifetime_orders": 49,
+    "return_rate": 0.329,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00126",
+    "display_name": "Robert Hernandez",
+    "city": "Woodston",
+    "tier": "plus",
+    "joined_on": "2024-02-22",
+    "lifetime_orders": 3,
+    "return_rate": 0.118,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00127",
+    "display_name": "Christian Ford",
+    "city": "Lake Jesseborough",
+    "tier": "standard",
+    "joined_on": "2022-04-07",
+    "lifetime_orders": 29,
+    "return_rate": 0.1,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00128",
+    "display_name": "Martha Mack",
+    "city": "New Zachary",
+    "tier": "plus",
+    "joined_on": "2024-01-26",
+    "lifetime_orders": 118,
+    "return_rate": 0.049,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00129",
+    "display_name": "Marisa Conrad",
+    "city": "Sethberg",
+    "tier": "premium",
+    "joined_on": "2021-10-20",
+    "lifetime_orders": 106,
+    "return_rate": 0.375,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00130",
+    "display_name": "Isaac Chase",
+    "city": "Williamsfurt",
+    "tier": "standard",
+    "joined_on": "2023-06-18",
+    "lifetime_orders": 29,
+    "return_rate": 0.018,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00131",
+    "display_name": "Zachary Lawson",
+    "city": "New Courtney",
+    "tier": "standard",
+    "joined_on": "2024-07-24",
+    "lifetime_orders": 8,
+    "return_rate": 0.062,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00132",
+    "display_name": "Robert Thomas PhD",
+    "city": "South Clintonmouth",
+    "tier": "standard",
+    "joined_on": "2023-11-25",
+    "lifetime_orders": 9,
+    "return_rate": 0.419,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00133",
+    "display_name": "Edward Jones",
+    "city": "Michaelland",
+    "tier": "standard",
+    "joined_on": "2023-11-25",
+    "lifetime_orders": 70,
+    "return_rate": 0.118,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00134",
+    "display_name": "Raymond Scott",
+    "city": "Goodmouth",
+    "tier": "standard",
+    "joined_on": "2025-09-07",
+    "lifetime_orders": 53,
+    "return_rate": 0.526,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00135",
+    "display_name": "Brenda Martinez",
+    "city": "Williamsport",
+    "tier": "plus",
+    "joined_on": "2023-12-24",
+    "lifetime_orders": 12,
+    "return_rate": 0.454,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00136",
+    "display_name": "Scott Stark",
+    "city": "South Michael",
+    "tier": "standard",
+    "joined_on": "2022-05-04",
+    "lifetime_orders": 16,
+    "return_rate": 0.525,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00137",
+    "display_name": "Tiffany Brooks",
+    "city": "Hunterview",
+    "tier": "standard",
+    "joined_on": "2023-06-06",
+    "lifetime_orders": 10,
+    "return_rate": 0.041,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00138",
+    "display_name": "Wendy Williams",
+    "city": "Lake Krystalside",
+    "tier": "standard",
+    "joined_on": "2022-06-20",
+    "lifetime_orders": 103,
+    "return_rate": 0.006,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00139",
+    "display_name": "Samuel Roberts",
+    "city": "New Reginald",
+    "tier": "standard",
+    "joined_on": "2022-04-17",
+    "lifetime_orders": 7,
+    "return_rate": 0.026,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00140",
+    "display_name": "James Ford",
+    "city": "West Stevenside",
+    "tier": "plus",
+    "joined_on": "2022-12-17",
+    "lifetime_orders": 10,
+    "return_rate": 0.083,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00141",
+    "display_name": "Julie Miller",
+    "city": "South Kaylaborough",
+    "tier": "plus",
+    "joined_on": "2025-02-17",
+    "lifetime_orders": 31,
+    "return_rate": 0.222,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00142",
+    "display_name": "Austin Peterson",
+    "city": "Lewisfort",
+    "tier": "standard",
+    "joined_on": "2022-03-15",
+    "lifetime_orders": 11,
+    "return_rate": 0.136,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00143",
+    "display_name": "Jesse Gardner",
+    "city": "Thomasborough",
+    "tier": "premium",
+    "joined_on": "2023-04-17",
+    "lifetime_orders": 67,
+    "return_rate": 0.276,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00144",
+    "display_name": "Andre Burke",
+    "city": "Brownstad",
+    "tier": "standard",
+    "joined_on": "2026-04-18",
+    "lifetime_orders": 67,
+    "return_rate": 0.488,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00145",
+    "display_name": "Veronica Lewis",
+    "city": "Port Andrew",
+    "tier": "standard",
+    "joined_on": "2023-04-07",
+    "lifetime_orders": 20,
+    "return_rate": 0.234,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00146",
+    "display_name": "Jenny King",
+    "city": "North Donald",
+    "tier": "standard",
+    "joined_on": "2022-05-28",
+    "lifetime_orders": 125,
+    "return_rate": 0.461,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00147",
+    "display_name": "Brad Russo",
+    "city": "Savagehaven",
+    "tier": "standard",
+    "joined_on": "2026-03-18",
+    "lifetime_orders": 98,
+    "return_rate": 0.032,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00148",
+    "display_name": "Steven White",
+    "city": "North Pattychester",
+    "tier": "standard",
+    "joined_on": "2022-04-27",
+    "lifetime_orders": 127,
+    "return_rate": 0.064,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00149",
+    "display_name": "Paul Martin",
+    "city": "Sherifort",
+    "tier": "plus",
+    "joined_on": "2022-06-02",
+    "lifetime_orders": 80,
+    "return_rate": 0.509,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00150",
+    "display_name": "Michael Martin",
+    "city": "Gomezshire",
+    "tier": "premium",
+    "joined_on": "2024-03-02",
+    "lifetime_orders": 119,
+    "return_rate": 0.368,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00151",
+    "display_name": "Adam Logan",
+    "city": "North Jennifer",
+    "tier": "premium",
+    "joined_on": "2026-01-06",
+    "lifetime_orders": 23,
+    "return_rate": 0.159,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00152",
+    "display_name": "Brianna Beck",
+    "city": "Alexismouth",
+    "tier": "plus",
+    "joined_on": "2025-06-29",
+    "lifetime_orders": 77,
+    "return_rate": 0.174,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00153",
+    "display_name": "Kathryn Stewart",
+    "city": "Bakertown",
+    "tier": "premium",
+    "joined_on": "2022-03-23",
+    "lifetime_orders": 55,
+    "return_rate": 0.533,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00154",
+    "display_name": "Terri Mathews DDS",
+    "city": "North Jefferyborough",
+    "tier": "standard",
+    "joined_on": "2025-10-05",
+    "lifetime_orders": 98,
+    "return_rate": 0.162,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00155",
+    "display_name": "Joshua Martin",
+    "city": "Robinsonborough",
+    "tier": "standard",
+    "joined_on": "2023-08-14",
+    "lifetime_orders": 21,
+    "return_rate": 0.021,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00156",
+    "display_name": "Valerie Ray",
+    "city": "West Lisatown",
+    "tier": "standard",
+    "joined_on": "2022-07-13",
+    "lifetime_orders": 98,
+    "return_rate": 0.067,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00157",
+    "display_name": "Eric Fuentes",
+    "city": "Lake Victormouth",
+    "tier": "standard",
+    "joined_on": "2023-09-16",
+    "lifetime_orders": 39,
+    "return_rate": 0.065,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00158",
+    "display_name": "Guy Clayton",
+    "city": "Millsmouth",
+    "tier": "standard",
+    "joined_on": "2023-08-10",
+    "lifetime_orders": 22,
+    "return_rate": 0.506,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00159",
+    "display_name": "Christopher Patterson",
+    "city": "New Brooke",
+    "tier": "standard",
+    "joined_on": "2025-04-09",
+    "lifetime_orders": 48,
+    "return_rate": 0.214,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00160",
+    "display_name": "Jane Bruce",
+    "city": "Waltersville",
+    "tier": "standard",
+    "joined_on": "2024-07-07",
+    "lifetime_orders": 87,
+    "return_rate": 0.092,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00161",
+    "display_name": "Renee Garcia DDS",
+    "city": "Garciaside",
+    "tier": "plus",
+    "joined_on": "2025-10-24",
+    "lifetime_orders": 80,
+    "return_rate": 0.491,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00162",
+    "display_name": "Jeremy Perkins",
+    "city": "Lake Kellychester",
+    "tier": "standard",
+    "joined_on": "2023-12-29",
+    "lifetime_orders": 125,
+    "return_rate": 0.396,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00163",
+    "display_name": "Ricardo Arnold",
+    "city": "East Melissaville",
+    "tier": "plus",
+    "joined_on": "2026-03-15",
+    "lifetime_orders": 71,
+    "return_rate": 0.286,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00164",
+    "display_name": "Riley Marshall",
+    "city": "Smithstad",
+    "tier": "standard",
+    "joined_on": "2024-11-27",
+    "lifetime_orders": 73,
+    "return_rate": 0.279,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00165",
+    "display_name": "Katie Adams",
+    "city": "Kylechester",
+    "tier": "standard",
+    "joined_on": "2022-01-30",
+    "lifetime_orders": 8,
+    "return_rate": 0.203,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00166",
+    "display_name": "April Stout",
+    "city": "North Anthonystad",
+    "tier": "standard",
+    "joined_on": "2024-06-25",
+    "lifetime_orders": 111,
+    "return_rate": 0.248,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00167",
+    "display_name": "Kelly Figueroa",
+    "city": "Matthewshire",
+    "tier": "plus",
+    "joined_on": "2023-05-11",
+    "lifetime_orders": 94,
+    "return_rate": 0.2,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00168",
+    "display_name": "Dana Beltran MD",
+    "city": "Pooleshire",
+    "tier": "plus",
+    "joined_on": "2023-02-25",
+    "lifetime_orders": 115,
+    "return_rate": 0.351,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00169",
+    "display_name": "Todd Myers",
+    "city": "South Rebecca",
+    "tier": "standard",
+    "joined_on": "2025-01-09",
+    "lifetime_orders": 35,
+    "return_rate": 0.418,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00170",
+    "display_name": "Jessica Garcia",
+    "city": "New David",
+    "tier": "standard",
+    "joined_on": "2023-10-16",
+    "lifetime_orders": 98,
+    "return_rate": 0.481,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00171",
+    "display_name": "Jenna Gill",
+    "city": "Maryburgh",
+    "tier": "standard",
+    "joined_on": "2022-04-17",
+    "lifetime_orders": 76,
+    "return_rate": 0.472,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00172",
+    "display_name": "Christina Davis",
+    "city": "Smithshire",
+    "tier": "standard",
+    "joined_on": "2023-06-24",
+    "lifetime_orders": 2,
+    "return_rate": 0.543,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00173",
+    "display_name": "Luke Stephens",
+    "city": "New Patrickberg",
+    "tier": "standard",
+    "joined_on": "2025-03-02",
+    "lifetime_orders": 47,
+    "return_rate": 0.143,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00174",
+    "display_name": "Miss Paula Lopez",
+    "city": "West James",
+    "tier": "standard",
+    "joined_on": "2022-06-17",
+    "lifetime_orders": 2,
+    "return_rate": 0.002,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00175",
+    "display_name": "Molly Roman",
+    "city": "Townsendton",
+    "tier": "plus",
+    "joined_on": "2025-01-24",
+    "lifetime_orders": 139,
+    "return_rate": 0.33,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00176",
+    "display_name": "Timothy Burton",
+    "city": "North Stephenville",
+    "tier": "premium",
+    "joined_on": "2022-06-09",
+    "lifetime_orders": 125,
+    "return_rate": 0.075,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00177",
+    "display_name": "Douglas Kline",
+    "city": "North Troystad",
+    "tier": "standard",
+    "joined_on": "2023-01-07",
+    "lifetime_orders": 50,
+    "return_rate": 0.276,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00178",
+    "display_name": "Christine Garcia",
+    "city": "South Charlesland",
+    "tier": "standard",
+    "joined_on": "2022-12-16",
+    "lifetime_orders": 36,
+    "return_rate": 0.126,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00179",
+    "display_name": "Jason Preston",
+    "city": "Stokesburgh",
+    "tier": "standard",
+    "joined_on": "2026-04-26",
+    "lifetime_orders": 40,
+    "return_rate": 0.156,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00180",
+    "display_name": "Steven Keller",
+    "city": "North Theresastad",
+    "tier": "standard",
+    "joined_on": "2022-11-28",
+    "lifetime_orders": 135,
+    "return_rate": 0.106,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00181",
+    "display_name": "Mr. Joshua Moore",
+    "city": "Saraborough",
+    "tier": "standard",
+    "joined_on": "2024-02-11",
+    "lifetime_orders": 9,
+    "return_rate": 0.001,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00182",
+    "display_name": "Kimberly Holmes",
+    "city": "East Michelle",
+    "tier": "plus",
+    "joined_on": "2026-04-20",
+    "lifetime_orders": 69,
+    "return_rate": 0.249,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00183",
+    "display_name": "Daniel Murphy",
+    "city": "North Jessica",
+    "tier": "standard",
+    "joined_on": "2022-06-14",
+    "lifetime_orders": 30,
+    "return_rate": 0.515,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00184",
+    "display_name": "Debra Olson",
+    "city": "West Jeanport",
+    "tier": "standard",
+    "joined_on": "2024-04-05",
+    "lifetime_orders": 50,
+    "return_rate": 0.175,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00185",
+    "display_name": "Robert Graham",
+    "city": "Nielsenview",
+    "tier": "standard",
+    "joined_on": "2022-10-28",
+    "lifetime_orders": 43,
+    "return_rate": 0.421,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00186",
+    "display_name": "Michael Clay",
+    "city": "Suzanneville",
+    "tier": "standard",
+    "joined_on": "2021-08-26",
+    "lifetime_orders": 112,
+    "return_rate": 0.159,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00187",
+    "display_name": "Pamela Collins",
+    "city": "Lake Tony",
+    "tier": "premium",
+    "joined_on": "2024-08-22",
+    "lifetime_orders": 126,
+    "return_rate": 0.306,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00188",
+    "display_name": "Jessica Burgess",
+    "city": "Cindyfurt",
+    "tier": "plus",
+    "joined_on": "2026-01-16",
+    "lifetime_orders": 62,
+    "return_rate": 0.016,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00189",
+    "display_name": "Keith Brooks",
+    "city": "South Garyton",
+    "tier": "standard",
+    "joined_on": "2022-03-16",
+    "lifetime_orders": 7,
+    "return_rate": 0.492,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00190",
+    "display_name": "Dawn Ortiz",
+    "city": "Raymondville",
+    "tier": "standard",
+    "joined_on": "2024-05-21",
+    "lifetime_orders": 63,
+    "return_rate": 0.166,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00191",
+    "display_name": "Frank Gibbs",
+    "city": "Johnborough",
+    "tier": "plus",
+    "joined_on": "2022-08-29",
+    "lifetime_orders": 131,
+    "return_rate": 0.419,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00192",
+    "display_name": "Jacqueline Chan",
+    "city": "North Lucastown",
+    "tier": "standard",
+    "joined_on": "2024-01-13",
+    "lifetime_orders": 121,
+    "return_rate": 0.306,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00193",
+    "display_name": "Cindy Bradley",
+    "city": "Rachelside",
+    "tier": "standard",
+    "joined_on": "2022-09-06",
+    "lifetime_orders": 10,
+    "return_rate": 0.096,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00194",
+    "display_name": "Drew Lewis",
+    "city": "North Ann",
+    "tier": "standard",
+    "joined_on": "2023-06-27",
+    "lifetime_orders": 6,
+    "return_rate": 0.212,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00195",
+    "display_name": "Theresa Aguirre",
+    "city": "New Patriciachester",
+    "tier": "standard",
+    "joined_on": "2026-05-05",
+    "lifetime_orders": 7,
+    "return_rate": 0.371,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00196",
+    "display_name": "Jessica Li",
+    "city": "East Brandon",
+    "tier": "standard",
+    "joined_on": "2022-07-26",
+    "lifetime_orders": 38,
+    "return_rate": 0.054,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00197",
+    "display_name": "Anthony Hill Jr.",
+    "city": "Jacksonmouth",
+    "tier": "standard",
+    "joined_on": "2025-05-14",
+    "lifetime_orders": 65,
+    "return_rate": 0.512,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00198",
+    "display_name": "Cynthia Smith",
+    "city": "Lake Kristashire",
+    "tier": "plus",
+    "joined_on": "2025-01-03",
+    "lifetime_orders": 4,
+    "return_rate": 0.175,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00199",
+    "display_name": "Susan Mitchell DVM",
+    "city": "Johnsonside",
+    "tier": "standard",
+    "joined_on": "2024-07-07",
+    "lifetime_orders": 127,
+    "return_rate": 0.431,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00200",
+    "display_name": "Amanda Newman",
+    "city": "South Codychester",
+    "tier": "standard",
+    "joined_on": "2021-10-06",
+    "lifetime_orders": 140,
+    "return_rate": 0.418,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00201",
+    "display_name": "Denise Molina",
+    "city": "Millermouth",
+    "tier": "plus",
+    "joined_on": "2021-08-04",
+    "lifetime_orders": 108,
+    "return_rate": 0.332,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00202",
+    "display_name": "Anthony Evans DVM",
+    "city": "Allisonville",
+    "tier": "standard",
+    "joined_on": "2024-02-14",
+    "lifetime_orders": 92,
+    "return_rate": 0.492,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00203",
+    "display_name": "Teresa Garcia",
+    "city": "North Margaret",
+    "tier": "plus",
+    "joined_on": "2025-03-27",
+    "lifetime_orders": 4,
+    "return_rate": 0.207,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00204",
+    "display_name": "Wyatt Callahan",
+    "city": "Perezland",
+    "tier": "standard",
+    "joined_on": "2025-02-28",
+    "lifetime_orders": 118,
+    "return_rate": 0.132,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00205",
+    "display_name": "Steven Wood",
+    "city": "Lake Mirandaview",
+    "tier": "standard",
+    "joined_on": "2025-05-12",
+    "lifetime_orders": 12,
+    "return_rate": 0.046,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00206",
+    "display_name": "Amanda Williams",
+    "city": "Charlesmouth",
+    "tier": "standard",
+    "joined_on": "2022-05-19",
+    "lifetime_orders": 58,
+    "return_rate": 0.23,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00207",
+    "display_name": "Rebecca Gray",
+    "city": "East Brandy",
+    "tier": "standard",
+    "joined_on": "2026-04-12",
+    "lifetime_orders": 15,
+    "return_rate": 0.077,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00208",
+    "display_name": "Francisco Hernandez",
+    "city": "Walshville",
+    "tier": "standard",
+    "joined_on": "2023-12-21",
+    "lifetime_orders": 50,
+    "return_rate": 0.263,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00209",
+    "display_name": "Cynthia Woods",
+    "city": "Braymouth",
+    "tier": "standard",
+    "joined_on": "2024-12-20",
+    "lifetime_orders": 76,
+    "return_rate": 0.148,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00210",
+    "display_name": "Karen Davis",
+    "city": "Jenniferstad",
+    "tier": "plus",
+    "joined_on": "2023-02-13",
+    "lifetime_orders": 83,
+    "return_rate": 0.441,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00211",
+    "display_name": "Shelley Keller",
+    "city": "Lake Christian",
+    "tier": "standard",
+    "joined_on": "2023-02-25",
+    "lifetime_orders": 62,
+    "return_rate": 0.409,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00212",
+    "display_name": "Amy Smith",
+    "city": "South Lori",
+    "tier": "standard",
+    "joined_on": "2024-02-25",
+    "lifetime_orders": 132,
+    "return_rate": 0.003,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00213",
+    "display_name": "Brian Clark",
+    "city": "Kathleenport",
+    "tier": "standard",
+    "joined_on": "2022-08-28",
+    "lifetime_orders": 79,
+    "return_rate": 0.061,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00214",
+    "display_name": "Mary Abbott",
+    "city": "East Jefferystad",
+    "tier": "standard",
+    "joined_on": "2024-12-21",
+    "lifetime_orders": 28,
+    "return_rate": 0.18,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00215",
+    "display_name": "Jesse Oliver",
+    "city": "Port Ricardo",
+    "tier": "standard",
+    "joined_on": "2021-10-30",
+    "lifetime_orders": 99,
+    "return_rate": 0.096,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00216",
+    "display_name": "Jay Parks",
+    "city": "East Stevenville",
+    "tier": "plus",
+    "joined_on": "2021-09-17",
+    "lifetime_orders": 42,
+    "return_rate": 0.153,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00217",
+    "display_name": "Cynthia Shannon",
+    "city": "West Anthony",
+    "tier": "standard",
+    "joined_on": "2023-05-25",
+    "lifetime_orders": 57,
+    "return_rate": 0.361,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00218",
+    "display_name": "Jodi Baker",
+    "city": "West Ryanberg",
+    "tier": "standard",
+    "joined_on": "2024-01-23",
+    "lifetime_orders": 92,
+    "return_rate": 0.1,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00219",
+    "display_name": "Jeffrey Cook",
+    "city": "Nelsonville",
+    "tier": "standard",
+    "joined_on": "2026-02-28",
+    "lifetime_orders": 36,
+    "return_rate": 0.289,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00220",
+    "display_name": "James Reilly",
+    "city": "West Jaime",
+    "tier": "standard",
+    "joined_on": "2022-10-10",
+    "lifetime_orders": 112,
+    "return_rate": 0.216,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00221",
+    "display_name": "Donald Lawson",
+    "city": "Rodriguezton",
+    "tier": "standard",
+    "joined_on": "2022-05-11",
+    "lifetime_orders": 114,
+    "return_rate": 0.087,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00222",
+    "display_name": "Tina Robinson",
+    "city": "North Barbarabury",
+    "tier": "premium",
+    "joined_on": "2022-10-07",
+    "lifetime_orders": 34,
+    "return_rate": 0.015,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00223",
+    "display_name": "Brian Perez",
+    "city": "Myersville",
+    "tier": "standard",
+    "joined_on": "2023-02-02",
+    "lifetime_orders": 31,
+    "return_rate": 0.198,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00224",
+    "display_name": "Roger Holt",
+    "city": "Harrisborough",
+    "tier": "standard",
+    "joined_on": "2025-01-15",
+    "lifetime_orders": 98,
+    "return_rate": 0.332,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00225",
+    "display_name": "Dwayne Carlson",
+    "city": "North Jacksonfort",
+    "tier": "premium",
+    "joined_on": "2021-08-17",
+    "lifetime_orders": 102,
+    "return_rate": 0.122,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00226",
+    "display_name": "Sarah Watts",
+    "city": "West Erin",
+    "tier": "standard",
+    "joined_on": "2021-11-12",
+    "lifetime_orders": 56,
+    "return_rate": 0.067,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00227",
+    "display_name": "Gary Gibson",
+    "city": "Lake Thomasmouth",
+    "tier": "standard",
+    "joined_on": "2021-12-20",
+    "lifetime_orders": 78,
+    "return_rate": 0.292,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00228",
+    "display_name": "William Ibarra",
+    "city": "Lake Kathleen",
+    "tier": "standard",
+    "joined_on": "2023-02-27",
+    "lifetime_orders": 39,
+    "return_rate": 0.025,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00229",
+    "display_name": "Harold Wells",
+    "city": "South Morganfort",
+    "tier": "standard",
+    "joined_on": "2022-06-28",
+    "lifetime_orders": 62,
+    "return_rate": 0.354,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00230",
+    "display_name": "Robert Bradley",
+    "city": "Maryhaven",
+    "tier": "standard",
+    "joined_on": "2025-09-30",
+    "lifetime_orders": 125,
+    "return_rate": 0.047,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00231",
+    "display_name": "Nicole Rowe",
+    "city": "West Lindamouth",
+    "tier": "standard",
+    "joined_on": "2021-10-08",
+    "lifetime_orders": 48,
+    "return_rate": 0.39,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00232",
+    "display_name": "Nicholas Fritz",
+    "city": "Elizabethview",
+    "tier": "standard",
+    "joined_on": "2024-10-15",
+    "lifetime_orders": 38,
+    "return_rate": 0.101,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00233",
+    "display_name": "Adam Gomez",
+    "city": "Patriciafort",
+    "tier": "plus",
+    "joined_on": "2023-12-22",
+    "lifetime_orders": 127,
+    "return_rate": 0.035,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00234",
+    "display_name": "Michael Chandler",
+    "city": "East Tiffanybury",
+    "tier": "standard",
+    "joined_on": "2024-03-19",
+    "lifetime_orders": 1,
+    "return_rate": 0.4,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00235",
+    "display_name": "Brenda Jimenez",
+    "city": "New Joyce",
+    "tier": "standard",
+    "joined_on": "2022-10-19",
+    "lifetime_orders": 59,
+    "return_rate": 0.0,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00236",
+    "display_name": "Heather Garner",
+    "city": "South Danielle",
+    "tier": "standard",
+    "joined_on": "2023-06-08",
+    "lifetime_orders": 35,
+    "return_rate": 0.409,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00237",
+    "display_name": "Sherry Shelton",
+    "city": "Archerhaven",
+    "tier": "standard",
+    "joined_on": "2025-07-28",
+    "lifetime_orders": 120,
+    "return_rate": 0.504,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00238",
+    "display_name": "Thomas Bailey",
+    "city": "Peterchester",
+    "tier": "standard",
+    "joined_on": "2024-05-28",
+    "lifetime_orders": 97,
+    "return_rate": 0.159,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00239",
+    "display_name": "Desiree Lee",
+    "city": "Maryville",
+    "tier": "plus",
+    "joined_on": "2025-05-12",
+    "lifetime_orders": 4,
+    "return_rate": 0.43,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00240",
+    "display_name": "Jesse Donaldson",
+    "city": "Keithtown",
+    "tier": "standard",
+    "joined_on": "2024-08-02",
+    "lifetime_orders": 51,
+    "return_rate": 0.373,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00241",
+    "display_name": "Mr. John Hernandez DVM",
+    "city": "West Tommy",
+    "tier": "standard",
+    "joined_on": "2022-04-08",
+    "lifetime_orders": 116,
+    "return_rate": 0.536,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00242",
+    "display_name": "Edward Chavez",
+    "city": "West Margaret",
+    "tier": "standard",
+    "joined_on": "2025-03-24",
+    "lifetime_orders": 88,
+    "return_rate": 0.032,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00243",
+    "display_name": "John Smith",
+    "city": "Donnatown",
+    "tier": "standard",
+    "joined_on": "2025-02-21",
+    "lifetime_orders": 18,
+    "return_rate": 0.069,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00244",
+    "display_name": "Chad Koch",
+    "city": "North Jennifer",
+    "tier": "standard",
+    "joined_on": "2022-04-28",
+    "lifetime_orders": 83,
+    "return_rate": 0.262,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00245",
+    "display_name": "Nicholas Reynolds",
+    "city": "West Jefferyfort",
+    "tier": "standard",
+    "joined_on": "2022-02-04",
+    "lifetime_orders": 40,
+    "return_rate": 0.073,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00246",
+    "display_name": "Danielle Gregory",
+    "city": "Hendersonville",
+    "tier": "standard",
+    "joined_on": "2025-08-27",
+    "lifetime_orders": 114,
+    "return_rate": 0.013,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00247",
+    "display_name": "Tami Harper",
+    "city": "New Ryan",
+    "tier": "standard",
+    "joined_on": "2025-03-22",
+    "lifetime_orders": 53,
+    "return_rate": 0.184,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00248",
+    "display_name": "Regina Taylor",
+    "city": "West Derek",
+    "tier": "standard",
+    "joined_on": "2025-09-21",
+    "lifetime_orders": 32,
+    "return_rate": 0.297,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00249",
+    "display_name": "Elizabeth Miller",
+    "city": "Gardnerfurt",
+    "tier": "standard",
+    "joined_on": "2022-10-05",
+    "lifetime_orders": 97,
+    "return_rate": 0.45,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00250",
+    "display_name": "Sandra Davis",
+    "city": "Bensonhaven",
+    "tier": "standard",
+    "joined_on": "2025-12-12",
+    "lifetime_orders": 95,
+    "return_rate": 0.228,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00251",
+    "display_name": "Michelle Mcdonald",
+    "city": "Owenschester",
+    "tier": "standard",
+    "joined_on": "2024-01-08",
+    "lifetime_orders": 39,
+    "return_rate": 0.333,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00252",
+    "display_name": "Thomas Johnson",
+    "city": "Davisberg",
+    "tier": "standard",
+    "joined_on": "2023-09-02",
+    "lifetime_orders": 117,
+    "return_rate": 0.457,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00253",
+    "display_name": "Elizabeth Sanchez",
+    "city": "Davidside",
+    "tier": "standard",
+    "joined_on": "2026-02-28",
+    "lifetime_orders": 39,
+    "return_rate": 0.481,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00254",
+    "display_name": "Sherry Brown",
+    "city": "Martineztown",
+    "tier": "standard",
+    "joined_on": "2022-10-21",
+    "lifetime_orders": 67,
+    "return_rate": 0.241,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00255",
+    "display_name": "Phillip Holmes",
+    "city": "North Brianville",
+    "tier": "standard",
+    "joined_on": "2024-10-26",
+    "lifetime_orders": 98,
+    "return_rate": 0.337,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00256",
+    "display_name": "Brent Roberts",
+    "city": "Vaughnton",
+    "tier": "standard",
+    "joined_on": "2026-02-20",
+    "lifetime_orders": 67,
+    "return_rate": 0.057,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00257",
+    "display_name": "Kevin Dixon",
+    "city": "Lake Jamieberg",
+    "tier": "standard",
+    "joined_on": "2025-10-24",
+    "lifetime_orders": 106,
+    "return_rate": 0.188,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00258",
+    "display_name": "Tracy Taylor",
+    "city": "West Courtney",
+    "tier": "premium",
+    "joined_on": "2023-05-17",
+    "lifetime_orders": 135,
+    "return_rate": 0.077,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00259",
+    "display_name": "Taylor Shaffer",
+    "city": "North Carlos",
+    "tier": "plus",
+    "joined_on": "2021-11-04",
+    "lifetime_orders": 100,
+    "return_rate": 0.442,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00260",
+    "display_name": "Spencer Meyer",
+    "city": "East Dale",
+    "tier": "standard",
+    "joined_on": "2024-01-29",
+    "lifetime_orders": 48,
+    "return_rate": 0.237,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00261",
+    "display_name": "Jonathan Myers",
+    "city": "West Richardburgh",
+    "tier": "plus",
+    "joined_on": "2024-09-21",
+    "lifetime_orders": 17,
+    "return_rate": 0.443,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00262",
+    "display_name": "Sarah Payne",
+    "city": "Villarrealville",
+    "tier": "premium",
+    "joined_on": "2024-04-09",
+    "lifetime_orders": 89,
+    "return_rate": 0.121,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00263",
+    "display_name": "Mark Lopez",
+    "city": "East William",
+    "tier": "standard",
+    "joined_on": "2024-09-10",
+    "lifetime_orders": 101,
+    "return_rate": 0.173,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00264",
+    "display_name": "Christina Castillo",
+    "city": "Elizabethshire",
+    "tier": "standard",
+    "joined_on": "2025-01-29",
+    "lifetime_orders": 67,
+    "return_rate": 0.291,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00265",
+    "display_name": "Michael Myers DDS",
+    "city": "South Robertchester",
+    "tier": "standard",
+    "joined_on": "2022-12-11",
+    "lifetime_orders": 43,
+    "return_rate": 0.153,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00266",
+    "display_name": "Drew Wilson",
+    "city": "Smithport",
+    "tier": "standard",
+    "joined_on": "2024-09-17",
+    "lifetime_orders": 31,
+    "return_rate": 0.012,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00267",
+    "display_name": "Matthew Sandoval",
+    "city": "Williamsstad",
+    "tier": "standard",
+    "joined_on": "2021-08-20",
+    "lifetime_orders": 106,
+    "return_rate": 0.318,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00268",
+    "display_name": "Julie Sharp",
+    "city": "Albertburgh",
+    "tier": "standard",
+    "joined_on": "2024-11-04",
+    "lifetime_orders": 137,
+    "return_rate": 0.511,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00269",
+    "display_name": "Scott Gordon",
+    "city": "Rachelhaven",
+    "tier": "standard",
+    "joined_on": "2022-01-17",
+    "lifetime_orders": 108,
+    "return_rate": 0.421,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00270",
+    "display_name": "Arthur Rios",
+    "city": "Dianashire",
+    "tier": "plus",
+    "joined_on": "2025-10-09",
+    "lifetime_orders": 46,
+    "return_rate": 0.329,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00271",
+    "display_name": "Mike Buchanan",
+    "city": "Kristenport",
+    "tier": "standard",
+    "joined_on": "2021-10-09",
+    "lifetime_orders": 113,
+    "return_rate": 0.321,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00272",
+    "display_name": "Andrea Franco",
+    "city": "Bennettfort",
+    "tier": "standard",
+    "joined_on": "2023-11-17",
+    "lifetime_orders": 36,
+    "return_rate": 0.04,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00273",
+    "display_name": "Catherine Erickson",
+    "city": "Davidmouth",
+    "tier": "standard",
+    "joined_on": "2024-09-28",
+    "lifetime_orders": 2,
+    "return_rate": 0.102,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00274",
+    "display_name": "Lauren Silva",
+    "city": "Jonestown",
+    "tier": "standard",
+    "joined_on": "2025-10-13",
+    "lifetime_orders": 119,
+    "return_rate": 0.303,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00275",
+    "display_name": "Caitlin Davis",
+    "city": "South Sarahfort",
+    "tier": "premium",
+    "joined_on": "2021-08-21",
+    "lifetime_orders": 74,
+    "return_rate": 0.501,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00276",
+    "display_name": "David Ingram",
+    "city": "North Rachel",
+    "tier": "plus",
+    "joined_on": "2025-07-12",
+    "lifetime_orders": 36,
+    "return_rate": 0.205,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00277",
+    "display_name": "Steven Campos",
+    "city": "Nielsenton",
+    "tier": "standard",
+    "joined_on": "2022-01-10",
+    "lifetime_orders": 118,
+    "return_rate": 0.013,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00278",
+    "display_name": "Ashley Bradford",
+    "city": "South Kathryntown",
+    "tier": "standard",
+    "joined_on": "2022-09-22",
+    "lifetime_orders": 24,
+    "return_rate": 0.161,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00279",
+    "display_name": "Erica Hale",
+    "city": "Andersonshire",
+    "tier": "plus",
+    "joined_on": "2022-10-23",
+    "lifetime_orders": 63,
+    "return_rate": 0.106,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00280",
+    "display_name": "Christina Henry",
+    "city": "Jeremiahburgh",
+    "tier": "plus",
+    "joined_on": "2022-01-23",
+    "lifetime_orders": 70,
+    "return_rate": 0.174,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00281",
+    "display_name": "Joseph Tyler",
+    "city": "New Andrewville",
+    "tier": "standard",
+    "joined_on": "2024-12-27",
+    "lifetime_orders": 114,
+    "return_rate": 0.006,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00282",
+    "display_name": "Robert Barry",
+    "city": "Kimshire",
+    "tier": "standard",
+    "joined_on": "2022-10-13",
+    "lifetime_orders": 134,
+    "return_rate": 0.234,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00283",
+    "display_name": "Andrea Lopez",
+    "city": "Leeborough",
+    "tier": "standard",
+    "joined_on": "2022-10-06",
+    "lifetime_orders": 39,
+    "return_rate": 0.015,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00284",
+    "display_name": "Kara Bell",
+    "city": "Port Carlos",
+    "tier": "standard",
+    "joined_on": "2025-12-28",
+    "lifetime_orders": 75,
+    "return_rate": 0.277,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00285",
+    "display_name": "James Jones",
+    "city": "East Kimberlyport",
+    "tier": "standard",
+    "joined_on": "2023-09-27",
+    "lifetime_orders": 140,
+    "return_rate": 0.112,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00286",
+    "display_name": "Jonathan Williams",
+    "city": "Andrewport",
+    "tier": "standard",
+    "joined_on": "2025-06-04",
+    "lifetime_orders": 98,
+    "return_rate": 0.013,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00287",
+    "display_name": "Danielle Warner",
+    "city": "Port Monicaport",
+    "tier": "standard",
+    "joined_on": "2026-03-07",
+    "lifetime_orders": 104,
+    "return_rate": 0.274,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00288",
+    "display_name": "Kenneth Castaneda",
+    "city": "Reginaldton",
+    "tier": "standard",
+    "joined_on": "2023-05-07",
+    "lifetime_orders": 98,
+    "return_rate": 0.005,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00289",
+    "display_name": "Stephanie Aguilar",
+    "city": "Deniseton",
+    "tier": "standard",
+    "joined_on": "2024-01-08",
+    "lifetime_orders": 112,
+    "return_rate": 0.482,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00290",
+    "display_name": "Dean Cook",
+    "city": "East Jamesmouth",
+    "tier": "standard",
+    "joined_on": "2024-09-26",
+    "lifetime_orders": 108,
+    "return_rate": 0.154,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00291",
+    "display_name": "Mary Johns",
+    "city": "South Charles",
+    "tier": "standard",
+    "joined_on": "2023-03-08",
+    "lifetime_orders": 38,
+    "return_rate": 0.144,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00292",
+    "display_name": "Sue Warner",
+    "city": "West Tinachester",
+    "tier": "plus",
+    "joined_on": "2026-05-20",
+    "lifetime_orders": 56,
+    "return_rate": 0.206,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00293",
+    "display_name": "Lisa Miller",
+    "city": "Pottsview",
+    "tier": "premium",
+    "joined_on": "2021-08-05",
+    "lifetime_orders": 20,
+    "return_rate": 0.06,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00294",
+    "display_name": "Ashley Crawford",
+    "city": "Lake Michael",
+    "tier": "standard",
+    "joined_on": "2025-08-17",
+    "lifetime_orders": 89,
+    "return_rate": 0.433,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00295",
+    "display_name": "Richard Walter",
+    "city": "North Sarah",
+    "tier": "standard",
+    "joined_on": "2022-02-04",
+    "lifetime_orders": 139,
+    "return_rate": 0.483,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00296",
+    "display_name": "Richard Gonzalez",
+    "city": "Flemingtown",
+    "tier": "standard",
+    "joined_on": "2025-12-02",
+    "lifetime_orders": 10,
+    "return_rate": 0.157,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00297",
+    "display_name": "Amy Cannon",
+    "city": "South Jacqueline",
+    "tier": "standard",
+    "joined_on": "2022-02-09",
+    "lifetime_orders": 70,
+    "return_rate": 0.133,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00298",
+    "display_name": "Ashley Wilson",
+    "city": "Michaelmouth",
+    "tier": "standard",
+    "joined_on": "2025-11-30",
+    "lifetime_orders": 88,
+    "return_rate": 0.042,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00299",
+    "display_name": "Anthony Hall",
+    "city": "East Robertside",
+    "tier": "standard",
+    "joined_on": "2026-01-11",
+    "lifetime_orders": 27,
+    "return_rate": 0.151,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00300",
+    "display_name": "Wendy Smith",
+    "city": "Port Brian",
+    "tier": "standard",
+    "joined_on": "2025-06-25",
+    "lifetime_orders": 82,
+    "return_rate": 0.194,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00301",
+    "display_name": "Jeffrey Campbell",
+    "city": "Michaelbury",
+    "tier": "standard",
+    "joined_on": "2021-09-08",
+    "lifetime_orders": 27,
+    "return_rate": 0.507,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00302",
+    "display_name": "Mrs. Jennifer Sandoval DDS",
+    "city": "West Shawnaborough",
+    "tier": "standard",
+    "joined_on": "2023-12-25",
+    "lifetime_orders": 115,
+    "return_rate": 0.06,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00303",
+    "display_name": "Nicholas Kelly DVM",
+    "city": "South Jennifer",
+    "tier": "standard",
+    "joined_on": "2023-10-26",
+    "lifetime_orders": 10,
+    "return_rate": 0.05,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00304",
+    "display_name": "Penny Carter",
+    "city": "New Patricia",
+    "tier": "standard",
+    "joined_on": "2025-07-09",
+    "lifetime_orders": 27,
+    "return_rate": 0.223,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00305",
+    "display_name": "Joshua Garcia",
+    "city": "Rachelfort",
+    "tier": "standard",
+    "joined_on": "2023-04-28",
+    "lifetime_orders": 124,
+    "return_rate": 0.386,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00306",
+    "display_name": "Dalton Taylor",
+    "city": "West Judy",
+    "tier": "standard",
+    "joined_on": "2025-12-22",
+    "lifetime_orders": 100,
+    "return_rate": 0.233,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00307",
+    "display_name": "Jaime Velasquez",
+    "city": "North Tiffany",
+    "tier": "premium",
+    "joined_on": "2022-07-18",
+    "lifetime_orders": 22,
+    "return_rate": 0.313,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00308",
+    "display_name": "Marie Chavez",
+    "city": "North Victorton",
+    "tier": "plus",
+    "joined_on": "2025-04-25",
+    "lifetime_orders": 92,
+    "return_rate": 0.319,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00309",
+    "display_name": "Kevin Evans",
+    "city": "North Joshuafurt",
+    "tier": "standard",
+    "joined_on": "2023-04-13",
+    "lifetime_orders": 41,
+    "return_rate": 0.228,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00310",
+    "display_name": "Scott Cruz Jr.",
+    "city": "South Jack",
+    "tier": "standard",
+    "joined_on": "2024-04-25",
+    "lifetime_orders": 8,
+    "return_rate": 0.183,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00311",
+    "display_name": "Anthony Torres",
+    "city": "Sharonmouth",
+    "tier": "standard",
+    "joined_on": "2023-03-14",
+    "lifetime_orders": 66,
+    "return_rate": 0.196,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00312",
+    "display_name": "Susan Patrick",
+    "city": "Port Anthony",
+    "tier": "standard",
+    "joined_on": "2025-03-05",
+    "lifetime_orders": 84,
+    "return_rate": 0.242,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00313",
+    "display_name": "Lisa Glenn",
+    "city": "Port Danielfurt",
+    "tier": "standard",
+    "joined_on": "2024-09-08",
+    "lifetime_orders": 62,
+    "return_rate": 0.543,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00314",
+    "display_name": "Tara Mitchell",
+    "city": "Colemanshire",
+    "tier": "standard",
+    "joined_on": "2025-12-01",
+    "lifetime_orders": 42,
+    "return_rate": 0.155,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00315",
+    "display_name": "Debbie Horne",
+    "city": "Reesebury",
+    "tier": "standard",
+    "joined_on": "2022-05-22",
+    "lifetime_orders": 120,
+    "return_rate": 0.498,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00316",
+    "display_name": "Adrian Marsh",
+    "city": "Christopherbury",
+    "tier": "standard",
+    "joined_on": "2021-12-14",
+    "lifetime_orders": 18,
+    "return_rate": 0.375,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00317",
+    "display_name": "Elizabeth Duncan",
+    "city": "New Joshuaview",
+    "tier": "standard",
+    "joined_on": "2025-03-15",
+    "lifetime_orders": 110,
+    "return_rate": 0.301,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00318",
+    "display_name": "Rachel Patrick",
+    "city": "North Kurtmouth",
+    "tier": "standard",
+    "joined_on": "2023-04-23",
+    "lifetime_orders": 2,
+    "return_rate": 0.083,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00319",
+    "display_name": "Sarah Wallace",
+    "city": "South Alanton",
+    "tier": "standard",
+    "joined_on": "2025-07-07",
+    "lifetime_orders": 46,
+    "return_rate": 0.263,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00320",
+    "display_name": "Karen Richard",
+    "city": "South Brian",
+    "tier": "standard",
+    "joined_on": "2023-06-23",
+    "lifetime_orders": 66,
+    "return_rate": 0.174,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00321",
+    "display_name": "Destiny Bishop",
+    "city": "Stephaniemouth",
+    "tier": "plus",
+    "joined_on": "2022-02-08",
+    "lifetime_orders": 43,
+    "return_rate": 0.176,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00322",
+    "display_name": "Ralph Hill",
+    "city": "Martinezburgh",
+    "tier": "standard",
+    "joined_on": "2024-02-19",
+    "lifetime_orders": 110,
+    "return_rate": 0.059,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00323",
+    "display_name": "Luke Williams",
+    "city": "Lake Benjaminhaven",
+    "tier": "plus",
+    "joined_on": "2025-07-23",
+    "lifetime_orders": 49,
+    "return_rate": 0.518,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00324",
+    "display_name": "Lauren Williams",
+    "city": "North Stephanie",
+    "tier": "plus",
+    "joined_on": "2025-08-07",
+    "lifetime_orders": 33,
+    "return_rate": 0.487,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00325",
+    "display_name": "Vanessa Smith DVM",
+    "city": "Amberton",
+    "tier": "standard",
+    "joined_on": "2023-06-28",
+    "lifetime_orders": 43,
+    "return_rate": 0.523,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00326",
+    "display_name": "Hannah Jones",
+    "city": "Wilsonland",
+    "tier": "standard",
+    "joined_on": "2022-07-28",
+    "lifetime_orders": 31,
+    "return_rate": 0.483,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00327",
+    "display_name": "Gabriel Watson",
+    "city": "Joneschester",
+    "tier": "standard",
+    "joined_on": "2022-09-04",
+    "lifetime_orders": 124,
+    "return_rate": 0.359,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00328",
+    "display_name": "Briana Nguyen",
+    "city": "Matthewchester",
+    "tier": "standard",
+    "joined_on": "2022-02-09",
+    "lifetime_orders": 3,
+    "return_rate": 0.243,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00329",
+    "display_name": "Jade Dunlap",
+    "city": "Christyburgh",
+    "tier": "standard",
+    "joined_on": "2022-10-16",
+    "lifetime_orders": 72,
+    "return_rate": 0.077,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00330",
+    "display_name": "Earl Hernandez",
+    "city": "North Chelseamouth",
+    "tier": "standard",
+    "joined_on": "2023-06-06",
+    "lifetime_orders": 14,
+    "return_rate": 0.192,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00331",
+    "display_name": "Priscilla Romero",
+    "city": "Shelbyfurt",
+    "tier": "plus",
+    "joined_on": "2025-05-22",
+    "lifetime_orders": 121,
+    "return_rate": 0.052,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00332",
+    "display_name": "Amanda Barber",
+    "city": "Farmerland",
+    "tier": "premium",
+    "joined_on": "2025-03-21",
+    "lifetime_orders": 31,
+    "return_rate": 0.373,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00333",
+    "display_name": "Tina Gay",
+    "city": "Ryanville",
+    "tier": "standard",
+    "joined_on": "2024-10-14",
+    "lifetime_orders": 94,
+    "return_rate": 0.39,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00334",
+    "display_name": "Kelsey Williams",
+    "city": "Hopkinshaven",
+    "tier": "plus",
+    "joined_on": "2025-01-04",
+    "lifetime_orders": 117,
+    "return_rate": 0.224,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00335",
+    "display_name": "Derrick Huff",
+    "city": "Rhondamouth",
+    "tier": "standard",
+    "joined_on": "2024-10-18",
+    "lifetime_orders": 135,
+    "return_rate": 0.47,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00336",
+    "display_name": "Randall Cox",
+    "city": "Edwardsville",
+    "tier": "plus",
+    "joined_on": "2021-09-21",
+    "lifetime_orders": 5,
+    "return_rate": 0.338,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00337",
+    "display_name": "Jill Rosario",
+    "city": "Coxstad",
+    "tier": "standard",
+    "joined_on": "2023-12-25",
+    "lifetime_orders": 36,
+    "return_rate": 0.543,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00338",
+    "display_name": "Angela Cox",
+    "city": "Jacobsmouth",
+    "tier": "plus",
+    "joined_on": "2023-04-04",
+    "lifetime_orders": 118,
+    "return_rate": 0.343,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00339",
+    "display_name": "Crystal Carey",
+    "city": "New John",
+    "tier": "standard",
+    "joined_on": "2022-05-03",
+    "lifetime_orders": 20,
+    "return_rate": 0.418,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00340",
+    "display_name": "Megan Wade",
+    "city": "Lauramouth",
+    "tier": "standard",
+    "joined_on": "2021-09-12",
+    "lifetime_orders": 118,
+    "return_rate": 0.012,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00341",
+    "display_name": "Brad Fisher",
+    "city": "New Troy",
+    "tier": "standard",
+    "joined_on": "2023-08-28",
+    "lifetime_orders": 108,
+    "return_rate": 0.028,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00342",
+    "display_name": "Christina White",
+    "city": "Smithville",
+    "tier": "standard",
+    "joined_on": "2022-07-23",
+    "lifetime_orders": 22,
+    "return_rate": 0.499,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00343",
+    "display_name": "Ralph Dawson",
+    "city": "Newtonberg",
+    "tier": "plus",
+    "joined_on": "2022-05-28",
+    "lifetime_orders": 12,
+    "return_rate": 0.038,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00344",
+    "display_name": "Sandra Johnson",
+    "city": "North David",
+    "tier": "plus",
+    "joined_on": "2025-02-24",
+    "lifetime_orders": 3,
+    "return_rate": 0.017,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00345",
+    "display_name": "Tamara Strong",
+    "city": "Davidside",
+    "tier": "standard",
+    "joined_on": "2026-05-09",
+    "lifetime_orders": 54,
+    "return_rate": 0.368,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00346",
+    "display_name": "Edward Rogers",
+    "city": "Brittanyville",
+    "tier": "plus",
+    "joined_on": "2025-06-18",
+    "lifetime_orders": 53,
+    "return_rate": 0.121,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00347",
+    "display_name": "Amber Rodgers MD",
+    "city": "Lozanomouth",
+    "tier": "standard",
+    "joined_on": "2023-05-07",
+    "lifetime_orders": 92,
+    "return_rate": 0.271,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00348",
+    "display_name": "Jessica Todd",
+    "city": "Lake Isaac",
+    "tier": "standard",
+    "joined_on": "2023-12-31",
+    "lifetime_orders": 104,
+    "return_rate": 0.26,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00349",
+    "display_name": "Sydney Zuniga",
+    "city": "East Paulashire",
+    "tier": "standard",
+    "joined_on": "2023-08-25",
+    "lifetime_orders": 130,
+    "return_rate": 0.508,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00350",
+    "display_name": "Megan Chavez",
+    "city": "Samuelhaven",
+    "tier": "standard",
+    "joined_on": "2023-12-31",
+    "lifetime_orders": 62,
+    "return_rate": 0.447,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00351",
+    "display_name": "Diana Mejia",
+    "city": "West Trevor",
+    "tier": "standard",
+    "joined_on": "2025-10-17",
+    "lifetime_orders": 36,
+    "return_rate": 0.45,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00352",
+    "display_name": "Joseph Fox",
+    "city": "Mitchellfurt",
+    "tier": "standard",
+    "joined_on": "2025-12-30",
+    "lifetime_orders": 37,
+    "return_rate": 0.171,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00353",
+    "display_name": "Christopher Thomas",
+    "city": "South April",
+    "tier": "standard",
+    "joined_on": "2023-01-01",
+    "lifetime_orders": 128,
+    "return_rate": 0.368,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00354",
+    "display_name": "Lisa Garcia",
+    "city": "Gabrielport",
+    "tier": "standard",
+    "joined_on": "2021-11-17",
+    "lifetime_orders": 37,
+    "return_rate": 0.011,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00355",
+    "display_name": "Jeffrey Mcclure",
+    "city": "Sheilaview",
+    "tier": "standard",
+    "joined_on": "2024-03-04",
+    "lifetime_orders": 97,
+    "return_rate": 0.434,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00356",
+    "display_name": "Nicole Middleton DDS",
+    "city": "North Jamie",
+    "tier": "standard",
+    "joined_on": "2026-05-06",
+    "lifetime_orders": 87,
+    "return_rate": 0.154,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00357",
+    "display_name": "Nicole Johnson",
+    "city": "New Amandaborough",
+    "tier": "standard",
+    "joined_on": "2022-07-24",
+    "lifetime_orders": 103,
+    "return_rate": 0.525,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00358",
+    "display_name": "Ronnie Johnson",
+    "city": "West Shelly",
+    "tier": "standard",
+    "joined_on": "2023-04-09",
+    "lifetime_orders": 61,
+    "return_rate": 0.176,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00359",
+    "display_name": "Monique Meyer",
+    "city": "Phillipsville",
+    "tier": "standard",
+    "joined_on": "2023-06-07",
+    "lifetime_orders": 98,
+    "return_rate": 0.329,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00360",
+    "display_name": "Tamara Wilson",
+    "city": "Snyderland",
+    "tier": "plus",
+    "joined_on": "2021-09-11",
+    "lifetime_orders": 23,
+    "return_rate": 0.499,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00361",
+    "display_name": "Wendy Dennis",
+    "city": "West Lindabury",
+    "tier": "standard",
+    "joined_on": "2022-01-12",
+    "lifetime_orders": 135,
+    "return_rate": 0.451,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00362",
+    "display_name": "Erin Hunter",
+    "city": "Shawnhaven",
+    "tier": "standard",
+    "joined_on": "2025-05-10",
+    "lifetime_orders": 134,
+    "return_rate": 0.063,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00363",
+    "display_name": "Angela Watts",
+    "city": "South Craighaven",
+    "tier": "premium",
+    "joined_on": "2026-02-09",
+    "lifetime_orders": 12,
+    "return_rate": 0.095,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00364",
+    "display_name": "Ryan Guerrero",
+    "city": "Lake Courtneybury",
+    "tier": "premium",
+    "joined_on": "2024-06-11",
+    "lifetime_orders": 72,
+    "return_rate": 0.035,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00365",
+    "display_name": "James Hahn",
+    "city": "West Theodore",
+    "tier": "premium",
+    "joined_on": "2023-02-11",
+    "lifetime_orders": 13,
+    "return_rate": 0.342,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00366",
+    "display_name": "Mr. Jonathan Anderson",
+    "city": "New Mercedesborough",
+    "tier": "premium",
+    "joined_on": "2023-06-18",
+    "lifetime_orders": 114,
+    "return_rate": 0.229,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00367",
+    "display_name": "Austin Grant",
+    "city": "Lake Gregory",
+    "tier": "plus",
+    "joined_on": "2024-12-08",
+    "lifetime_orders": 44,
+    "return_rate": 0.294,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00368",
+    "display_name": "Dennis James",
+    "city": "Lake Michael",
+    "tier": "standard",
+    "joined_on": "2022-04-15",
+    "lifetime_orders": 36,
+    "return_rate": 0.542,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00369",
+    "display_name": "Tiffany Humphrey",
+    "city": "West Elizabeth",
+    "tier": "standard",
+    "joined_on": "2022-02-25",
+    "lifetime_orders": 90,
+    "return_rate": 0.469,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00370",
+    "display_name": "Mark Harper MD",
+    "city": "Colinville",
+    "tier": "standard",
+    "joined_on": "2025-06-28",
+    "lifetime_orders": 66,
+    "return_rate": 0.423,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00371",
+    "display_name": "Stephanie Gallagher",
+    "city": "Montesmouth",
+    "tier": "plus",
+    "joined_on": "2023-06-17",
+    "lifetime_orders": 19,
+    "return_rate": 0.546,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00372",
+    "display_name": "Jeffery Thompson",
+    "city": "Donnastad",
+    "tier": "standard",
+    "joined_on": "2024-07-21",
+    "lifetime_orders": 55,
+    "return_rate": 0.371,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00373",
+    "display_name": "Michele Ayala",
+    "city": "Larsenfort",
+    "tier": "standard",
+    "joined_on": "2025-04-07",
+    "lifetime_orders": 128,
+    "return_rate": 0.511,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00374",
+    "display_name": "Melissa Johnson",
+    "city": "Williamchester",
+    "tier": "standard",
+    "joined_on": "2024-01-21",
+    "lifetime_orders": 36,
+    "return_rate": 0.052,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00375",
+    "display_name": "Raymond Green",
+    "city": "Robertmouth",
+    "tier": "standard",
+    "joined_on": "2024-03-17",
+    "lifetime_orders": 36,
+    "return_rate": 0.367,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00376",
+    "display_name": "Dean Brown",
+    "city": "Chandlermouth",
+    "tier": "standard",
+    "joined_on": "2025-01-21",
+    "lifetime_orders": 92,
+    "return_rate": 0.356,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00377",
+    "display_name": "Amber West",
+    "city": "New Nancy",
+    "tier": "standard",
+    "joined_on": "2025-09-19",
+    "lifetime_orders": 110,
+    "return_rate": 0.263,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00378",
+    "display_name": "Penny Rodriguez",
+    "city": "Davidside",
+    "tier": "standard",
+    "joined_on": "2025-08-28",
+    "lifetime_orders": 102,
+    "return_rate": 0.478,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00379",
+    "display_name": "Nathan Lang",
+    "city": "Port Janetstad",
+    "tier": "standard",
+    "joined_on": "2023-06-06",
+    "lifetime_orders": 105,
+    "return_rate": 0.51,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00380",
+    "display_name": "Kristen Pena",
+    "city": "West Amanda",
+    "tier": "standard",
+    "joined_on": "2024-08-17",
+    "lifetime_orders": 7,
+    "return_rate": 0.048,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00381",
+    "display_name": "Dr. Jennifer Robbins",
+    "city": "Lauriestad",
+    "tier": "plus",
+    "joined_on": "2022-12-17",
+    "lifetime_orders": 118,
+    "return_rate": 0.508,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00382",
+    "display_name": "Daniel Quinn",
+    "city": "North Meganhaven",
+    "tier": "standard",
+    "joined_on": "2025-03-15",
+    "lifetime_orders": 111,
+    "return_rate": 0.239,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00383",
+    "display_name": "James Washington",
+    "city": "West Kevin",
+    "tier": "standard",
+    "joined_on": "2021-09-06",
+    "lifetime_orders": 50,
+    "return_rate": 0.246,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00384",
+    "display_name": "Raymond Wright",
+    "city": "Karenfurt",
+    "tier": "premium",
+    "joined_on": "2024-05-07",
+    "lifetime_orders": 44,
+    "return_rate": 0.103,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00385",
+    "display_name": "Bonnie Yang",
+    "city": "Michelleland",
+    "tier": "standard",
+    "joined_on": "2026-02-28",
+    "lifetime_orders": 1,
+    "return_rate": 0.255,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00386",
+    "display_name": "Nathan Farmer",
+    "city": "Smithside",
+    "tier": "standard",
+    "joined_on": "2024-04-16",
+    "lifetime_orders": 138,
+    "return_rate": 0.058,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00387",
+    "display_name": "Brittany Fitzgerald",
+    "city": "Leeport",
+    "tier": "standard",
+    "joined_on": "2025-09-02",
+    "lifetime_orders": 120,
+    "return_rate": 0.084,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00388",
+    "display_name": "Jessica Paul",
+    "city": "Joshuaborough",
+    "tier": "standard",
+    "joined_on": "2025-10-21",
+    "lifetime_orders": 98,
+    "return_rate": 0.163,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00389",
+    "display_name": "Wayne Johnston",
+    "city": "Carterland",
+    "tier": "standard",
+    "joined_on": "2026-04-29",
+    "lifetime_orders": 95,
+    "return_rate": 0.528,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00390",
+    "display_name": "Jason Ramirez",
+    "city": "Rebeccaside",
+    "tier": "standard",
+    "joined_on": "2022-03-15",
+    "lifetime_orders": 75,
+    "return_rate": 0.069,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00391",
+    "display_name": "Janet Kaiser",
+    "city": "Beanside",
+    "tier": "plus",
+    "joined_on": "2024-11-18",
+    "lifetime_orders": 85,
+    "return_rate": 0.266,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00392",
+    "display_name": "Jodi Lane",
+    "city": "South Kelliemouth",
+    "tier": "standard",
+    "joined_on": "2022-10-08",
+    "lifetime_orders": 91,
+    "return_rate": 0.477,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00393",
+    "display_name": "Justin Day",
+    "city": "Douglasland",
+    "tier": "standard",
+    "joined_on": "2026-02-12",
+    "lifetime_orders": 113,
+    "return_rate": 0.044,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00394",
+    "display_name": "Christopher Hancock",
+    "city": "Watkinsland",
+    "tier": "premium",
+    "joined_on": "2026-01-21",
+    "lifetime_orders": 110,
+    "return_rate": 0.022,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00395",
+    "display_name": "Luis Wells",
+    "city": "North Katrina",
+    "tier": "standard",
+    "joined_on": "2021-12-15",
+    "lifetime_orders": 2,
+    "return_rate": 0.395,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00396",
+    "display_name": "Eric Morgan",
+    "city": "North Marc",
+    "tier": "standard",
+    "joined_on": "2023-02-15",
+    "lifetime_orders": 134,
+    "return_rate": 0.521,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00397",
+    "display_name": "Jennifer Smith",
+    "city": "Port Anna",
+    "tier": "plus",
+    "joined_on": "2024-07-23",
+    "lifetime_orders": 119,
+    "return_rate": 0.546,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00398",
+    "display_name": "Jonathan Chung II",
+    "city": "Fletcherhaven",
+    "tier": "standard",
+    "joined_on": "2022-10-15",
+    "lifetime_orders": 51,
+    "return_rate": 0.01,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00399",
+    "display_name": "Nancy Quinn",
+    "city": "South Hollyfurt",
+    "tier": "plus",
+    "joined_on": "2024-06-23",
+    "lifetime_orders": 4,
+    "return_rate": 0.035,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00400",
+    "display_name": "Adam Meyer",
+    "city": "East Jamesville",
+    "tier": "plus",
+    "joined_on": "2021-11-22",
+    "lifetime_orders": 127,
+    "return_rate": 0.151,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00401",
+    "display_name": "Jeff Jackson",
+    "city": "Taylorside",
+    "tier": "premium",
+    "joined_on": "2024-12-31",
+    "lifetime_orders": 89,
+    "return_rate": 0.082,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00402",
+    "display_name": "Adam Wilson",
+    "city": "Jenniferview",
+    "tier": "standard",
+    "joined_on": "2023-03-12",
+    "lifetime_orders": 105,
+    "return_rate": 0.333,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00403",
+    "display_name": "Lisa Watson",
+    "city": "East Kelly",
+    "tier": "standard",
+    "joined_on": "2021-09-20",
+    "lifetime_orders": 99,
+    "return_rate": 0.092,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00404",
+    "display_name": "Rebekah Crane",
+    "city": "Aprilview",
+    "tier": "plus",
+    "joined_on": "2025-10-29",
+    "lifetime_orders": 51,
+    "return_rate": 0.011,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00405",
+    "display_name": "Daniel Rivera",
+    "city": "East Alice",
+    "tier": "standard",
+    "joined_on": "2023-01-21",
+    "lifetime_orders": 99,
+    "return_rate": 0.358,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00406",
+    "display_name": "Alexandra Butler",
+    "city": "South Carlos",
+    "tier": "standard",
+    "joined_on": "2026-06-21",
+    "lifetime_orders": 116,
+    "return_rate": 0.2,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00407",
+    "display_name": "Emily Lopez",
+    "city": "New Stephenville",
+    "tier": "plus",
+    "joined_on": "2024-01-15",
+    "lifetime_orders": 7,
+    "return_rate": 0.384,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00408",
+    "display_name": "John Moore",
+    "city": "Danabury",
+    "tier": "plus",
+    "joined_on": "2022-05-15",
+    "lifetime_orders": 71,
+    "return_rate": 0.168,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00409",
+    "display_name": "Adrian Lee",
+    "city": "Lorichester",
+    "tier": "premium",
+    "joined_on": "2024-09-17",
+    "lifetime_orders": 105,
+    "return_rate": 0.373,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00410",
+    "display_name": "Elizabeth Weber",
+    "city": "Villaside",
+    "tier": "standard",
+    "joined_on": "2024-10-27",
+    "lifetime_orders": 139,
+    "return_rate": 0.497,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00411",
+    "display_name": "Mary Jones",
+    "city": "North Jessica",
+    "tier": "standard",
+    "joined_on": "2024-03-03",
+    "lifetime_orders": 65,
+    "return_rate": 0.517,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00412",
+    "display_name": "Dennis Garcia",
+    "city": "Riverashire",
+    "tier": "standard",
+    "joined_on": "2022-02-22",
+    "lifetime_orders": 72,
+    "return_rate": 0.209,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00413",
+    "display_name": "Tracy Mclaughlin",
+    "city": "Clarktown",
+    "tier": "standard",
+    "joined_on": "2026-02-24",
+    "lifetime_orders": 108,
+    "return_rate": 0.195,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00414",
+    "display_name": "Virginia Davis",
+    "city": "East Fred",
+    "tier": "standard",
+    "joined_on": "2023-11-11",
+    "lifetime_orders": 130,
+    "return_rate": 0.109,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00415",
+    "display_name": "Erica Huang",
+    "city": "East Williammouth",
+    "tier": "plus",
+    "joined_on": "2023-07-13",
+    "lifetime_orders": 91,
+    "return_rate": 0.36,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00416",
+    "display_name": "John Turner",
+    "city": "East Annfurt",
+    "tier": "standard",
+    "joined_on": "2025-02-16",
+    "lifetime_orders": 127,
+    "return_rate": 0.119,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00417",
+    "display_name": "Michelle Kelly",
+    "city": "Alyssaborough",
+    "tier": "plus",
+    "joined_on": "2025-12-27",
+    "lifetime_orders": 81,
+    "return_rate": 0.132,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00418",
+    "display_name": "Theresa Bass",
+    "city": "Port Samuel",
+    "tier": "standard",
+    "joined_on": "2025-07-03",
+    "lifetime_orders": 122,
+    "return_rate": 0.201,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00419",
+    "display_name": "Michael King",
+    "city": "New Rachelstad",
+    "tier": "premium",
+    "joined_on": "2024-01-22",
+    "lifetime_orders": 63,
+    "return_rate": 0.087,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00420",
+    "display_name": "Sean Wyatt",
+    "city": "Jessicaborough",
+    "tier": "standard",
+    "joined_on": "2026-05-10",
+    "lifetime_orders": 56,
+    "return_rate": 0.361,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00421",
+    "display_name": "Sherri Knapp",
+    "city": "South Neil",
+    "tier": "standard",
+    "joined_on": "2025-04-01",
+    "lifetime_orders": 87,
+    "return_rate": 0.477,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00422",
+    "display_name": "Whitney Gonzalez",
+    "city": "Aliciatown",
+    "tier": "standard",
+    "joined_on": "2024-03-08",
+    "lifetime_orders": 82,
+    "return_rate": 0.44,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00423",
+    "display_name": "Erin Bartlett",
+    "city": "Wesleytown",
+    "tier": "plus",
+    "joined_on": "2023-01-27",
+    "lifetime_orders": 137,
+    "return_rate": 0.148,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00424",
+    "display_name": "Amanda Hill",
+    "city": "Sandersview",
+    "tier": "plus",
+    "joined_on": "2021-08-27",
+    "lifetime_orders": 14,
+    "return_rate": 0.252,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00425",
+    "display_name": "Anthony Armstrong",
+    "city": "Port Jenniferfort",
+    "tier": "plus",
+    "joined_on": "2023-04-03",
+    "lifetime_orders": 12,
+    "return_rate": 0.383,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00426",
+    "display_name": "Lynn Henry DDS",
+    "city": "North Mikeberg",
+    "tier": "plus",
+    "joined_on": "2025-10-02",
+    "lifetime_orders": 37,
+    "return_rate": 0.464,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00427",
+    "display_name": "Cassandra Rosales",
+    "city": "South Maryville",
+    "tier": "standard",
+    "joined_on": "2024-07-10",
+    "lifetime_orders": 2,
+    "return_rate": 0.133,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00428",
+    "display_name": "Mark Brown",
+    "city": "Port Amyborough",
+    "tier": "standard",
+    "joined_on": "2022-10-04",
+    "lifetime_orders": 86,
+    "return_rate": 0.308,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00429",
+    "display_name": "Nancy Cook",
+    "city": "Rachaelburgh",
+    "tier": "standard",
+    "joined_on": "2022-09-18",
+    "lifetime_orders": 2,
+    "return_rate": 0.165,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00430",
+    "display_name": "Laurie Blackburn",
+    "city": "Lake Richardton",
+    "tier": "standard",
+    "joined_on": "2026-05-15",
+    "lifetime_orders": 25,
+    "return_rate": 0.171,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00431",
+    "display_name": "Roger Mason",
+    "city": "Christophermouth",
+    "tier": "plus",
+    "joined_on": "2022-10-09",
+    "lifetime_orders": 119,
+    "return_rate": 0.328,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00432",
+    "display_name": "Lee Barker",
+    "city": "Thompsontown",
+    "tier": "standard",
+    "joined_on": "2023-07-25",
+    "lifetime_orders": 58,
+    "return_rate": 0.413,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00433",
+    "display_name": "Justin Wilson",
+    "city": "Carrollland",
+    "tier": "plus",
+    "joined_on": "2024-05-25",
+    "lifetime_orders": 49,
+    "return_rate": 0.043,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00434",
+    "display_name": "Julie Wilson",
+    "city": "East Jessicaburgh",
+    "tier": "plus",
+    "joined_on": "2022-07-15",
+    "lifetime_orders": 37,
+    "return_rate": 0.131,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00435",
+    "display_name": "Mark Smith",
+    "city": "Port Alex",
+    "tier": "standard",
+    "joined_on": "2023-01-02",
+    "lifetime_orders": 103,
+    "return_rate": 0.197,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00436",
+    "display_name": "Julia Wiley",
+    "city": "West Mary",
+    "tier": "plus",
+    "joined_on": "2022-11-08",
+    "lifetime_orders": 112,
+    "return_rate": 0.462,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00437",
+    "display_name": "Stephanie Lee",
+    "city": "West Brian",
+    "tier": "standard",
+    "joined_on": "2024-07-05",
+    "lifetime_orders": 29,
+    "return_rate": 0.381,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00438",
+    "display_name": "Cassandra Taylor",
+    "city": "Robertborough",
+    "tier": "standard",
+    "joined_on": "2026-01-30",
+    "lifetime_orders": 50,
+    "return_rate": 0.305,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00439",
+    "display_name": "Curtis Krause",
+    "city": "Heidiview",
+    "tier": "standard",
+    "joined_on": "2024-06-30",
+    "lifetime_orders": 21,
+    "return_rate": 0.143,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00440",
+    "display_name": "Henry Cox",
+    "city": "Gallegosburgh",
+    "tier": "premium",
+    "joined_on": "2022-04-10",
+    "lifetime_orders": 60,
+    "return_rate": 0.178,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00441",
+    "display_name": "Ruben Cruz",
+    "city": "Lake Ryan",
+    "tier": "standard",
+    "joined_on": "2024-03-05",
+    "lifetime_orders": 89,
+    "return_rate": 0.456,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00442",
+    "display_name": "Melanie Roberts",
+    "city": "Hollyhaven",
+    "tier": "standard",
+    "joined_on": "2025-06-12",
+    "lifetime_orders": 9,
+    "return_rate": 0.508,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00443",
+    "display_name": "Natalie Adams",
+    "city": "West Jeffery",
+    "tier": "standard",
+    "joined_on": "2026-03-18",
+    "lifetime_orders": 28,
+    "return_rate": 0.229,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00444",
+    "display_name": "Thomas Holmes",
+    "city": "South Donald",
+    "tier": "standard",
+    "joined_on": "2024-11-11",
+    "lifetime_orders": 25,
+    "return_rate": 0.549,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00445",
+    "display_name": "Jacqueline Gray",
+    "city": "West Jacquelinestad",
+    "tier": "standard",
+    "joined_on": "2024-04-14",
+    "lifetime_orders": 122,
+    "return_rate": 0.206,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00446",
+    "display_name": "Aimee Fisher",
+    "city": "Matthewville",
+    "tier": "plus",
+    "joined_on": "2023-01-02",
+    "lifetime_orders": 109,
+    "return_rate": 0.142,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00447",
+    "display_name": "Hunter Martin",
+    "city": "Port Andrew",
+    "tier": "plus",
+    "joined_on": "2021-10-30",
+    "lifetime_orders": 132,
+    "return_rate": 0.142,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00448",
+    "display_name": "Joyce Johnston",
+    "city": "Simonfort",
+    "tier": "premium",
+    "joined_on": "2025-05-06",
+    "lifetime_orders": 101,
+    "return_rate": 0.088,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00449",
+    "display_name": "Dawn Brooks",
+    "city": "Timothyfurt",
+    "tier": "premium",
+    "joined_on": "2025-03-11",
+    "lifetime_orders": 60,
+    "return_rate": 0.046,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00450",
+    "display_name": "Wesley Rich",
+    "city": "South Ronaldview",
+    "tier": "standard",
+    "joined_on": "2023-08-02",
+    "lifetime_orders": 87,
+    "return_rate": 0.522,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00451",
+    "display_name": "Jennifer Johnson",
+    "city": "West Olivia",
+    "tier": "standard",
+    "joined_on": "2022-02-02",
+    "lifetime_orders": 80,
+    "return_rate": 0.185,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00452",
+    "display_name": "Terri Gonzalez",
+    "city": "East Elizabeth",
+    "tier": "plus",
+    "joined_on": "2026-03-06",
+    "lifetime_orders": 37,
+    "return_rate": 0.505,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00453",
+    "display_name": "Amy Davis",
+    "city": "Port Michael",
+    "tier": "standard",
+    "joined_on": "2025-02-23",
+    "lifetime_orders": 113,
+    "return_rate": 0.125,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00454",
+    "display_name": "Joe Hopkins",
+    "city": "East Kevin",
+    "tier": "premium",
+    "joined_on": "2023-06-02",
+    "lifetime_orders": 72,
+    "return_rate": 0.43,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00455",
+    "display_name": "David Harris",
+    "city": "Lake Johnside",
+    "tier": "standard",
+    "joined_on": "2026-04-25",
+    "lifetime_orders": 136,
+    "return_rate": 0.526,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00456",
+    "display_name": "Jacqueline Woods",
+    "city": "Coryside",
+    "tier": "standard",
+    "joined_on": "2022-05-10",
+    "lifetime_orders": 75,
+    "return_rate": 0.358,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00457",
+    "display_name": "Melissa Durham",
+    "city": "Guerrabury",
+    "tier": "standard",
+    "joined_on": "2023-08-25",
+    "lifetime_orders": 103,
+    "return_rate": 0.164,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00458",
+    "display_name": "Anne Anderson",
+    "city": "South Kerri",
+    "tier": "standard",
+    "joined_on": "2026-04-16",
+    "lifetime_orders": 45,
+    "return_rate": 0.432,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00459",
+    "display_name": "Sally Cross",
+    "city": "Carlsonside",
+    "tier": "standard",
+    "joined_on": "2022-09-18",
+    "lifetime_orders": 121,
+    "return_rate": 0.199,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00460",
+    "display_name": "John Yang",
+    "city": "East Nicoleburgh",
+    "tier": "standard",
+    "joined_on": "2023-02-27",
+    "lifetime_orders": 17,
+    "return_rate": 0.061,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00461",
+    "display_name": "Jackie Morgan",
+    "city": "New Carolfurt",
+    "tier": "standard",
+    "joined_on": "2024-01-05",
+    "lifetime_orders": 67,
+    "return_rate": 0.107,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00462",
+    "display_name": "Maria Taylor",
+    "city": "North Jason",
+    "tier": "plus",
+    "joined_on": "2023-04-25",
+    "lifetime_orders": 77,
+    "return_rate": 0.137,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00463",
+    "display_name": "Gerald Valdez",
+    "city": "Hernandezport",
+    "tier": "standard",
+    "joined_on": "2022-04-22",
+    "lifetime_orders": 10,
+    "return_rate": 0.377,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00464",
+    "display_name": "Roberto Johnson",
+    "city": "Whitefurt",
+    "tier": "standard",
+    "joined_on": "2025-09-13",
+    "lifetime_orders": 124,
+    "return_rate": 0.065,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00465",
+    "display_name": "Sandra Marshall",
+    "city": "West Ginaville",
+    "tier": "standard",
+    "joined_on": "2025-01-20",
+    "lifetime_orders": 38,
+    "return_rate": 0.376,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00466",
+    "display_name": "Jennifer Roman",
+    "city": "West David",
+    "tier": "standard",
+    "joined_on": "2025-07-25",
+    "lifetime_orders": 33,
+    "return_rate": 0.214,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00467",
+    "display_name": "Melissa Smith",
+    "city": "Hendersonton",
+    "tier": "standard",
+    "joined_on": "2022-02-17",
+    "lifetime_orders": 116,
+    "return_rate": 0.117,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00468",
+    "display_name": "David Walters",
+    "city": "Shawfort",
+    "tier": "standard",
+    "joined_on": "2025-03-22",
+    "lifetime_orders": 37,
+    "return_rate": 0.377,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00469",
+    "display_name": "Sarah Bonilla",
+    "city": "Port Haroldchester",
+    "tier": "standard",
+    "joined_on": "2025-11-13",
+    "lifetime_orders": 126,
+    "return_rate": 0.126,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00470",
+    "display_name": "Janet Leonard",
+    "city": "North Matthew",
+    "tier": "standard",
+    "joined_on": "2026-04-06",
+    "lifetime_orders": 64,
+    "return_rate": 0.218,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00471",
+    "display_name": "Leslie Gonzalez",
+    "city": "Grahammouth",
+    "tier": "plus",
+    "joined_on": "2025-05-08",
+    "lifetime_orders": 56,
+    "return_rate": 0.374,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00472",
+    "display_name": "Bryan Burns",
+    "city": "Brendanstad",
+    "tier": "standard",
+    "joined_on": "2021-10-24",
+    "lifetime_orders": 92,
+    "return_rate": 0.075,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00473",
+    "display_name": "George Phillips",
+    "city": "New Josephport",
+    "tier": "standard",
+    "joined_on": "2021-08-05",
+    "lifetime_orders": 114,
+    "return_rate": 0.354,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00474",
+    "display_name": "Alan Nguyen",
+    "city": "New Danielton",
+    "tier": "standard",
+    "joined_on": "2022-04-10",
+    "lifetime_orders": 96,
+    "return_rate": 0.475,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00475",
+    "display_name": "Jennifer Thompson",
+    "city": "East Jessicafort",
+    "tier": "standard",
+    "joined_on": "2022-01-08",
+    "lifetime_orders": 3,
+    "return_rate": 0.445,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00476",
+    "display_name": "Donald Bonilla",
+    "city": "Port Rebecca",
+    "tier": "standard",
+    "joined_on": "2024-10-17",
+    "lifetime_orders": 134,
+    "return_rate": 0.134,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00477",
+    "display_name": "Samantha Carroll",
+    "city": "North Markton",
+    "tier": "standard",
+    "joined_on": "2023-05-26",
+    "lifetime_orders": 80,
+    "return_rate": 0.351,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00478",
+    "display_name": "William Little",
+    "city": "South Williamland",
+    "tier": "standard",
+    "joined_on": "2024-04-10",
+    "lifetime_orders": 129,
+    "return_rate": 0.22,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00479",
+    "display_name": "Mark Turner",
+    "city": "Johnsonview",
+    "tier": "standard",
+    "joined_on": "2021-12-28",
+    "lifetime_orders": 70,
+    "return_rate": 0.005,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00480",
+    "display_name": "Natalie Miller",
+    "city": "Sanfordborough",
+    "tier": "plus",
+    "joined_on": "2023-11-28",
+    "lifetime_orders": 105,
+    "return_rate": 0.377,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00481",
+    "display_name": "Whitney Gilbert",
+    "city": "Lake Lauren",
+    "tier": "standard",
+    "joined_on": "2022-03-04",
+    "lifetime_orders": 138,
+    "return_rate": 0.391,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00482",
+    "display_name": "John Hodges",
+    "city": "Hillburgh",
+    "tier": "plus",
+    "joined_on": "2026-03-12",
+    "lifetime_orders": 130,
+    "return_rate": 0.053,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00483",
+    "display_name": "Michael Jacobs",
+    "city": "Lake Justin",
+    "tier": "standard",
+    "joined_on": "2026-04-05",
+    "lifetime_orders": 34,
+    "return_rate": 0.246,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00484",
+    "display_name": "Daniel Casey",
+    "city": "West Joseph",
+    "tier": "plus",
+    "joined_on": "2024-04-02",
+    "lifetime_orders": 26,
+    "return_rate": 0.134,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00485",
+    "display_name": "Vanessa Flores",
+    "city": "East Andrew",
+    "tier": "standard",
+    "joined_on": "2026-03-24",
+    "lifetime_orders": 80,
+    "return_rate": 0.088,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00486",
+    "display_name": "Arthur Roberts",
+    "city": "Matthewsmouth",
+    "tier": "standard",
+    "joined_on": "2026-03-28",
+    "lifetime_orders": 44,
+    "return_rate": 0.199,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00487",
+    "display_name": "Karen Grant",
+    "city": "Matthewstad",
+    "tier": "standard",
+    "joined_on": "2026-04-07",
+    "lifetime_orders": 51,
+    "return_rate": 0.377,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00488",
+    "display_name": "Brittany Dickerson",
+    "city": "Clarkburgh",
+    "tier": "plus",
+    "joined_on": "2024-11-15",
+    "lifetime_orders": 134,
+    "return_rate": 0.067,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00489",
+    "display_name": "Dawn Johnson",
+    "city": "Lake Tommystad",
+    "tier": "standard",
+    "joined_on": "2025-02-12",
+    "lifetime_orders": 3,
+    "return_rate": 0.131,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00490",
+    "display_name": "Paul Moreno",
+    "city": "Kellymouth",
+    "tier": "standard",
+    "joined_on": "2022-04-26",
+    "lifetime_orders": 123,
+    "return_rate": 0.545,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00491",
+    "display_name": "John Moore",
+    "city": "New Michael",
+    "tier": "standard",
+    "joined_on": "2025-07-19",
+    "lifetime_orders": 131,
+    "return_rate": 0.326,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00492",
+    "display_name": "Zachary Johnson",
+    "city": "Angelafort",
+    "tier": "standard",
+    "joined_on": "2025-09-08",
+    "lifetime_orders": 48,
+    "return_rate": 0.025,
+    "flagged_for_abuse": true
+  },
+  {
+    "customer_ref": "KW-C-00493",
+    "display_name": "Jaime Medina MD",
+    "city": "North Randyborough",
+    "tier": "standard",
+    "joined_on": "2023-10-09",
+    "lifetime_orders": 26,
+    "return_rate": 0.429,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00494",
+    "display_name": "Laura White MD",
+    "city": "Piercestad",
+    "tier": "plus",
+    "joined_on": "2025-06-21",
+    "lifetime_orders": 30,
+    "return_rate": 0.239,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00495",
+    "display_name": "Jennifer Greene",
+    "city": "Kayleeville",
+    "tier": "standard",
+    "joined_on": "2021-10-27",
+    "lifetime_orders": 137,
+    "return_rate": 0.461,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00496",
+    "display_name": "Melissa Schultz",
+    "city": "Wayneside",
+    "tier": "standard",
+    "joined_on": "2025-06-27",
+    "lifetime_orders": 2,
+    "return_rate": 0.291,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00497",
+    "display_name": "Scott Simpson",
+    "city": "Mitchellmouth",
+    "tier": "standard",
+    "joined_on": "2022-04-09",
+    "lifetime_orders": 68,
+    "return_rate": 0.439,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00498",
+    "display_name": "Shane Ross",
+    "city": "New Mariamouth",
+    "tier": "standard",
+    "joined_on": "2024-09-04",
+    "lifetime_orders": 108,
+    "return_rate": 0.333,
+    "flagged_for_abuse": false
+  },
+  {
+    "customer_ref": "KW-C-00499",
+    "display_name": "Melinda Garcia",
+    "city": "Mccannchester",
+    "tier": "standard",
+    "joined_on": "2024-06-18",
+    "lifetime_orders": 100,
+    "return_rate": 0.452,
+    "flagged_for_abuse": false
+  }
+]

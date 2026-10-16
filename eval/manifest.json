@@ -1,0 +1,72 @@
+{
+  "asset": "Golden evaluation set (M8)",
+  "file": "eval/golden_set_v2.json",
+  "version": "2.2",
+  "derived_from": {
+    "file": "data/shopsense/eval/golden_set.json",
+    "produced_by": "capstone data toolkit (python generate.py --domain shopsense, seed 42, see data/shopsense/manifest.json)",
+    "kept_unchanged": true
+  },
+  "why_replaced": [
+    "Its category mix misses the Data Sourcing Guide's targets for ShopSense (4.4.4): only 3 guardrail and 1 injection case, with 5 multi-hop and 4 unanswerable.",
+    "Several expected answers were model-generated and contradict the policy corpus, so a correct system would have scored as wrong.",
+    "It has no tool-use expectations and no pipeline-component tags, which the course's component-level scoring template needs."
+  ],
+  "category_mix": {
+    "guide_4_4_4_targets": {
+      "factual": "6-7",
+      "guardrail": "5-6",
+      "injection": "3-4",
+      "multi_hop": "3",
+      "unanswerable": "2"
+    },
+    "toolkit_output": {
+      "factual": 7,
+      "guardrail": 3,
+      "injection": 1,
+      "multi_hop": 5,
+      "unanswerable": 4
+    },
+    "golden_set_v2": {
+      "factual": 6,
+      "guardrail": 5,
+      "injection": 4,
+      "multi_hop": 3,
+      "unanswerable": 2
+    }
+  },
+  "corrections_to_generator_answers": [
+    "EV-007: Electronics return window is 15 calendar days (category-electronics.md 2.1), not 14 (kept as SS-F02, corrected).",
+    "EV-009: Furniture return window is 42 days (category-furniture.md 4.8.1), not 30 (kept as SS-F03, corrected).",
+    "EV-010: a domestic metro parcel can be declared lost after 7 consecutive days without a scan, then a 48-hour courier tracer (shipping-policy.md 4.3.1-4.3.2), not '3 to 5 business days' (kept as SS-F04, corrected).",
+    "EV-011: perishable grocery claims must be reported within 4 hours of delivery (category-groceries.md 4.8.5), not 24 (kept as SS-F05, corrected).",
+    "EV-013: refund tiers are in INR (refund-authority.md 4.2): ₹2,001-₹10,000 needs a Team Lead (Tier 2); the case's '$450' was restated in rupees (kept as SS-M02, corrected).",
+    "EV-016: the Sports & Outdoors return window is 45 calendar days (category-sports-outdoors.md 1.1), not 30; opened non-defective items carry a 12% restocking fee (4.1); the Kartway warranty handling period is 90 days, then the manufacturer up to 2 years for branded tents (6.1-6.2) (kept as SS-M03, corrected).",
+    "EV-012 (not used): Apparel & Footwear defect warranty is 180 calendar days (category-apparel.md 4.8.6), not 60.",
+    "EV-014, EV-015 (not used): they rely on a 14-day Electronics window (the policy says 15) and USD amounts (the matrix is in INR).",
+    "EV-018 (not used as unanswerable): the policy answers it - groceries are non-returnable (returns-policy.md 2.4, groceries addendum) - so it is not an unanswerable question.",
+    "EV-008 and EV-019 were correct but dropped to reach the guide's category mix; one route was corrected to human review."
+  ],
+  "each_item_records": [
+    "id",
+    "category",
+    "components",
+    "ticket",
+    "customer_ref (optional)",
+    "expected_route",
+    "expected_risk (held items: one regex per escalation reason)",
+    "expected_facts",
+    "must_cite",
+    "must_not_contain",
+    "reference_answer",
+    "evidence",
+    "source"
+  ],
+  "components": "tool_use 5, retrieval 12, routing 12, final_answer 11, guardrails 20 (every item); expectations for tool use come from the mock order tables and the refund calculator, with the reasoning in each item's evidence",
+  "v2_2_changes": [
+    "SS-G01 (from SHOPSENSE-EV-901): the reference answer had dropped the third-contact trigger that the original expected answer names; restored, and the system now raises it from the customer's own statement ('third time I'm writing'), since the ledger only sees contacts made through ShopSense.",
+    "SS-G01 must_not_contain now includes the original case's phrases ('refund approved', 'processing your refund').",
+    "Held items list their expected escalation reasons (expected_risk), scored by risk_reasons_match, so a ticket that reaches a person for only some of its reasons is caught."
+  ],
+  "checked_by": "python -m shopsense.m8.golden_audit (also a test): every expected answer goes through the reply guardrail's figure check against the documents it cites. eval/golden_set_v2.json: 0/20 problems; data/shopsense/eval/golden_set.json: 7/20 flagged (EV-007, 009, 010, 011, 012, 015, 016)."
+}
