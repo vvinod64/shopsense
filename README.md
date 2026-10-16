@@ -1,17 +1,3 @@
-# ShopSense — Customer Care & Order Operations Assistant
-
-IIT Hyderabad Applied AI capstone, problem statement 4 (Kartway e-commerce marketplace).
-Architecture, guardrails, evaluation results and known limitations: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
-
-![ShopSense high-level architecture](docs/architecture.webp)
-
-## Stack (as taught in the course)
-
-LiteLLM + Gemini · Pydantic · LangChain / LangGraph (SqliteSaver checkpoints, `interrupt()`) ·
-Supermemory · Qdrant Cloud + `gemini-embedding-001` · BM25 + RRF + cross-encoder rerank ·
-FastMCP + `langchain-mcp-adapters` · Langfuse (tracing, scores, experiments) · tenacity ·
-Ragas / DeepEval / TruLens judges · FastAPI.
-
 ## Setup
 
 ```bash
@@ -76,29 +62,6 @@ curl -s localhost:8000/chat -H 'Content-Type: application/json' -H "X-Customer-T
 
 Public demo: `ngrok http 8000` (requires an ngrok authtoken), then point Postman at `<public-url>/chat`.
 
-## Evaluation
-
-- Retrieval (M4): `python -m shopsense.m4.eval [--no-judge] [--no-langfuse]` — precision@k / recall@k / MRR for dense, BM25 alone, hybrid and hybrid+rerank on both the Markdown and the PDF corpus, plus groundedness; scores logged to Langfuse.
-- End to end (M8): `python -m shopsense.m8.eval` — 20-ticket golden set [`eval/golden_set_v2.json`](eval/golden_set_v2.json) through the M5 workflow as a Langfuse experiment, scored per pipeline component as in the course template (`component_scorer`): tool use (`tool_call_match`: order looked up, action, reason code, quoted amount), retrieval (citation recall, keyword hit rate, Ragas ContextPrecisionWithReference, TruLens context relevance), routing (`route_match`), final answer (expected facts, DeepEval G-Eval, Ragas Faithfulness, TruLens groundedness) and guardrails on every item. Reports (with a per-component table) land in `runtime/eval_reports/`.
-- MCP tool layer (M6): `python -m shopsense.m6.tool_eval` (or `python -m shopsense.m6.mcp_server --eval`) — 20 labelled calls to all 8 tools of the order server (`eval/tool_cases.json`, inputs from the mock tables, exact expected outputs), per-tool accuracy; no model calls, logs in a temporary runtime dir.
-- Memory (M3): `python -m shopsense.m3.memory_eval [--offline]` — `eval/memory_cases.json` scored per sub-part: rolling summary keeps order refs, amounts and the stated language; preference recall via `customer_context` (ledger-backed); recall of the preference's long-term copy from Supermemory; third-contact ledger count; reviewer lessons. Live, the summary cases call the configured model and the preference cases use real Supermemory in throwaway `shopsense-eval-<run>-*` containers (polled up to 60 s for indexing, deleted afterwards); `--offline` swaps in a deterministic stub summariser and an in-process store.
-- Intake parser (M1): `python -m shopsense.m1.parser --eval [--limit 20] [--no-langfuse]` — parses the first N intake records (read-only) and scores issue type, sentiment, requires-human and order id against each record's `ground_truth` through explicit mapping tables; per-field accuracy + confusion tables to `runtime/eval_reports/m1_intake_eval_*.json`, per-field scores to Langfuse (`intake-eval:m1_parser`).
-- Multi-agent team (M6) on the golden set: `python -m shopsense.m8.eval --engine team [--no-judges]` — the same 20 tickets and scorers, run through `m6_team.run_ticket` (one MCP session per ticket) instead of the M5 workflow; Langfuse run `team-run-HHMMSS`, report `runtime/eval_reports/m8_eval_team-*.json`. About 12 model calls per ticket, so use `--no-judges` when the daily quota is tight.
-- Golden-set audit (M8): `python -m shopsense.m8.golden_audit [set.json]` — checks every expected answer against the policy documents it cites, with the same figure check as the reply guardrail; our set 0/20 problems, the toolkit's 7/20 (all real errors). No model calls.
-- Guardrails in both directions (M8): `python -m shopsense.guardrails --eval` — 34 labelled replies (`eval/guardrail_cases.json`, 16 good, 18 bad); reports false rejections (good replies blocked) and false approvals (bad replies let through) separately. Rules only by default; `--live` adds the independent reviewer model.
-- Independent judge (M8): `SHOPSENSE_JUDGE_MODEL=groq/llama-3.3-70b-versatile` (or any LiteLLM model from another provider, with its API key) makes the Ragas, DeepEval and TruLens judges a different model family from the system; `SHOPSENSE_REVIEWER_MODEL` does the same for the M6 fact-checker's second opinion. Every judged report records `judge_model` and `judge_independent`.
-- Judge audit (M8): `python -m shopsense.m8.eval --audit-judge-live` runs the G-Eval judge on 20 hand-labelled replies (`eval/judge_audit_cases.json`: for ten golden tickets, one correct reply and one fluent but wrong one) and reports the agreement rate; `--audit-judge <report.json>` compares a run's judge scores with the golden-answer checks.
-- Prompt injection, three layers: `python -m shopsense.guardrails --injection` scores the patterns, the Llama Prompt Guard 2 classifier (Groq) and the reviewer model's judgement on 78 labelled tickets (`eval/injection_cases.json`: intake records by id, golden injections, reworded attacks and look-alike innocent messages), detection and false alarms per layer.
-- Guardrails with the reviewer model: `python -m shopsense.guardrails --eval --live` adds the model-based commitment check (paraphrased promises) to the rules.
-- Canaries and SLOs (M7): `python -m shopsense.m7.canary` (once) or `--every 60`; exit code 2 and an alert on an SLO breach.
-- Operations: `SHOPSENSE_AUTOMATION=paused` sends every ticket to `/tickets/pending` (nothing executes); `/chat` is served by the M6 multi-agent team by default (about 12 model calls, 1-1.5 minutes per ticket on the free tier); `SHOPSENSE_ENGINE=workflow` serves the M5 workflow instead (2-3 calls) with the same approval flow; `python -m shopsense.m5.workflow --expire-overdue` (or `POST /tickets/expire`) closes held tickets older than `SHOPSENSE_APPROVAL_TTL_HOURS`; `python -m shopsense.m8.api --add-reviewer NAME ROLE` creates a named reviewer token; trace payloads are redacted before export, tagged with the model and prompt version, and tail-sampled with `SHOPSENSE_TRACE_SAMPLE_RATE`.
-- All offline checks: `.venv/bin/python -m pytest tests -q` runs the regression tests and every module's self-check.
-- Fault injection (M7): `SHOPSENSE_FAULTS="seed=42,fail=0.2,timeout=0.1,malformed=0.1"` makes the order system flaky for any run.
-- Regression tests (offline, no API keys needed): `.venv/bin/python -m pytest tests -q` (pytest is in the `dev` dependency group, installed by `uv sync`).
-- Other providers: the chat model is a LiteLLM model string, so `LLM_MODEL=openai/gpt-4o-mini` or `anthropic/claude-sonnet-4-5` (plus that provider's API key) switches every milestone and the M8 judges; `tests/test_regressions.py::test_other_providers_go_through_the_same_code` checks the routing offline. Embeddings are a setting too: `SHOPSENSE_EMBED_MODEL` (any LiteLLM embedding model) uses its own Qdrant collection, built with `python -m shopsense.m3.rag`; the default `gemini-embedding-001` index is untouched. Prompts and thresholds were tuned and measured on Gemini.
-- Quotas: Gemini free-tier limits are per model. `SHOPSENSE_LLM_MODEL=gemini/gemini-3.1-flash-lite` overrides `LLM_MODEL` for one run.
-- Before a live demo, clear `runtime/` (or point `SHOPSENSE_RUNTIME_DIR` at an empty folder): refunds recorded by earlier runs count as "already refunded" for the same order, so the order system holds a repeat request for a human.
-- Return windows are measured to today; `SHOPSENSE_AS_OF=YYYY-MM-DD` pins the reference date for reproducible runs.
 
 ## Demo
 

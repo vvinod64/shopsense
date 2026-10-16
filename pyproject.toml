@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Milestone-based agentic customer support with policy RAG, MCP tools and durable human approval"
 readme = "README.md"
 authors = [
-    { name = "sunilk2903", email = "sunil.k2903@atomicmail.io" }
+    { name = "vvinod64", email = "vvinod64@gmail.com" }
 ]
 requires-python = ">=3.13"
 dependencies = [
