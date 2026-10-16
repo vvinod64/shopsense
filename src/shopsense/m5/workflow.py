@@ -35,7 +35,7 @@ from langgraph.types import Command, interrupt  # noqa: E402
 
 MAX_REVISIONS = 2
 CHECKPOINT_DB = RUNTIME_DIR / "checkpoints.sqlite"
-LLM_CALL_PAUSE_SECONDS = float(os.getenv("LLM_CALL_PAUSE_SECONDS", "4"))
+LLM_CALL_PAUSE_SECONDS = float(os.getenv("LLM_CALL_PAUSE_SECONDS", "1"))   # rate-limit errors are retried
 
 
 # State. Every field is a JSON primitive so checkpoints serialise strictly.
@@ -765,8 +765,11 @@ def expire_overdue(now: Optional[datetime] = None) -> list:
 
 def pending_approvals() -> list:
     graph = durable_graph()
-    conn = sqlite3.connect(CHECKPOINT_DB)
-    threads = [r[0] for r in conn.execute("SELECT DISTINCT thread_id FROM checkpoints")]
+    with sqlite3.connect(CHECKPOINT_DB) as conn:
+        # no table until the first ticket is saved
+        if not conn.execute("SELECT 1 FROM sqlite_master WHERE type='table' AND name='checkpoints'").fetchone():
+            return []
+        threads = [r[0] for r in conn.execute("SELECT DISTINCT thread_id FROM checkpoints")]
     return [t for t in threads if graph.get_state(_cfg(t)).next == ("approval",)]
 
 

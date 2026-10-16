@@ -132,7 +132,7 @@ def main() -> None:
         elif line.startswith("/"):
             print("  unknown command; /help lists them")
         else:
-            print(f"  {D}sending... (the free model tier takes up to 2 minutes){X}")
+            print(f"  {D}sending... (the free model tier takes 30-60 s){X}")
             t0 = time.time()
             held = show_reply(client.post("/chat", json={"message": line, "session_id": session},
                                           headers={"X-Customer-Token": token} if token else None), time.time() - t0)

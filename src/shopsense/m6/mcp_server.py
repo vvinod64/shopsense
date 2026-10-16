@@ -137,6 +137,12 @@ def automation_limits() -> str:
 if __name__ == "__main__" and "--eval" in sys.argv:
     from shopsense.m6.tool_eval import evaluate_tools, print_report
     print_report(evaluate_tools())
+elif __name__ == "__main__" and "--http" in sys.argv:
+    # One long-running server for the API (uv run shopsense starts it): clients connect over HTTP instead of
+    # each ticket starting its own server process. Bound to this machine only; the tools have no login.
+    port = int(sys.argv[sys.argv.index("--port") + 1]) if "--port" in sys.argv else 8001
+    print(f"[kartway-orders MCP] serving http://127.0.0.1:{port}/mcp", file=sys.stderr)
+    mcp.run(transport="http", host="127.0.0.1", port=port, show_banner=False)
 elif __name__ == "__main__":
     print("[kartway-orders MCP] starting on stdio", file=sys.stderr)
     mcp.run(transport="stdio", show_banner=False)

@@ -32,7 +32,7 @@ from shopsense.reliability import CircuitOpenError, breaker
 from shopsense.tracing import flush, llm_generation, span, ticket_trace, traced, usage_from_ai_message
 
 MAX_REVISIONS = 2
-LLM_CALL_PAUSE_SECONDS = float(os.getenv("LLM_CALL_PAUSE_SECONDS", "4"))
+LLM_CALL_PAUSE_SECONDS = float(os.getenv("LLM_CALL_PAUSE_SECONDS", "1"))   # rate-limit errors are retried
 REASON_CODES = ("not_delivered", "late_delivery", "damaged", "quality", "wrong_item", "changed_mind")
 
 
@@ -245,6 +245,9 @@ def legal_routes(s: dict) -> set:
 @scoped("supervisor")
 def supervisor_node(state: TeamState) -> dict:
     policy_route, legal = supervisor_policy(state), legal_routes(state)
+    if len(legal) == 1:                  # only one move is allowed: no model call needed to choose it
+        route = next(iter(legal))
+        return {"next_agent": route, "log": [f"supervisor[rule] -> {route}"]}
     out = ask_structured(
         "You coordinate a customer-support team. Choose which single specialist acts next. "
         "You never do the work yourself.",
@@ -609,7 +612,11 @@ def build_team(tools: dict, order_actions=None, checkpointer=None):
 # MCP client
 
 def mcp_client():
+    """The order system's MCP client. With SHOPSENSE_MCP_URL set (uv run shopsense sets it) every ticket talks to
+    one long-running server over HTTP; without it each session starts its own server over stdio (tests, evals)."""
     from langchain_mcp_adapters.client import MultiServerMCPClient
+    if os.getenv("SHOPSENSE_MCP_URL"):
+        return MultiServerMCPClient({"orders": {"transport": "streamable_http", "url": os.environ["SHOPSENSE_MCP_URL"]}})
     # stdio servers get a minimal environment; pass the runtime dir so both sides share it.
     env = {k: os.environ[k] for k in ("PATH", "HOME", "LANG") if k in os.environ}
     env["SHOPSENSE_RUNTIME_DIR"] = str(RUNTIME_DIR)
@@ -735,6 +742,9 @@ async def team_pending() -> list:
         return []
     import sqlite3
     with sqlite3.connect(TEAM_CHECKPOINT_DB) as conn:
+        # the file exists as soon as the checkpointer is opened; its table only after the first saved ticket
+        if not conn.execute("SELECT 1 FROM sqlite_master WHERE type='table' AND name='checkpoints'").fetchone():
+            return []
         threads = [r[0] for r in conn.execute("SELECT DISTINCT thread_id FROM checkpoints")]
     out = []
     for t in threads:

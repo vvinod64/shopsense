@@ -79,7 +79,7 @@ async function send() {
   if (!message) return;
   add("me", message); text.value = ""; sendBtn.disabled = true;
   const typing = document.createElement("div"); typing.className = "typing";
-  typing.textContent = "ShopSense is checking your order and our policies… (this can take up to 2 minutes)";
+  typing.textContent = "ShopSense is checking your order and our policies… (this can take 30-60 seconds)";
   log.appendChild(typing); log.scrollTop = log.scrollHeight;
   const t0 = Date.now();
   try {

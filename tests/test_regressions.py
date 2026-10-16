@@ -1747,3 +1747,20 @@ def test_the_multi_agent_team_serves_customers_by_default(monkeypatch):
     assert api.engine() == "team"
     monkeypatch.setenv("SHOPSENSE_ENGINE", "workflow")
     assert api.engine() == "workflow"
+
+
+def test_team_uses_one_long_running_mcp_server_when_its_address_is_set(monkeypatch):
+    from shopsense.m6.team import mcp_client
+    monkeypatch.setenv("SHOPSENSE_MCP_URL", "http://127.0.0.1:8001/mcp")
+    assert mcp_client().connections["orders"] == {"transport": "streamable_http", "url": "http://127.0.0.1:8001/mcp"}
+    monkeypatch.delenv("SHOPSENSE_MCP_URL")
+    assert mcp_client().connections["orders"]["transport"] == "stdio"        # tests and evals start their own
+
+
+def test_pending_list_works_before_any_ticket_is_saved(tmp_path, monkeypatch):
+    import asyncio
+    import shopsense.m6.team as team
+    empty = tmp_path / "team_checkpoints.sqlite"
+    sqlite3.connect(empty).close()                       # the file exists, the checkpoints table does not
+    monkeypatch.setattr(team, "TEAM_CHECKPOINT_DB", empty)
+    assert asyncio.run(team.team_pending()) == []

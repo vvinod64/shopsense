@@ -28,7 +28,7 @@ from shopsense.tracing import llm_generation, register_prompt, ticket_trace, usa
 
 MAX_ITERATIONS = 8   # a refund flow can take about six tool rounds plus the answer
 # Pause between model calls to stay within the free tier's 15 requests per minute.
-LLM_CALL_PAUSE_SECONDS = float(os.getenv("LLM_CALL_PAUSE_SECONDS", "4"))
+LLM_CALL_PAUSE_SECONDS = float(os.getenv("LLM_CALL_PAUSE_SECONDS", "1"))   # rate-limit errors are retried
 STEP_LIMIT_REPLY = ("Thank you for your patience. I've passed your request to a member of our team, "
                     "who will follow up with you shortly.")
 
